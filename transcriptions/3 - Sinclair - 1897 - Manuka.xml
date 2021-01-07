@@ -1,0 +1,56 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Manuka</q> </title>
+               <author> "Roslyn" (Margaret A. Sinclair) </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+               <publisher>Elliot Stock</publisher>
+               <pubPlace>London</pubPlace>
+               <date>1897</date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl>"Roslyn" [Sinclair, Margaret A.]. <hi rend="italic">The Huia's Homeland, and Other Poems.</hi> London: Elliot Stock, 1897, p. 80. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed, edited, and encoded as part of Settler Environments, which is supported by the Marsden Fund Council from Government funding, managed by Royal Society Te Apārangi. </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+          <lg>
+              <l> Acres on acres of low, hilly, poor land </l>
+              <l> Is the Manuka’s <note> A species of myrtle, also known as tea tree. A low-growing tree that typically grows on poor soils. </note> peculiar domain; </l>
+              <l> Acres on acres like heath on the moorland, </l>
+              <l> White with its blossom, like snow on the plain. </l>
+          </lg>
+           <lg>
+               <l> Acres on acres to battle a path through, <note> Mānuka commonly grows in dense thickets. </note></l>
+               <l> Growing o’erhead like the tall pampas-grass, </l>
+               <l> Wirily branched with prickly foliage; </l>
+               <l> Woe worth the day when the stranger shall pass! </l>
+           </lg>
+           <lg>
+               <l> Acres on acres, and acres on acres, </l>
+               <l> Fire hath swept clean through the length of the land; </l>
+               <l> But the Manuka will ne’er be demolished </l>
+               <l> Until old Neptune comes over the strand. <note> Mānuka readily grows on land that has been cleared for pasture; the poem imagines that only inundation by the sea will prevent it from flourishing. </note> </l>
+           </lg>
+           <lg>
+               <l> Acres on acres like heath o’ the moorland, </l>
+               <l> White with its blossom, like snow on the plain; </l>
+               <l> For the fair sunlighted land of the Maori </l>
+               <l> Is the Manuka’s peculiar domain. </l>
+           </lg>
+       </body>
+   </text>
+
+</TEI>

@@ -1,0 +1,95 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Big Kauri, Waiotahi Creek</q> </title>
+               <author> "Roslyn" (Margaret A. Sinclair) </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+               <publisher>Elliot Stock</publisher>
+               <pubPlace>London</pubPlace>
+               <date>1897</date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl>Sinclair, Margaret A. (“Rosyln”). <hi rend="italic">The Huia's Homeland, and Other Poems.</hi> London: Elliot Stock, 1897, pp. 11-13</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Dear poet, who sang of the forest primeval, </l> <note> The poem addresses Henry Wadsworth Longfellow, author of <hi rend="italic"> Evangeline, A Tale of Acadie </hi> (1847) </note>
+                <l> Leaving the gay world, I’d wander with thee— </l>
+                <l> Ay, wander afar, where no castle medieval </l>
+                <l> Rears its gray turrets on crags by the sea, </l>
+                <l> Seeking the shade of the great Kauri-tree. </l>
+            </lg>
+            <lg>
+                <l> Dear poet, who sang of the forest primeval, </l>
+                <l> Reared in its silence, impressive, profound, </l>
+                <l> When axes, the echoes of Lebanon waking, </l> <note> The Bible describes King Solomon's use of Lebanese cedars in the construction of the Temple (1 Kings 5). </note> 
+                <l> Felled her proud cedars in scores to the ground, </l>
+                <l> Thy leaves were unstirred by a treacherous sound. </l>
+            </lg>
+            <lg>
+                <l> When Gothic wolves ravaged the banks of old Tiber, </l> <note> Possibly a reference to the Sack of Rome in 546 C.E., during the Gothic War. </note>
+                <l> When Druids’ dread holocaust smirched Britain’s sky, </l> <note> Burnt human sacrifice was attributed to the Druidic culture of Pre-Roman Britain. </note>
+                <l> When the halter of Judas was growing green fibre, </l> <note> The Bible records that Judas Iscariot hanged himself after betraying Jesus Christ (Matthew 27:5). </note>
+                <l> When zealous Crusaders to <sic>Achoe</sic> drew nigh, </l> <note> Likely a reference to the conquest of the city of Acre in 1191 C.E., during the Third Crusade. </note>
+                <l> Undreamt of, remote, passed thy lone infancy. </l>
+            </lg>
+           <lg>
+               <l> When once-favoured Raleigh in prison lay pining, </l> <note> Sir Walter Raleigh was knighted by Queen Elizabeth in 1585, but was imprisoned by her in the Tower of London in 1591 for marrying without her permission. </note>
+               <l> When Plymouth folk wept as the stanch <hi rend="italic"> Mayflower </hi> sailed, </l> <note> A reference to the Pilgrim settlers who sailed for North America in 1620. </note>
+               <l> When fires of rebellion from Versaille were shining, </l>
+               <l> When vengeance the grim, frowning Bastille assailed, </l> <note> Versaille and the Bastille were pivotal locations during the French Revolution of 1789. </note>
+               <l> Earth-fed and sun-strengthened, thy stature prevailed. </l>
+           </lg>
+           <lg>
+               <l> When Liberty, outraged, in anger and sorrow, </l>
+               <l> Blew her loud reveille o’er Florida’s flowers, </l> <note> Likely a reference to the American revolutionary war, 1775-1783. </note>
+               <l> Each day was as calm as its placid to-morrow, </l>
+               <l> Gliding white-souled through these virginal bowers: </l>
+               <l> In soundless procession past thee trooped the hours. </l>
+           </lg>
+           <lg>
+               <l> O glory of nature! O relic of ages! </l>
+               <l> Firm as the granite thou seemest to be. </l>
+               <l> Still harmlessly round thee the tempest oft rages; </l>
+               <l> Long may the fire-fiend be warded from thee, </l> <note> A reference to the prevalence of forest fires in colonial New Zealand. </note>
+               <l> Long may the life-sap still rise in our tree! </l>
+           </lg>
+           <lg>
+               <l> Old England may boast of her oak-trees that flourish </l>
+               <l> On woodland and lea, and exult in their fame; </l>
+               <l> California’s bayou and <sic>canon</sic> may nourish </l>
+               <l> Proud Wellingtonia’s <note> i.e. redwood </note> unrivalled claim— </l>
+               <l> Towards thee Thames <note> Waiotahi Creek, mentioned in the poem's title, is in the Thames region of the North Island of New Zealand. </note> hearts will beat ever the same. </l>
+           </lg>
+           <lg>
+               <l> Hist! Hark! From thy top growth that melody falling, </l>
+               <l> Dulcet, staccato, scarce heard, ere ‘tis done— </l>
+               <l> The shy Korimako <note> Korimako. Also known as the bellbird due to its melodious call. </note> its shyer mate calling </l>
+               <l> With bell note to vespers at setting of sun, </l>
+               <l> Ere Kiwi and Morepork <note> Morepork. The ruru, a New Zealand species of owl. </note> cries have begun. </l>
+          </lg>
+           <lg>
+               <l> Dear poet, who sang of the forest primeval, </l>
+               <l> Oh, had thy mantle but fallen on me— </l>
+               <l> Even though I dwell where no castle medieval </l>
+               <l> Rears its gray turrets on crags by the sea— </l>
+               <l> Fame, like the Rata, <note> Rata. A species of tree, infamous for beginning its life as an epiphyte that strangles its host tree as its roots grow down to the ground. </note> had wreathed our grand tree. </l>
+            </lg>
+       </body>
+   </text>
+
+</TEI>

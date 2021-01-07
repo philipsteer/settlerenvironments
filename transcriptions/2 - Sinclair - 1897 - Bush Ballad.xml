@@ -1,0 +1,105 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Bush Ballad</q> </title>
+               <author> "Roslyn" (Margaret A. Sinclair) </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+               <publisher>Elliot Stock</publisher>
+               <pubPlace>London</pubPlace>
+               <date>1897</date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl>"Roslyn" [Sinclair, Margaret A.]. <hi rend="italic">The Huia's Homeland, and Other Poems.</hi> London: Elliot Stock, 1897, pp. 9-11. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed, edited, and encoded as part of Settler Environments, which is supported by the Marsden Fund Council from Government funding, managed by Royal Society Te Apārangi. </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+          <lg>
+                <l> Away in the dim New Zealand Bush, </l>
+                <l> Where the Korimako <note> Also known as the bellbird due to its melodious call. </note> sings, </l>
+                <l> We rode, where the feathery Pungas <note> A species of tree fern. </note> spread </l>
+                <l> And the graceful Rimu <note> A species of conifer distinguished by its drooping branches and patterned bark. </note> springs; </l>
+                <l> With hills to the east, and hills to the west, </l>
+                <l> In billowing verdure clad, </l>
+                <l> While the hidden force of the watercourse </l> 
+                <l> Was seen in the lush growth glad. </l>
+            </lg>
+           <lg>
+                <l> We rode by a valley of Nikaus, <note> A species of palm tree with distinctive red berries. </note> all </l>
+                <l> Majestic, slender, and high, </l>
+                <l> Crowned with their pendulous fronds, and tall </l>
+                <l> As palms ‘neath an Asian sky. </l>
+                <l> With scarlet berries instead of dates, </l>
+                <l> In the tender light serene </l>
+                <l> A vision of grace was that Nikau vale, </l>
+                <l> Fit home for the fairy queen. </l>
+           </lg>
+           <lg>
+                <l> We rode by a valley of Pungas all, </l>
+                <l> And watched as the wandering breeze </l>
+                <l> Whispered the stately and played with the small, </l>
+                <l> Like a conqueror bland at ease. </l>
+                <l> And down through the hush of the lonely Bush, </l>
+                <l> Heard over the Kowhai <note> A species of tree with a distinctive yellow flower. </note> float, </l>
+                <l> Abruptly sweet as a silver bell, </l>
+                <l> The Tui’s <note> A species of bird, related to the korimako, also known for its melodious song. </note> repeated note. </l>
+           </lg>
+           <lg>
+                <l> Still gaily we rode right gaily on, </l>
+                <l> ‘Neath the overarching shade; </l>
+                <l> Over the giant roots so brown, </l>
+                <l> Over the creeks, and up and down, </l>
+                <l> Till we reached the Kauri glade. </l>
+           </lg>
+           <lg>
+                <l> But there we were fain to draw the rein, </l>
+                <l> And, lingering, gaze with pride </l>
+                <l> On each massive form which had braved the storm </l>
+                <l> In brotherhood side by side. </l>
+           </lg>
+           <lg>
+               <l> Aurora’s car <note> The sun. </note> ye may follow afar </l>
+                <l> Without seeing sight so grand, </l>
+                <l> Without feeling the spell of that far-away dell </l>
+                <l> Where the kingly Kauri’s [sic] stand. </l>
+           </lg>
+           <lg>
+                <l> Oh, grimly gray on the sunniest day </l>
+                <l> They rear their sun-seeking height, </l>
+                <l> At the top to allow in each wide-spreading bough </l>
+                <l> Close leafage to catch the light. </l>
+           </lg>
+           <lg>
+                <l> Through the summer’s cheer, through winter drear, </l>
+                <l> The winds and the zephyrs roam </l>
+                <l> Down the grave pillared aisle, while the pale moon-beam’s smile </l>
+                <l> Illumines the fretted dome. </l>
+           </lg>
+           <lg>
+                <l> For like carven stone, through the long years grown, </l>
+                <l> Symmetric and noble stands, </l>
+                <l> With glory and power in each turret and tower, </l>
+                <l> This temple not made by hands. </l>
+           </lg>
+           <lg>
+                <l> Ye may wander or rest from east to west, </l>
+                <l> From north to south ye may go, </l>
+                <l> Without feeling the spell of that lone charmed dell </l>
+                <l> Where the kingly Kauris grow. </l>
+            </lg>
+       </body>
+   </text>
+
+</TEI>

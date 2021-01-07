@@ -1,0 +1,94 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Rangi and Papa</q> </title>
+               <author> "Jessica" (Jessie McKay) </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+               <publisher><hi rend="italic">Zealandia: A Monthly Magazine of New Zealand Literature by New Zealand Authors</hi></publisher>
+               <pubPlace>Dunedin</pubPlace>
+               <date>1889</date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl>Jessica (Jessie McKay). “Rangi and Papa.” <hi rend="italic">Zealandia</hi>, vol. 1, no. 6, 1889, pp. 330-331.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+    <text>
+        <front>
+            <div type="preface">
+                <p>[The story of Rangi and Papa <note>Ranginui, the sky father, and Papatūānuku, the earth mother.</note> is told with different details by collectors of Maori lore; but the main facts of the legend are these:—Rangi and Papa were the primeval pair from whom descended not only the race of men, but the other powers of the world, both vegetable and animal. In their anger at being kept in darkness, all their children, except the God of the winds, rebelled and pushed their father Rangi up into the sky, and left Papa below. Thus husband and wife were separated for ever, but their love and sorrow still continue. Their descendant Maui <note>A legendary Polynesian trickster hero.</note> is generally regarded as the Maori Adam; his exploits in fishing up the North Island of New Zealand, and in noosing and wounding the sun and moon that the earth might not want light, are famous in Maori tradition.] <note>The headnote is by McKay.</note></p>
+                <p></p>
+            </div>
+        </front>
+        
+        <body>
+            <lg>
+               <l> “Low there, Papa, thou liest; ah for the ages of moons </l>
+                <l> That Rangi dwells in the Vast, the Clear, sung in Hawaikan <note>According to Māori tradition, the source of all human life.</note> runes! </l>
+               <l> O Papa, the Earth Mother! Alas, my grief for thee! </l>
+            </lg>
+            <lg>
+                <l> Cursëd be Haumia-tiki; <note>Haumietiketike, the god of uncultivated food.</note> be Rongo-Matane <note>Rongomātāne, the god of cultivated food.</note> accursed; </l>
+                <l> And the Lizard-God, Tangaroa; <note>The god of sea and fish.</note> very evil, as at the first— </l>
+                <l> My tears drop on thee, Papa; my tears are the dews of the night. </l>
+            </lg>
+            <lg>
+                <l> Cursëd be Tane-Mehuta, <note>Tāne-mahuta, god of forests and birds.</note> [sic] the God of the Forest, for he </l>
+                <l> With his strong sons the Kauris thrust me forth for ever to be </l>
+                <l> Here in the lone blue waste, and the stars for ever between! </l>
+            </lg>
+            <lg>
+                <l> Cursëd above all others be Tu-ma-tauenga <note>Tūmatauenga, god of people and war.</note> the red, </l>
+                <l> Father of men and of slaughter, God of the ghastly head, </l>
+                <l> Who broke the peace primeval, and warred on his brothers and me. </l>
+            </lg>
+            <lg>
+                <l> Tu-ma-tauenga the War-God, whose red dripping fingers bear </l>
+                <l> The spear for the heart of thy brothers, who flee to the earth and the air,</l>
+                <l> Take thou the light desired; let it blind thee and burn thee to dust! </l>
+            </lg>
+            <lg>
+                <l> Homeless and crownless, but faithful, Tawhiri-Matea, <note>Tāwhirimātea, god of wind and weather.</note> my son, </l>
+                <l> Free God of the Wind and the Storm,—he fought the good fight unwon. </l>
+                <l> Hear him, Papa, Earth-Mother; he moans on thy breast in grief. </l>
+            </lg>
+            <lg>
+                <l> Low there, Papa, thou liest; my tears fall in the rain; </l>
+                <l> But my voice dies down in space, and the sunbeams wax and wane; </l>
+                <l> O for the night Primeval! O Papa, my grief for thee!” </l>
+            </lg>
+            <lg>
+                <l> “Thou are higher above me Rangi, than the stars Nga Whetu <note>Nga whetū, the stars.</note> are; </l>
+                <l> The sky is of stone, relentless, and the earth is red with war— </l>
+                <l> O Rangi, the Heaven-Father! I have wept till my heart is tears. </l>
+            </lg>
+            <lg>
+                <l> Long are the ages, Rangi; Maui has come and has died; </l>
+                <l> He has conquered the Sun and the Moon the isles where men abide </l>
+                <l> He has given; but O my pain! It ceases not with the years. </l>
+            </lg>
+            <lg>
+                <l> I have wrapped me in sorrow and love; the white mist wan and fleet </l>
+                <l> Dumbly I send to thee; it dies ere it reaches thy feet— </l>
+                <l> Sweet was the Night of Peace when the world was a sleeping child </l>
+            </lg>
+            <lg>
+                <l> Heart of my heart, I am weary, the widowed mother of all; </l>
+                <l> The stars tell naught of thee, Rangi; the moon is deaf to my call— </l>
+                <l> O Rangi, the Heaven-Father! O my sorrow for thee!” </l>
+            </lg>
+        </body>
+    </text>
+    
+</TEI>

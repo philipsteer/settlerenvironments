@@ -1,0 +1,72 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Waihou</q> </title>
+               <author> "Roslyn" (Margaret A. Sinclair) </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+               <publisher>Elliot Stock</publisher>
+               <pubPlace>London</pubPlace>
+               <date>1897</date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl>"Roslyn" [Sinclair, Margaret A.]. <hi rend="italic">The Huia's Homeland, and Other Poems.</hi> London: Elliot Stock, 1897, pp. 17-18. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed, edited, and encoded as part of Settler Environments, which is supported by the Marsden Fund Council from Government funding, managed by Royal Society Te Apārangi. </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+            <lg>
+              <l> Peacefully, tranquilly, on to the sea— </l>
+              <l> Flow, river, flow; </l>
+              <l> Music, thy soft dreamy murmur shall be— </l>
+              <l> Flow, river, flow. </l>
+              <l> Once on thy green banks I stood not alone; </l>
+              <l> Once here I listened to friendship’s sweet tone; </l>
+              <l> Pleasure and sorrow since then I have known— </l>
+              <l> Flow, river, flow. </l>
+            </lg>
+            <lg>
+               <l> Time, like thy current, rolls ceaselessly on— </l>
+               <l> Flow, river, flow; </l>
+               <l> Mournful or happy, the days are soon gone— </l>
+               <l> Flow, river, flow. </l>
+               <l> Sometimes how radiant is Life’s azure sky, </l>
+               <l> Sometimes across it how sullen clouds fly! </l>
+               <l> Onward, like thee, through all change we must hie— </l>
+               <l> Flow, river, flow. </l>
+            </lg>
+            <lg>
+                <l> On to thy rest in the ocean of blue— </l>
+                <l> Flow, river, flow; </l>
+                <l> Gliding so swiftly away beyond view— </l>
+                <l> Flow, river, flow. </l>
+                <l> Will every ripple keep sparkling and bright, </l>
+                <l> Glancing and flashing in golden sunlight? </l>
+                <l> Nay, for soon cometh the shadowing night— </l>
+                <l> Flow, river, flow. </l>
+            </lg>
+           <lg>
+               <l> Sages find lessons of wisdom in thee— </l>
+               <l> Flow, river, flow; </l>
+               <l> Memories fond have endeared thee to me— </l>
+               <l> Flow, river, flow. </l>
+               <l> There by thy side the dim twilight I’d spend; </l>
+               <l> Well with my musing thy rhythm doth blend; </l>
+               <l> Onward and nearer thou’lt be to my friend— </l>
+               <l> Flow, river, flow. </l>
+           </lg>
+       </body>
+   </text>
+    
+</TEI>

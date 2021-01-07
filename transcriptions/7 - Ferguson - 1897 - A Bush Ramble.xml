@@ -1,0 +1,140 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>A Bush Ramble</q> </title>
+               <author> Dugald Ferguson </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+               <publisher> James Horsburgh </publisher>
+               <pubPlace> Dunedin </pubPlace>
+               <date>1897</date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Ferguson, Dugald.  <hi rend="italic">Poems of the Heart</hi>. Dunedin: James Horsburgh, 1897, pp. 49-51. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> The weather’s gay—a Summer’s day, </l>
+               <l> Then for a while give trouble best, </l>
+               <l> And Nature fair home in her lair, </l>
+               <l> To interview now make your quest. </l>
+           </lg>
+           <lg>
+               <l> So banish fears, and ope’ your ears </l>
+               <l> Unto the music of the birds, </l>
+               <l> Whose gladsome lays, of <sic>byegone</sic> days </l>
+               <l> When life was young, strike answering chords. </l>
+           </lg>
+           <lg>
+               <l> When Summer beams, and sunny dreams, </l>
+               <l> To minds by cares then unperplexed, </l>
+               <l> And ‘mong the woods the nestling broods </l>
+               <l> To seek, were draughts of bliss unmixed. </l>
+           </lg>
+           <lg>
+               <l> Now have a care, for here and there </l>
+               <l> The stumps impeded the open cleared; </l>
+               <l> Till now within this leafy screen, </l>
+               <l> Stumps, plain, and sun have disappeared. </l>
+           </lg>
+           <lg>
+               <l> And, now, just hark, ‘mong leaves and bark, </l>
+               <l> From flutt’ring forms and climbers free, </l>
+               <l> Yon tuneful throng of choral song, </l>
+               <l> Like Summer’s joyous heraldry. </l>
+           </lg>
+           <lg>
+               <l> For here are met, in sweet duet, </l>
+               <l> The Robin’s chirp and Lintie’s trill, </l>
+               <l> And Mocking Bird, with Fantail heard, </l>
+               <l> And parroquets green, clamouring shrill. </l>
+           </lg>
+           <lg>
+               <l> Canaries wild, here unbeguiled, </l>
+               <l> All round are twitt’ring joyously; </l>
+               <l> While tiny Tit, with music smit, </l>
+               <l> Swells the sweet sylvan symphony. </l>
+           </lg>
+           <lg>
+               <l> While high above each choral grove, </l>
+               <l> Of ev’ry tint and flutt’ring wing, </l>
+               <l> The Tui’s notes, from fuller throats, </l>
+               <l> Loud, rich and clear and heard to ring. </l>
+           </lg>
+           <lg>
+               <l> With groves in kind, wild flowers wined— </l>
+               <l> To grace the scene what charms pay tax— </l>
+               <l> The silence woke, <sic>whiles</sic> by the stroke </l>
+               <l> Of some far bushman’s echoing axe. </l>
+           </lg>
+           <lg>
+               <l> The sunny calm—the Muse’s balm— </l>
+               <l> (Sweet muse <hi rend="italic">my</hi> balm in many a woe), </l>
+               <l> Or Summer’s gale, that to inhale </l>
+               <l> Seems like a draught of long ago. </l>
+           </lg>
+           <lg>
+               <l> The tow’ring pines, with clinging vines, </l>
+               <l> That like some temple makes the wood; </l>
+               <l> With solemn aisles—deep opening whiles— </l>
+               <l> The chosen home of solitude. </l>
+           </lg>
+           <lg>
+               <l> With fragrance lush, deep grows the bush, </l>
+               <l> From <sic>fuschias</sic> and clematis gay; </l>
+               <l> While down unpruned, in clumps festooned, </l>
+               <l> The pendant foliage blocks the way. </l>
+           </lg>
+           <lg>
+               <l> How fitting here, from fate austere </l>
+               <l> And nauseous views, to hide one’s self— </l>
+               <l> The sordid crowd, the money proud, </l>
+               <l> Who rate men, not by worth, but pelf. </l>
+           </lg>
+           <lg>
+               <l> There in a cot, and small cleared lot, </l>
+               <l> With Nature’s sweet similitudes; </l>
+               <l> Made ever glad, yet musing sad, </l>
+               <l> O’er a past life’s vicissitudes. </l>
+           </lg>
+           <lg>
+               <l> The prospects fled, the dear loved dead, </l>
+               <l> And friendship’s o’er strained broken bow, </l>
+               <l> That loving darts to answering hearts </l>
+               <l> Shot late, but laid by useless now. </l>
+           </lg>
+           <lg>
+               <l> But dreamer, hey! come, rouse up, pray! </l>
+               <l> ‘Tis time that we were sauntering home; </l>
+               <l> The weka’s squeal, weird, lone, and shrill, </l>
+               <l> Proclaims that evening’s shades have come. </l>
+           </lg>
+           <lg>
+               <l> The gloaming grey now shades the way, </l>
+               <l> Then keep a sharp eye on the track, </l>
+               <l> Lest ‘midst this routh of undergrowth </l>
+               <l> You haply miss the right way back. </l>
+           </lg>
+           <lg>
+               <l> You’re wrong, I fear. O no! see here, </l>
+               <l> Just straight ahead the open plain </l>
+               <l> Is gleaming through, and with its view </l>
+               <l> Return my worldly cares again. </l>
+           </lg>
+       </body>
+   </text>
+    
+</TEI>

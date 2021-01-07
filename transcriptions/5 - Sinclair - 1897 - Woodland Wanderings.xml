@@ -1,0 +1,116 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Woodland Wanderings</q> </title>
+               <author> "Roslyn" (Margaret A. Sinclair) </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+               <publisher>Elliot Stock</publisher>
+               <pubPlace>London</pubPlace>
+               <date>1897</date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl>"Roslyn" [Sinclair, Margaret A.]. <hi rend="italic">The Huia's Homeland, and Other Poems.</hi> London: Elliot Stock, 1897, pp. 29-30. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed, edited, and encoded as part of Settler Environments, which is supported by the Marsden Fund Council from Government funding, managed by Royal Society Te Apārangi. </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+            <lg>
+                <l> I roamed through the Bush to-day </l>
+                <l> Where fantastic shadows fell, </l>
+                <l> And over the boulders gray </l>
+                <l> Rushed a creek through the ferny dell. </l>
+            </lg>
+           <lg>
+               <l> I climbed o’er the jagged ledge </l>
+               <l> To watch the waterfall, </l>
+               <l> With its far-down verdant sedge </l>
+               <l> And stony, fern-clad wall. </l>
+           </lg>
+           <lg>
+               <l> Then across the fallen trees, </l>
+               <l> With elastic step and fleet, </l>
+               <l> While o’erhead there passed a breeze </l>
+               <l> Intoning low and sweet. </l>
+           </lg>
+           <lg>
+               <l> Through lacing boughs wide spread, </l>
+               <l> There glinted the summer sky, </l>
+               <l> And crisply beneath my tread </l>
+               <l> Rustled twigs and branches dry. </l>
+           </lg>
+           <lg>
+               <l> With shrinking hand I took </l>
+               <l> Rare fragile ferns away </l>
+               <l> From their home, a sheltered nook, </l>
+               <l> Meet haunt for elf and fay. </l>
+           </lg>
+           <lg>
+               <l> ‘Twas a dell at a mountain’s foot, </l>
+               <l> And I strove to gain the height </l>
+               <l> By clinging to many a root </l>
+               <l> Of fibrous network tight. </l>
+           </lg>
+           <lg>
+               <l> There drooped the graceful fold </l>
+               <l> Of the lithesome Rata vine; <note> Rata vine. Rata is a species of tree, infamous for beginning its life as an epiphyte that strangles its host tree as its roots grow down to the ground. </note> </l>
+               <l> Round trees majestic, old, </l>
+               <l> Festoons of ivy twine. </l>
+           </lg>
+           <lg>
+               <l> I rested beneath the shade </l>
+               <l> Of the Nikau’s waving frond, <note> Nikau. A species of palm tree with distinctive red berries. </note> </l>
+               <l> In a wild romantic glad, </l>
+               <l> While the world seemed far beyond; </l>
+           </lg>
+           <lg>
+               <l> There heard a harp-like sound, </l>
+               <l> So liquid, dulcet, clear, </l>
+               <l> Chime with the stream’s rebound, </l>
+               <l> And knew the Tui <note> Tui. A species of bird known for its melodious song. </note> near. </l>
+           </lg>
+           <lg>
+               <l> And a strangely restful calm </l>
+               <l> O’er all did sweetly breathe, </l>
+               <l> For care a sovereign balm, </l>
+               <l> Excelling lotus wreath. </l>
+           </lg>
+           <lg>
+               <l> Then sportive Fancy led </l>
+               <l> Staid, sober thoughts away; </l>
+               <l> How swift and far they sped </l>
+               <l> ‘Twere difficult to say. </l>
+           </lg>
+           <lg>
+               <l> The mystic eager guide </l>
+               <l> No halt nor tarrying made </l>
+               <l> Where rapid rivers glide, </l>
+               <l> Nor moor nor mountain stayed. </l>
+           </lg>
+           <lg>
+               <l> Oh, happy morning dreams, </l>
+               <l> Still ending brightly, well, </l>
+               <l> Creek, songster, sunny gleams, </l>
+               <l> Your charms I cannot tell. </l>
+           </lg>
+           <lg>
+               <l> But safe within the heart, </l>
+               <l> Enshrined ‘mong treasures dear </l>
+               <l> A picture bright though art </l>
+               <l> To solace and to cheer. </l>
+           </lg>
+       </body>
+   </text>
+    
+</TEI>

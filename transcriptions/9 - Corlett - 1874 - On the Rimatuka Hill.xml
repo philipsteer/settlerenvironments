@@ -1,0 +1,128 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>On the Rimatuka Hill</q> </title>
+               <author> Theresa Corlett </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+               <publisher>Robert Burrett</publisher>
+               <pubPlace>Wellington</pubPlace>
+               <date>1874</date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl>Corlett, Theresa. “On the Rimatuka Hill.” <hi rend="italic">Claribel and Other Poems </hi> (Wellington: Robert Burrett, 1874), pp. 66-68.</bibl>
+            </sourceDesc>
+        </fileDesc> 
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> I stood upon a narrow ledge of earth, </l>
+               <l> Cunningly fashioned by the hand of man, </l>
+               <l> Into a road, <note> Road. A steep road over the Remutaka Range, which divides Wellington from the plains of the Wairarapa, had first been created in the 1840s. </note> which like a serpent trailed, </l>
+               <l> And wound along in sinuous winding track, </l>
+               <l> Now straight as arrow thrown, now shrinking darkly </l>
+               <l> Into a narrow bend as tho’ in fear. Again </l>
+               <l> ‘Twould forward straightly run, higher and higher, </l>
+               <l> Hugging the side of that stupendous hill. </l>
+           </lg>
+           <lg>
+               <l> I stood upon the ledge—and sloping down </l>
+               <l> Beneath my feet, forests of trees and shrubs </l>
+               <l> And towering fern, and stately cabbage-tree, </l>
+               <l> And everywhere the wild white native flowers </l>
+               <l> In rich profusion grew. Berries of Rata plant, </l>
+               <l> Whose scarlet beauty mingled with the dark </l>
+               <l> And glossy green of its imperial tree, </l>
+               <l> Glistened and lit the darkness of the whole. </l>
+               <l> Sloped in one vast descent hundreds of feet, </l>
+               <l> Until the verdure met the river bed </l>
+               <l> And kissed its waters. </l>
+               <l> Upwards then arose </l>
+               <l> Upon the further side, one long unbroken chain, </l>
+               <l> Of dark and mighty trees, rising to Heaven’s dome, </l>
+               <l> And stretching miles away. A living range </l>
+               <l> Of undulating verdure, clothed in every shade </l>
+               <l> Of rare and choicest green. </l>
+               <l> The lustrous tints </l>
+               <l> Of pale pure colour on the younger leaves, </l>
+               <l> Through which the sun’s reflected light appeared </l>
+               <l> Making them shine transparent. Then the shade </l>
+               <l> Of older leaflets. That bright middle tint, </l>
+               <l> The which is seen upon the grass in spring </l>
+               <l> After the rain hath fall’n. Again the sombre green </l>
+               <l> Upon the perfectly developed leaves, </l>
+               <l> Mingled together, in rich beauty forming </l>
+               <l> One vast and splendid panorama </l>
+               <l> Radiant in tinted loveliness, and bearing </l>
+               <l> On it the impress of the hand of God. </l>
+           </lg>
+           <lg>
+               <l> As mine eye travelled on, I marked where man </l>
+               <l> With devastating hand had marred the glory </l>
+               <l> Of this fair wooded scene. Thousands of trees </l>
+               <l> Threw up their blackened arms to Heaven’s vault, </l>
+               <l> Like ghastly demons in their fell despair </l>
+               <l> Demanding vengeance on destroying man. </l>
+           </lg>
+           <lg>
+               <l> I stood upon that narrow ledge, and looked, </l>
+               <l> Until my spirit left its tenement, </l>
+               <l> Roaming far, far away over the scene, </l>
+               <l> Going beyond all space to commune with </l>
+               <l> Another spirit watching there for mine. </l>
+           </lg>
+           <lg>
+               <l> The spirit said to mine “cast down thine eyes </l>
+               <l> Upon the works of God beneath thy feet; </l>
+               <l> Thou standest there upon the ledge of rock </l>
+               <l> A speck, an atom ‘midst His wondrous works. </l>
+               <l> Can’st thou with head uplifted and erect, </l>
+               <l> Not feel the influence of the scene before thee?” </l>
+               <l> Thus did the spirit speak to me in space, </l>
+               <l> And thus I answered him— </l>
+           </lg>
+           <lg>
+               <l> “Oh beauteous spirit </l>
+               <l> The wondrous grandeur of the scene before me </l>
+               <l> Hath so uplifted me out of myself, </l>
+               <l> That my charm’d soul hath left its dwelling-place </l>
+               <l> Briefly to commune in the spirit land.” </l>
+               <l> I stand with folded hands upon my breast, </l>
+               <l> With rapt uplifted eyes, silently breathing </l>
+               <l> My heart’s deep adoration to the Giver </l>
+               <l> And Maker of such great and glorious works. </l>
+               <l> I see in every leaf, in every stem, </l>
+               <l> In every trailing flower upon the scene, </l>
+               <l> His mighty Majesty, His wondrous love. </l>
+               <l> Oh! Spirit, bear upon Thy pinion bright </l>
+               <l> The adoration of His servant here, </l>
+               <l> And lay it humbly at its Maker’s feet. </l>
+           </lg>
+           <lg>
+               <l> My soul came back. Still on the ledge I stood, </l>
+               <l> A speck on Rimatuka’s [sic] rocky height, </l>
+               <l> Down at my feet the flowers and verdure lay </l>
+               <l> In silent loveliness. Above my head </l>
+               <l> The beetling crag frowned down with aspect drear. </l>
+               <l> Slowly my sense returned—my heart o’ercharged </l>
+               <l> With an excess of joy, and painéd feeling; </l>
+               <l> Joy; for the glorious vision of that mountain; </l>
+               <l> Pain; for the thought that in a world so fair, </l>
+               <l> So all replete with perfectness of form, </l>
+               <l> The demon sin, should reign and rule supreme. </l>
+           </lg>
+       </body>
+   </text>
+    
+</TEI>
