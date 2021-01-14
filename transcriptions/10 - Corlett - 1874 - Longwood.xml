@@ -1,0 +1,74 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Longwood</q> </title>
+               <author> Theresa Corlett </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+               <publisher>Robert Burrett</publisher>
+               <pubPlace>Wellington</pubPlace>
+               <date>1874</date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl>Corlett, Theresa. “Longwood.” <hi rend="italic">Claribel and Other Poems </hi> (Wellington: Robert Burrett, 1874), p. 29.</bibl>
+            </sourceDesc>
+        </fileDesc> 
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Beautiful Longwood, <note> Longwood. A sheep station estate and formal gardens established in Featherston, in the south of New Zealand’s North Island, in the 1850s. </note> lying far away </l>
+               <l> ‘Neath the green shade of ever verdant trees; </l>
+               <l> Bathed in the scent of flowers which on the breeze </l>
+               <l> Comes wafting upwards, in the blush of day. </l>
+           </lg>
+           <lg>
+               <l> Cypress and stately pine <note> Stately pine. Possibly a reference to indigenous tōtara trees that were preserved in the estate gardens. </note> are mingled there, </l>
+               <l> With the fair weeping willow in between, </l>
+               <l> Whose graceful form and dress of tender green, </l>
+               <l> Blend in sweet contrast with the flow’rets fair. </l>
+           </lg>
+           <lg>
+               <l> Bright glowing flowers inlay the velvet lawn, </l>
+               <l> Like rich mosaic on <sic>tesselated</sic> floor, </l>
+               <l> And round each casement and the open door </l>
+               <l> They twine and garland in fantastic form. </l>
+           </lg>
+           <lg>
+               <l> Vistas of hills peep out amid the trees, </l>
+               <l> Making a landscape more than passing fair— </l>
+               <l> The drone of bees upon the stilly air </l>
+               <l> Floats like a heavenly whisper on the breeze. </l>
+           </lg>
+           <lg>
+               <l> Groups of sweet children gambol on the grass, </l>
+               <l> Children with great brown eyes and flaxen hair </l>
+               <l> Waving about their laughing faces fair— </l>
+               <l> A fairy band who greet you as you pass. </l>
+           </lg>
+           <lg>
+               <l> Beautiful Longwood, in thy quiet nooks </l>
+               <l> How have I dreamed out hours in soft repose, </l>
+               <l> Feeling that earth contained no web of woes, </l>
+               <l> While reading Nature from her own bright books. </l>
+           </lg>
+           <lg>
+               <l> Shadow of holy peace still softly rest </l>
+               <l> On Longwood’s beauty, on its inmates dear; </l>
+               <l> Shadow of God’s great blessing keep them here </l>
+               <l> In perfect peace, in faith, thy children blest. </l>
+           </lg>
+       </body>
+   </text>
+    
+</TEI>
