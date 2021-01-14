@@ -1,0 +1,122 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Mossy-Hum (Lake Coleridge, New Zealand)</q> </title>
+               <author> Frederick Napier Broome </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher>Houlston and Wright</publisher>
+               <pubPlace>London</pubPlace>
+               <date>1868</date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl>Broome, Frederick Napier. “Mossy-Hum (Lake Coleridge, New Zealand.” <hi rend="italic">Poems from New Zealand</hi> (London: Houlston and Wright, 1868), pp. 125-127.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> The wide winds, whose immeasurable hem </l>
+               <l> Doth touch the seas and star-depths of the soul, </l>
+               <l> Have swept my sailing bark of thought with them </l>
+               <l> To many a shore unseen and distant goal; </l>
+               <l> But now they leave it anchored by the stem </l>
+               <l> In harbour water where the sands run shoal; </l>
+               <l> The wistful eyes of beauty nearer home </l>
+               <l> Seem to reproach that I so far should roam. </l>
+           </lg>
+           <lg>
+               <l> ‘Twere well, sweet Lake, <note>.Lake. Lake Coleridge/Whakamatau is located in the mountains of the South Island of New Zealand. </note> were I a knight could wield </l>
+               <l> Good sword, or lift for thee a lance more strong, </l>
+               <l> To set thy unsung name upon my shield </l>
+               <l> And make thee mine, as kindred themes belong </l>
+               <l> To some who bore such blazon to the field; </l>
+               <l> But I have not yet won my spurs of song; </l>
+               <l> Admit me of thy beauty the poor squire </l>
+               <l> Who cannot champion, but must still admire. </l>
+           </lg>
+           <lg>
+               <l> Thy native hills crowd countless in the sky; </l>
+               <l> How rugged are the shores thy smooth waves wet! </l>
+               <l> Of all this land, the blue and lidless eye </l>
+               <l> Round whom the mountains for deep brows are met; </l>
+               <l> I love to see thy many aspects vie: </l>
+               <l> Thy waters took the sunbeams in their net, </l>
+               <l> And smote the shingle with short sound and sharp, </l>
+               <l> Like fingers quickly drawn athwart a harp. </l>
+           </lg>
+           <lg>
+               <l> When last my boat skimmed o’er thy shining breast, </l>
+               <l> Beardless of foam were the light boyish waves; </l>
+               <l> Instinct with joy and vital with the zest </l>
+               <l> Of life, we steered her to the harbour caves, </l>
+               <l> And furled the sail and laid the oars in rest, </l>
+               <l> And floated on the floor that purely paves </l>
+               <l> The rarest room, by whose adornment seen </l>
+               <l> The upholstery of all palaces were mean. </l>
+           </lg>
+           <lg>
+               <l> Though cave <note> Broome’s wife, Lady Barker, describes in <hi rend="italic">Station Life in New Zealand</hi> (1865) a boating excursion on Lake Coleridge where they entered “a lovely fairy cove” through an overhanging canopy of braches: “It was a sudden contrast from the sparkling sunshine and brightness outside, all life and colour and warmth, to the tender, green, profound shade and quiet in this "Mossy Hum," as the people about here call it.” </note> it was no cavern damp and dark, </l>
+               <l> But windowed with an opening of its own, </l>
+               <l> Its mouth contracted to a curious arc </l>
+               <l> By boughs bent down and thickly overgrown, </l>
+               <l> Through which the waves burnt lamp-like with a spark </l>
+               <l> That caught the eye as doth a precious stone; </l>
+               <l> Though to gaslight and diamonds, I, for one, </l>
+               <l> Prefer a drop of water and the sun. </l>
+           </lg>
+           <lg>
+               <l> Along the walls green ferns were clustered close, </l>
+               <l> Each leaf a study and each stem a wonder, </l>
+               <l> In perfect taste, for Nature fastened those, </l>
+               <l> A builder in her trade not wont to blunder </l>
+               <l> For ever in the details or the gross, </l>
+               <l> As is their wont whose work we shelter under— </l>
+               <l> The roof, half of rough rock, whose clefts and bosses </l>
+               <l> Were hung with trailing plants or soft with mosses, </l>
+           </lg>
+           <lg>
+               <l> And half of trees, whose tough roots hold and hinge </l>
+               <l> Within the earthless stone, while stretched and stooping </l>
+               <l> Across, they finish in a feathery fringe, </l>
+               <l> An archway of the antlered branches, drooping </l>
+               <l> Towards the sides, so that the waters tinge </l>
+               <l> The lowest leaves—all interlaced and looping, </l>
+               <l> And sun-rays slipping through the fair festoons </l>
+               <l> Fall mellowed, like the light of many moons. </l>
+           </lg>
+           <lg>
+               <l> In its far nook was niched a narrow beach </l>
+               <l> Of pebbles waterworn, a little ledge, </l>
+               <l> Something for them to break upon and bleach, </l>
+               <l> The waves had built; o’er which into a wedge </l>
+               <l> The roof ran down, so that we could not reach </l>
+               <l> Or bring the boat an oar’s length near its edge: </l>
+               <l> I know not how, that small short white and bare </l>
+               <l> Grows on me more than all the greenness there. </l>
+           </lg>
+           <lg>
+               <l> Such is this sanctuary of the lake; </l>
+               <l> And ye who thither have made pilgrimage, </l>
+               <l> I pray of you, even for its own sweet sake, </l>
+               <l> To pardon the poor picture of my page— </l>
+               <l> I know not which with me I’d choose to take </l>
+               <l> To see it next, some children or a sage; </l>
+               <l> But this I know, were the last truly such, </l>
+               <l> Their modes of feeling would not differ much. </l>
+           </lg>
+       </body>
+   </text>
+    
+</TEI>
