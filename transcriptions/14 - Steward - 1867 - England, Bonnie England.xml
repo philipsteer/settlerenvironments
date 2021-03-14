@@ -1,0 +1,133 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>England, Bonnie England</q> </title>
+               <author> <q>Justin Aubrey</q> (William J. Steward) </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher>Fergusson and Mitchell</publisher>
+               <pubPlace>Dunedin</pubPlace>
+               <date>1867</date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl><q>Justin Aubrey</q> [William J. Steward]. <hi rend="italic">Carmina Varia: Being Miscellaneous Poems.</hi> Dunedin: Fergusson and Mitchell, 1867, pp. 125-127.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> England! England! bonnie England! </l>
+               <l> Here across the Southern sea, </l>
+               <l> Sitting in the woods primeval, </l>
+               <l> Fondly now I think of thee. </l>
+           </lg>
+           <lg>
+               <l> Mighty birches<note>Birches. Likely a reference to species of beech, which were originally mistaken for a species of birch, and predominated in hilly and mountainous forests, especially in the South Island.</note> all around me </l>
+               <l> And majestic pine-trees stand, </l>
+               <l> And a vast totara<note>Totara. Totara is the largest known species of podocarp.</note> yonder </l>
+               <l> Towers like a monarch grand; </l>
+           </lg>
+           <lg>
+               <l> And a thousand branches quiver </l>
+               <l> In the soft and balmy air, </l>
+               <l> And the murmur of the river </l>
+               <l> Mingles into music rare. </l>
+           </lg>
+           <lg>
+               <l> All among the broadleaf bushes </l>
+               <l> Flocks of bright canaries<note>Canaries. Mōhua, or yellowhead, once one of the most common birds in the South Island and known in the nineteenth century as the “bush canary.”</note> wing, </l>
+               <l> And the tooies<note>Tooies. Tui, A species of bird known for its melodious song.</note> in the pine trees </l>
+               <l> Sweet among the branches sing, </l>
+           </lg>
+           <lg>
+               <l> Loud the screaming of the ka-ka<note>Ka-ka. Kaka, a large, brown, forest-dwelling parrot.</note> </l>
+               <l> Rings upon the startled ear, </l>
+               <l> And the little love-birds<note>Love-birds. The reference is unclear.</note> whistle </l>
+               <l> Gaily in the foliage near, </l>
+           </lg>
+           <lg>
+               <l> Parroquets<note>Parroquets. Kākāriki, or the New Zealand parakeet, is predominantly bright green, with different species distinguished by coloured areas on their heads: the poem invokes the red-crowned and yellow-crowned species.</note> in green and crimson, </l>
+               <l> Parroquets with crowns of gold, </l>
+               <l> Flitting softly, and the robin<note>Robin. Kakaruwai, or the South Island robin.</note> </l>
+               <l> Hops about me bright and bold, </l>
+           </lg>
+           <lg>
+               <l> And the little fairy fantails<note>Fantails. Pīwakawaka, or the fantail, is a gregarious and acrobatic bird that feeds on insects.</note> </l>
+               <l> Light upon me as I lie, </l>
+               <l> And about me in the sunbeams </l>
+               <l> Swift pursue the darting fly; </l>
+           </lg>
+           <lg>
+               <l> Feather-like the graceful fern-tree </l>
+               <l> Spreads its frondage overhead, </l>
+               <l> And the <sic>fuschia-trees</sic><note>Fuschia-trees. Kōtukutuku, or the fuchsia tree, is considered the world’s largest species of fuchsia.</note> around me </l>
+               <l> Thick their crimson blossoms shed; </l>
+           </lg>
+           <lg>
+               <l> And the busy bees are droning </l>
+               <l> Sweetly on the spicy air, </l>
+               <l> Oh this world is very lovely! </l>
+               <l> This New Zealand very fair! </l>
+           </lg>
+           <lg>
+               <l> Yet O England! bonnie England! </l>
+               <l> All my thoughts are now of thee, </l>
+               <l> And this beautiful New Zealand </l>
+               <l> Is not half so dear to me;</l>
+           </lg>
+           <lg>
+               <l> Tho’ it were a very Eden </l>
+               <l> Yet a stranger here I roam, </l>
+               <l> And my heart with fondest yearning </l>
+               <l> Sighs for England and for home. </l>
+           </lg>
+           <lg>
+               <l> Tho’ these woods were ever ringing </l>
+               <l> With the sweetest notes of earth, </l>
+               <l> More, to me, a robin singing </l>
+               <l> In an apple-tree were worth; </l>
+           </lg>
+           <lg>
+               <l> E’en an humble sparrow’s chatter, </l>
+               <l> More should please my longing ear, </l>
+               <l> Than the song of all the songsters </l>
+               <l> That awake the echoes here. </l>
+           </lg>
+           <lg>
+               <l> Grand is this primeval forest, </l>
+               <l> Yet I’d give it all to look </l>
+               <l> On an English elm, and listen </l>
+               <l> To the cawing o’ the rook. </l>
+           </lg>
+           <lg>
+               <l> England! England! bonnie England! </l>
+               <l> Let me see thy rock-bound shore! </l>
+               <l> Let me tread thy hills and valleys, </l>
+               <l> And thy daisied fields once more! </l>
+           </lg>
+           <lg>
+               <l> And tho’ this should be denied me, </l>
+               <l> Lovely land that gave me birth, </l>
+               <l> Let my sleeping ashes mingle </l>
+               <l> Fondly, with thy sacred earth! </l>
+           </lg>
+           <lg>
+               <l> Then—when springing daisies cluster </l>
+               <l> O’er the turf, above my breast,— </l>
+               <l> With thine arms about me, sweetly </l>
+               <l> As an infant I shall rest. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>

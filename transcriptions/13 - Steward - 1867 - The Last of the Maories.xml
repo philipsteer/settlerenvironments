@@ -1,0 +1,79 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Last of the Maories</q> </title>
+               <author> <q>Justin Aubrey</q> (William J. Steward) </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher>Fergusson and Mitchell</publisher>
+               <pubPlace>Dunedin</pubPlace>
+               <date>1867</date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl><q>Justin Aubrey</q> [William J. Steward]. <hi rend="italic">Carmina Varia: Being Miscellaneous Poems.</hi> Dunedin: Fergusson and Mitchell, 1867, pp. 127-128.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> The miro<note>Miro. Miro is a species of podocarp that produces bright red seeds.</note> was laden with crimsoning berries, </l>
+               <l> The fruit of the taura<note>Taura. Likely tawa, a broadleaf tree that produces dark purple seeds.</note> lay thick on the ground, </l>
+               <l> Alone in the midst of the forest primeval </l>
+               <l> The last of the sons of the Maori was found. </l>
+           </lg>
+           <lg>
+               <l> He gazed on the woods in their verdurous beauty, </l>
+               <l> The feather-like fronds of the fern-tree outspread </l>
+               <l> The beautiful rimos<note>Rimos. Rimu, a species of conifer distinguished by its drooping branches and patterned bark.</note> with fringe-covered branches, </l>
+               <l> The might totaras,<note>Totaras. Totara is the largest known species of podocarp.</note> and sadly he said: </l>
+           </lg>
+           <lg>
+               <l> “O land of my fathers, Tavai Poënammu!<note>Tavai Poënammu. Te Waipounamu, the South Island of New Zealand.</note> </l>
+               <l> “O beautiful country! O land of my birth! </l>
+               <l> “The last of my people thou soon shalt receive me </l>
+               <l> “In thy fond embraces my own native earth! </l>
+           </lg>
+           <lg>
+               <l> “Ye tree that for ages have waved o’er the forest, </l>
+               <l> “And witnessed the warrior go forth in his pride, </l>
+               <l> “Ye beautiful rivers, on whose rapid waters </l>
+               <l> “The canoes of my fathers so swiftly did glide, </l>
+           </lg>
+           <lg>
+               <l> “Ye hills, and ye valleys, ye birds that are singing </l>
+               <l> “So sweetly and blithe in the sunshine to-day, </l>
+               <l> “I bid ye farewell in affection, and sadness, </l>
+               <l> “The last of the Maories is passing away. </l>
+           </lg>
+           <lg>
+               <l> “The foot of the stranger hath followed our people </l>
+               <l> “And trodden our footprints from out of the land, </l>
+               <l> “Like the wave of the sea that creeps up and effaces </l>
+               <l> “The line that the children have drawn in the sand; </l>
+           </lg>
+           <lg>
+               <l> “The ships of the stranger ride thick on our waters, </l>
+               <l> “The voice of the stranger—I hear it around, </l>
+               <l> “The valleys are red with his ripening harvests </l>
+               <l> “The hills with the low of his cattle resound; </l>
+           </lg>
+           <lg>
+               <l> “Alone I am left of a once mighty people, </l>
+               <l> “Alone! all alone!” and he smote on his breast </l>
+               <l> “Alone! all alone!” ‘twas the last word he uttered, </l>
+               <l> The last of the Maories had gone to his rest. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>                   

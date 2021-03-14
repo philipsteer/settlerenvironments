@@ -1,0 +1,60 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Voice of the River</q> </title>
+               <author> <q>Justin Aubrey</q> (William J. Steward) </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher>Fergusson and Mitchell</publisher>
+               <pubPlace>Dunedin</pubPlace>
+               <date>1867</date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl><q>Justin Aubrey</q> [William J. Steward]. <hi rend="italic">Carmina Varia: Being Miscellaneous Poems.</hi> Dunedin: Fergusson and Mitchell, 1867), pp. 152-153.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Sitting where a graceful rimo <note>Rimo. A species of conifer distinguished by its drooping branches and patterned bark.</note></l>
+               <l> By the riverside, I listened </l>
+               <l> Unto what the waters said. </l>
+           </lg>
+           <lg>
+               <l> Through a mighty rift beneath me </l>
+               <l> Swift the roaring torrent whirled, </l>
+               <l> And within its rocky channel </l>
+               <l> Whitely in the sunbeams curled; </l>
+           </lg>
+           <lg>
+               <l> Leaping, dancing, brightly glancing, </l>
+               <l> As it wound its course along,</l>
+               <l> This appeared unto my fancy </l>
+               <l> Something like the river’s song: </l>
+           </lg>
+           <lg>
+               <l> "Ever swiftly I am hasting </l>
+               <l> “Onward, onward to the sea, </l>
+               <l> “And toward the great FOR-EVER </l>
+               <l> “Life as swiftly beareth thee; </l>
+           </lg>
+           <lg>
+               <l> “Soon into that mighty ocean </l>
+               <l> “Will thy little life be cast, </l>
+               <l> “Hurry, hurry, mortal hurry, </l>
+               <l> “Labor hard, and labor fast.” </l>
+           </lg>
+       </body>
+   </text>      
+</TEI>
