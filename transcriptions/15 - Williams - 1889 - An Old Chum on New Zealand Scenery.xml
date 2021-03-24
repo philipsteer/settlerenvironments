@@ -1,0 +1,105 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>An Old Chum on New Zealand Scenery</q> </title>
+               <author> George Phipps Williams </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Simpson and Williams </publisher>
+                <pubPlace> Christchurch </pubPlace>
+               <date> 1889 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Williams, George Phipps. <q> An Old Chum on New Zealand Scenery. </q> William Pember Reeves and George Phipps Williams, <hi rend="italic"> Colonial Couplets: Being Poems in Partnership </hi> (Christchurch: Simpson and Williams, 1889), pp. 1-4. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> I believe it is acknowledged, as a fact, on every hand, </l>
+               <l> That our own adopted country is a most enchanting land; </l>
+               <l> And its friends maintain with raptures, which they find it hard to curb, </l>
+               <l> That its climate’s quite unequalled, and its scenery superb. </l>
+               <l> But the ordinary settler cannot easily express </l>
+               <l> His ideas upon the subject of this wondrous loveliness; </l>
+               <l> And suppose you ask for details of the beauties that he sees, </l>
+               <l> I’m afraid that his description may not altogether please— </l>
+           </lg>
+           <lg>
+               <l> I have lived among the ranges, on a rough back-country run; </l>
+               <l> Seen the weather’s frequent changes, feed all scorched by summer sun, </l>
+               <l> Floods in all the snowy rivers, floods in all the rainy creeks, </l>
+               <l> I have seen the snow in winter wrap the country up for weeks: </l>
+               <l> I am used to hot Nor’-westers,<note> Nor’-westers. Known to the local iwi (tribe), Ngāi Tahu, as Te Hau Kai Tangata (the wind that devours mankind), the norwester is the dominant summer wind in the Canterbury region of the South Island and is capable of generating extreme heat. </note> I am used to wet ones, too, </l>
+               <l> And the cold Sou’-wester<note> Sou-wester. Especially in winter, wind from the south of New Zealand can bring cold Antarctic air, leading to heavy rain or even snowfall at low levels. </note> knows me; it has often soaked me through; </l>
+               <l> I have forded all the rivers, swum then when I knew I must, </l>
+               <l> After many wet encounters I regard them with distrust; </l>
+               <l> I have mustered all the country, driven sheep on ev’ry track, </l>
+               <l> Watched the dogs in ev’ry gully hold them fast or head them back; </l>
+               <l> I know all the lowest saddles, ev’ry terrace, ev’ry pass, </l>
+               <l> And the carrying capacity of all the native grass;<note> Native grasses. The dry Canterbury plains, in the South Island, were largely covered with endemic grasses. </note></l>
+               <l> I am just a simple squatter,<note> Squatter. In this context, likely a reference to a sheep farmer who has title to a large area of land. </note> mortgaged to the hilt, I own, </l>
+               <l> And I boast an honest title to the scenery alone. </l>
+           </lg>
+           <lg>
+               <l> I am surfeited with mountains, terrace, gully, spur, and hill; </l>
+               <l> I have gorged myself with gorges, and of creeks I’ve had my fill— </l>
+               <l> So if knowledge of the subject could avail the tale to tell, </l>
+               <l> I should paint in glowing language all the scenes I know so well. </l>
+               <l> But the language ‘tis that floors me, how can anyone expect </l>
+               <l> That my old Colonial phrases should with flowers of speech be decked? </l>
+               <l> If you bid me of the features most remarkable to speak, </l>
+               <l> I should say a spur, a gully, then a swamp, and then a creek; </l>
+               <l> And again a little distance further on there will recur </l>
+               <l> First a swamp, and then a gully, then a creek, and then a spur. </l>
+               <l> I have no imagination and I cannot well describe </l>
+               <l> More than what I see before me; I am not a sporting scribe, </l>
+               <l> Nor a leading politician, nor a blatant auctioneer, </l>
+               <l> And the terms I use are such as poets would not love to hear. </l>
+               <l> What they call a brook or brooklet, or a streamlet, or a rill, </l>
+               <l> I do only, I confess it, call a <hi rend="italic">creek</hi>, and always will. </l>
+               <l> Then there’s what we call a <hi rend="italic">gully</hi>, which of course we take to mean </l>
+               <l> Just a small and narrow valley, in which bush is sometimes seen; </l>
+               <l> You perchance, were you a new chum,<note> New chum. A colloquial term for a new immigrant, or “greenhorn,” in contrast to the “old chum,” or experienced settler, of the poem’s title. </note> might describe this as a dell, </l>
+               <l> <hi rend="italic">Bushy gully</hi> suits me better, serves my purpose just as well: </l>
+               <l> <hi rend="italic">Bush</hi>, too, means the native forest; you will never, I’m afraid, </l>
+               <l> Hear a self-respecting bushman call a bush a leafy glade, </l>
+               <l> Nor a copse, nor shady bower; ev’ry kind of native shrub </l>
+               <l> Growing rank in wild profusion, he denominates as <hi rend="italic">scrub</hi>; </l>
+               <l> I admit the name’s not pretty, but it’s hard to recognise </l>
+               <l> Objects that are so familiar under any other guise; </l>
+               <l> You must take things as you find them; if you like to buy the run, </l>
+               <l> You can give to all the country ev’ry name beneath the sun; </l>
+               <l> Call things what your fancy pleases, no one else will interfere; </l>
+               <l> Only think how much more graceful all the landscape will appear. </l>
+               <l> No more pigroots,<note> Pigroot. The “Pigroot” is the colloquial name for an inland route in the Otago region of the South Island. </note> whalebacks,<note> Whaleback. Whaleback is the unofficial name of a hill, near the Rakaia river, in the Canterbury region of the South Island. </note> hogbacks <note> Hogbacks. A reference to the Hogs Back Creek, in the Canterbury region of the South Island. </note>—these are names that shall not last; </l>
+               <l> Stony creek,<note> Stony creek. A common, unofficial, name for water courses in both the South and North Islands. </note> Starvation Gully,<note> Starvation Gully. A valley located in Banks Peninsula, in the Canterbury region of the South Island. </note> shall be relics of the past; </l>
+               <l> <hi rend="italic">Negro-heads</hi><note> Negro-heads. Possibly a reference to Tawhai Hill, in the central South Island, which was officially renamed in 2016 from a colonial-era name that used the N-word. </note> shall be re-christened. I for one will take no heed, </l>
+               <l> While to me there yet remaineth Negro-head, the fragrant weed.<note> Fragrant weed. A reference to a dark kind of tobacco common in the nineteenth century. </note> </l>
+               <l> Name the scrub from “Hooker’s Flora,”<note> Hookers Flora. Joseph Dalton Hooker’s <hi rend="italic">Flora Novae-Zelandiae</hi> (1853-55), which published the specimens that Hooker collected while a member of the Ross expedition to Antarctica (1839-43). </note> but to reckon do not try </l>
+               <l> All such lovely lucid names as Haastii<note> Haastii. A reference to plant species named for Julius von Haast, appointed provincial geologist of the Canterbury province in the South Island in 1861. </note> or Hookeri;<note> Hookeri. A reference to plant species named for Joseph Dalton Hooker, botanist on the Ross expedition (1839-43), which visited New Zealand for three months. </note> </l>
+               <l> Also, don’t use Maori names whose syllables are more than four; </l>
+               <l> Words like our Waimakariri<note> Waimakariri. A major river in the Canterbury region of the South Island, which flows from the Southern Alps to the sea on the east coast. </note> are enough to break your jaw. </l>
+               <l> Thus in future nought shall ever jar on your artistic sense, </l>
+               <l> Though your pounds should turn to shillings, and your shillings turn to pence, </l>
+               <l> Though invading rabbits<note> Invading rabbits. Rabbits were liberated across the east coast of the South Island in the 1850s and 1860s, and a rabbit plague took hold between the 1870s and 1890s. </note> spoil you, and consume you as they grow, </l>
+               <l> Though in lambing your percentage be ridiculously low,— </l>
+               <l> You’ll have had the satisfaction, and no doubt it will be dear, </l>
+               <l> Of imparting a description of poetical veneer </l>
+               <l> To the scenes of which the former appellations sounded queer </l>
+               <l> In the quaint vocabulary of the hardy pioneer. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
