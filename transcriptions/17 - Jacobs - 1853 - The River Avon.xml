@@ -1,0 +1,56 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The River Avon</q> </title>
+               <author> Henry Jacobs </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Skiffington and Son </publisher>
+               <pubPlace> London </pubPlace>
+               <date> 1853 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Jacobs, Henry. <q> The River Avon. </q> <hi rend="italic"> A Lay of the Southern Cross, and Other Poems </hi> (London: Skiffington and Son, 1893), p. 85. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <front>
+           <epigraph>
+               <p><q> Fies nobelium tu quoque fontium. </q>—HOR. <note> Fies … HOR. A quotation from Ode 13 of Book 3 of Horace’s <hi rend="italic">Odes</hi>, <q>To the Bandusian Fountain.</q> A mid-century translation renders the line as, <q>Thou shalt be ranked, thou alike, in the number of fountains of story</q> (W. Sewell, <hi rend="italic">The Odes and Epodes of Horace</hi>, 1850). </note></p>
+           </epigraph>
+       </front>
+       
+       <body>
+           <lg>
+               <l> I love thee, Avon!<note> Avon. The Ōtākaro river, which runs through Christchurch in the South Island, was named the Avon by settlers in 1848. </note> though thy banks have known </l>
+               <l> No deed of note; thy wandering course along </l>
+               <l> No Bard of Avon<note> Bard of Avon. A reference to Shakespeare, although the Avon river was not named for Stratford-on-Avon. </note> hath poured forth in song </l>
+               <l> Thy tuneful praise; thy modest tide hath flown </l>
+               <l> For ages on, unheeded and alone. </l>
+               <l> I love thee for thy English name, but more </l>
+               <l> Because my countrymen along thy shore </l>
+               <l> Have made new homes. Therefore not all unknown </l>
+               <l> Henceforth thy streams shall flow. A little while </l>
+               <l> Shall see thy wastes grow lovely. Not in vain </l>
+               <l> Shall England’s sons dwell by thee many a mile. </l>
+               <l> With verdant meads and fields of waving grain </l>
+               <l> Thy rough uncultured banks ere long shall smile; </l>
+               <l> Heaven-pointing spires<note> Spires. The Church of England established the Canterbury colony, and its central settlement of Christchurch, under the auspices of the Canterbury Association. </note> shall beautify thy plain. </l>
+           </lg>
+           <lg>
+               <l> <hi rend="italic">Christchurch, Oct. 12, 1853.</hi><note> 1853. The Canterbury Province was established by the colonial General Assembly in 1853. </note></l>
+           </lg>
+       </body>   
+   </text>      
+</TEI>
