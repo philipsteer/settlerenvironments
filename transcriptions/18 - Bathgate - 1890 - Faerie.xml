@@ -1,0 +1,49 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Faerie</q> </title>
+               <author> Alexander Bathgate </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Griffith Farran Okeden and Welsh </publisher>
+               <pubPlace> London </pubPlace>
+               <date> 1890 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Bathgate, Alexander. <q>Faerie.</q> <hi rend="italic">Far South Fancies</hi> (London: Griffith, Farran, Okeden, and Welsh, 1890), p. 99. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Why have we in these isles no fairy dell, </l>
+               <l> No haunted wood, nor wild enchanted mere? </l>
+               <l> Our woods are dark, our lakelets’ waters clear, </l>
+               <l> As those of any land where fairies dwell. </l>
+               <l> In every verdant vale our streamlets tell </l>
+               <l> Their simple story to the list’ning ear, </l>
+               <l> Our craggy mountains steep are full of fear, </l>
+               <l> E’en rugged men have felt their awful spell.</l>
+           </lg>
+           <lg>
+               <l> Yet lack they glamour of the fairy tale, </l>
+               <l> Nor gnome nor goblin do they e’er recall, </l>
+               <l> Though Nature speaks, e’en in the wind’s sad wail. </l>
+               <l> Who shall give meaning to Her voices all? </l>
+               <l> The poet’s art,—as yet without avail,— </l>
+               <l> Must weave the story of both great and small. </l>
+           </lg>                   
+       </body>
+   </text>
+</TEI>
