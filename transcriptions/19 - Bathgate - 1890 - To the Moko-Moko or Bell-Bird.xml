@@ -1,0 +1,94 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>To the Moko-Moko or Bell-Bird</q> </title>
+               <author> Alexander Bathgate </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Griffith Farran Okeden and Welsh </publisher>
+               <pubPlace> London </pubPlace>
+               <date> 1890 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Bathgate, Alexander. <q>To the Moko-Moko or Bell-Bird.</q> <hi rend="italic">Far South Fancies</hi> (London: Griffith, Farran, Okeden, and Welsh, 1890), pp. 105-7. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <front>
+           <div type="preface">
+               <p><hi rend="italic">(Now rapidly dying out of our land).</hi></p>
+               <p></p>
+           </div>
+       </front>
+       
+       <body>
+           <lg>
+               <l> Merry chimer,<note> Merry chimer. The bellbird/korimako, also referred to as the moko-moko by settlers in the nineteenth century, is known for the clear ringing notes of its call. The species is especially common in the South Island. </note> merry chimer, </l>
+               <l> Oh, sing once more, </l>
+               <l> Again out pour, </l>
+               <l> Like some long-applauded mimer </l>
+               <l> All thy vocal store. </l>
+           </lg>
+           <lg>
+               <l > Thy short but oft-repeated song, </l>
+               <l> At early dawn<note> Early dawn. The bellbird’s most distinctive call is heard around dawn, when many of the species are present. </note> </l>
+               <l> Awakes the morn, </l>
+               <l> Telling that joys to thee belong, </l>
+               <l> Greeting the day new-born. </l>
+           </lg>
+           <lg>
+               <l> Alas! we now but seldom hear </l>
+               <l> Thy rich, full note </l>
+               <l> Around us float, </l>
+               <l> For thou seem’st doomed to disappear, </l>
+               <l> E’en from woods remote. </l>
+           </lg>
+           <lg>
+               <l> Some say the stranger honey-bee, </l>
+               <l> By white men brought, </l>
+               <l> This ill hath wrought; </l>
+               <l> It steals the honey from the tree, </l>
+               <l> And it leaves thee naught.<note> Naught. Settlers had debated since at least the 1860s that the introduction of bees was providing competition for nectar-eating indigenous species such as the bellbird. </note> </l> 
+           </lg>
+           <lg>
+               <l> The songsters of our Fatherland </l>
+               <l> We hither bring, </l>
+               <l> And here they sing, </l>
+               <l> Reminding of that distant strand </l>
+               <l> Whence old mem’ries spring. </l>
+           </lg>
+           <lg>
+               <l> But as the old we love the new; </l>
+               <l> Fain we’d retain </l>
+               <l> Thy chiming strain, </l>
+               <l> Thy purple throat and olive hue:<note> Purple throat and olive hue. The male bellbird is olive green, with a purple-tinted head. </note> </l>
+               <l> Yet we wish in vain.<note> Vain. The bellbird was listed a few years later as a protected species under the 1886 amendment to the Animal Protection Act (1880), which allowed for the Governor “to prohibit absolutely or for such time as he may think fit the destruction of any bird indigenous to the colony.” </note> </l>
+           </lg>
+           <lg>
+               <l> Thy doom is fixed by Nature’s law; </l>
+               <l> Why, none can tell. </l>
+               <l> Therefore farewell; </l>
+               <l> We’ll miss thy voice from leafy shaw,<note> Shaw. A small wood or grove. </note> </l>
+               <l> Living silver bell. </l>
+           </lg>
+           <lg>
+               <l> Why should we ever know new joys, </l>
+               <l> If thus they pass? </l>
+               <l> Leaving, alas! </l>
+               <l> Wistful regret, which much alloys </l>
+               <l> All that man now has. </l>
+           </lg>                   
+       </body>
+   </text>
+</TEI>
