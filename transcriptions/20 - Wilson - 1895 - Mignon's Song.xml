@@ -1,0 +1,70 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Mignon’s Song</q> </title>
+               <author> Anne Glenny Wilson </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+               <publisher> Elliot Stock </publisher>
+               <pubPlace> London </pubPlace>
+               <date> 1895 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Wilson, Anne Glenny. <q>Mignon’s Song.</q> <hi rend="italic">Themes and Variations</hi> (London: Elliot Stock, 1895), pp. 8-9. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> NEW WORLD.<note> New World. Mignon is a character in Johann Wolfgang von Goethe’s <hi rend="italic">Wilhelm Meister’s Apprenticeship</hi> (1795-6), who has been kidnapped from her native land of Italy and brought to Germany. Wilson’s poem translates Mignon’s homeland to the “New World” of New Zealand. </note> </l>
+           </lg>
+           <lg>
+               <l> Know’st thou an island<note> Know’st thou an island. Mignon’s song begins, “Kennst du das Land?,” which nineteenth-century translators rendered as “Know’st thou the land” (F. Hemans, <hi rend="italic">National Lyrics, and Songs for Music</hi>, 1834). </note> on the misty ocean, </l>
+               <l> Green, green with fern, and many an ancient tree, </l>
+               <l> Whose waving tops, with soft perpetual motion </l>
+               <l> Repeat the same primeval melody? </l>
+           </lg>
+           <lg>
+               <l> The rata<note> Rata. A species of tree, infamous for beginning its life as an epiphyte that strangles its host tree as its roots grow down to the ground. </note> with the red pine<note> Red pine. Rimu is a tall forest tree, and the poem imagines rata in its epiphytic form sending roots down from its branches. </note> interlaces, </l>
+               <l> And lights the forest with a scarlet gleam.</l>
+               <l> The sunshine on the hills the shadow chases;</l>
+               <l> The fern-tree bends in silence o’er the stream. </l>
+           </lg>
+           <lg>
+               <l> I see the harvest slopes; the village under;</l>
+               <l> The rivulet lifts its music on the air.</l>
+               <l> Hearing far off the turbulent ocean-thunder, </l>
+               <l> It leaps in laughter down its rocky stair. </l>
+           </lg>
+           <lg>
+               <l> There is the snow-king’s palace and dominion!<note> Snow-king’s palace and dominion. In Goethe’s poem, Mignon asks, “Know’st thou the mountain?” (F. Hemans, <hi rend="italic">National Lyrics, and Songs for Music</hi>, 1834). </note> </l>
+               <l> Unchanged in summer’s glow and winter rain, </l>
+               <l> With frozen wings outspread, and icy pinion, </l>
+               <l> He floats above the level pastoral plain.<note> Level pastoral plain. Wilson and her husband lived and farmed on the Manawatū plains, in view of the Tararua mountain range. </note> </l>
+           </lg>
+           <lg>
+               <l> Motionless, voiceless, pallid, yet immortal! </l>
+               <l> While far below the cloudy seasons roll; </l>
+               <l> Meeting the day, and night’s slow-closing portal, </l>
+               <l> He reads the ever-changing starry scroll. </l>
+           </lg>
+           <lg>
+               <l> Oh there, beloved! There if we might wander, </l>
+               <l> Leaving this world of noisy hopes and fears, </l>
+               <l> Drink of the fount of youth that rises yonder, </l>
+               <l> And all forget our shadow-laden years! </l>
+           </lg>                   
+       </body>
+   </text>
+</TEI>
