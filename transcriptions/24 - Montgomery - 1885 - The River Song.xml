@@ -1,0 +1,76 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The River Song</q> </title>
+               <author> Eleanor Elizabeth M. Montgomery </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> A. D. Willis </publisher>
+                <pubPlace> Wanganui </pubPlace>
+               <date> 1885 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Montgomery, E. E. M. <q>The River Song.</q> <hi rend="italic">Songs of the Singing Shepherd</hi> (Wanganui: A. D. Willis, 1885), pp. 22-23. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Where the woods and waters<note> Waters. Possibly a reference to the Whanganui river, the most significant river in the region where Montgomery is known to have lived. </note> meet, </l>
+               <l> Last night we stood together; </l>
+               <l> Through the air came, low and sweet, </l>
+               <l> Soft murmurings from the river. </l>
+               <l> Each twinkling star on Heaven’s blue breast, </l>
+               <l> Smiled on my Allan’s love confest! </l>
+           </lg>
+           <lg>
+               <l> While the river sang softy to me, </l>
+               <l> While the river sang softy to me, </l>
+               <l> Give your smiles to him, give your tears to me, </l>
+               <l> And I’ll carry them down </l>
+               <l> To the salt salt sea. </l>
+           </lg>
+           <lg>
+               <l> O! quickly sped the entranced hours, </l>
+               <l> All, all unwatched they passed us by: </l>
+               <l> The honeysuckle’s<note> Honeysuckle. Possibly a reference to Rewarewa, the “New Zealand honeysuckle,” a tall tree that was common throughout the North Island and bears sweet-smelling red flowers. </note> floating showers </l>
+               <l> Of balmy fragrance drifted nigh: </l>
+               <l> Nor brighter shone those orbs above </l>
+               <l> Than those two human stars I love. </l>
+           </lg>
+           <lg>
+               <l> While the river sang softy to me, </l>
+               <l> While the river sang softy to me, </l>
+               <l> Give your smiles to him, give your tears to me, </l>
+               <l> And I’ll carry them down </l>
+               <l> To the salt salt sea. </l>
+           </lg>
+           <lg>
+               <l> Bright beamed each golden eye above, </l>
+               <l> When on my happy, happy hand, </l>
+               <l> With many a tender word of love, </l>
+               <l> My Allan placed a sacred band; </l>
+               <l> Saying, “Within this circling gold </l>
+               <l> My love, my hope, my life you hold.” </l>
+           </lg>
+           <lg>
+               <l> While the river sang softy to me, </l>
+               <l> While the river sang softy to me, </l>
+               <l> Give your smiles to him, give your tears to me, </l>
+               <l> And I’ll carry them down </l>
+               <l> To the salt salt sea. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
