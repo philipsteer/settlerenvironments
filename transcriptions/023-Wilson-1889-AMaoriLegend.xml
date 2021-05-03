@@ -1,0 +1,65 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>A Maori Legend</q> </title>
+               <author> “Austral” (Anne Glenny Wilson) </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Griffith, Farran, Okenden and Welsh </publisher>
+               <pubPlace> London </pubPlace>
+               <date> 1889 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>Austral</q> [Wilson, Anne Glenny]. <q>A Maori Legend.</q> <hi rend="italic">Themes and Variations</hi> (London: Griffith, Farran, Okenden and Welsh, 1889), pp. 10-11. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> A legend, my friend, they relate<note> A legend … they relate. Wilson retells a traditional narrative of Ngāti Tūwharetoa, an iwi (tribe) of the central North Island. Her source appears to be Ferdinand von Hochstetter, <hi rend="italic">New Zealand</hi> (Stuttgart: Cotta, 1867). </note> of these fire-guarded mountains, </l>
+               <l> Three mountains<note> Three mountains. The mountains of Ruapehu, Tongariro, and Ngauruhoe, which dominate the central plateau of the North Island. </note> that rise in the silent and untrodden forest, </l>
+               <l> Forbidden to white foot, and held by the Maori thrice-sacred.<note> Forbidden … thrice-sacred. The three mountains of the central plateau are tapu (sacred) to Ngāti Tūwharetoa. </note> </l>
+           </lg>
+           <lg>
+               <l> One mountain, the greatest,<note> The greatest. Mount Ruapehu, the largest active volcano in Aotearoa New Zealand. </note> arises in snow-sheeted splendour, </l>
+               <l> Far seen on the plains, like a white ship blown hither and stranded, </l>
+               <l> From the ice-fields that gleam to the dance of the southern Aurora; </l>
+               <l> And one wears the veil of volcano;<note> Veil of volcano. Mount Ngauruhoe, a distinct volcanic cone that is nevertheless part of the Tongariro volcanic centre. </note> and one looks a ruin.<note> Ruin. Presumably Mount Tongariro, which consists of multiple volcanic cones. </note> </l>
+           </lg>
+           <lg>
+               <l> In the ages far past came a chief from the isles of the west wave<note> Chief from the isles of the west wave. Ngātoroirangi, a powerful high priest on the Te Arawa waka (voyaging canoe), which brought Ngāti Tūwharetoa from Hawaiki to Aotearoa. </note> </l>
+               <l> To see these wild peaks; and with him came the slave, Ngaru-hoé. </l>
+               <l> They sought to ascend, but the death-wind blew cold from the glacier: </l>
+               <l> And the sleep of its breath overcame Ngaru-hoé, the faithful. </l>
+               <l> Then the chief cried in anguish—“Oh, Sisters! come hither! I perish!” </l>
+           </lg>
+           <lg>
+               <l> . . . . The sisters<note> Sisters. The sisters of Ngātoroirangi, Kuiwai and Haungaroa, who are located on the offshore volcanic island of Whakaari (White Island) in Hochstetter’s narrative. </note> arose in their sun-lighted vales of Hawaii— </l>
+               <l> Snatched fire from the altar, and flew o’er the ripples of ocean. </l>
+               <l> They stumbled in haste, and the holy fire fell from their fingers, </l>
+               <l> And burns to this day in wild geyser, or smouldering volcano.<note> Geyser … volcano. The fire brought to Ngātoroirangi explains the prevalence of geothermal activity across parts of the North Island. </note> </l>
+           </lg>
+           <lg>
+               <l> So they rescued the chief; and the fire to his bosom returning, </l>
+               <l> Hand in hand they fled fast down the cliffs of the rushing Waikato.<note> Waikato. The Waikato, the longest river in New Zealand, rises from the slopes of Mount Ruapehu. </note> </l>
+               <l> By the light of the peak, by the smoke of the red-burning island, </l>
+               <l> Over ripple and reef, till they reached the hearth-stone of Hawaii.<note> Hawaii. The journey back to Hawaiki (Hawaii) is an alteration to Hochstetter’s narrative. </note> </l>
+           </lg>
+           <lg>
+               <l> But no footstep returning awakens the slave, Ngaru-hoé. </l>
+               <l> So peaceful he sleeps in the shade of the thrice-smitten mountain. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
