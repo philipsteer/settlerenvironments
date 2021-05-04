@@ -1,0 +1,79 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Fairyland</q> </title>
+               <author> “Austral” (Anne Glenny Wilson) </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Griffith, Farran, Okenden and Welsh </publisher>
+               <pubPlace> London </pubPlace>
+               <date> 1889 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>Austral</q> [Wilson, Anne Glenny]. <q>Fairyland.</q> <hi rend="italic">Themes and Variations</hi> (London: Griffith, Farran, Okenden and Welsh, 1889), pp. 54-55. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Do you remember that careless band, </l>
+               <l> Riding o’er meadow and wet sea-sand, </l>
+               <l> One autumn day, in a mist of sunshine, </l>
+               <l> Joyously seeking for fairyland? </l>
+           </lg>
+           <lg>
+               <l> The wind in the tree-tops was scarcely heard, </l>
+               <l> The streamlet repeated its one silver word, </l>
+               <l> And far away, o’er the depths of woodland, </l>
+               <l> Floated the bell of the parson-bird.<note> Parson-bird. The tui, known to settlers as the parson bird, is known for its melodious song. </note> </l>
+           </lg>
+           <lg>
+               <l> Pale hoar-frost glittered in shady slips, </l>
+               <l> Where ferns were dipping their finger-tips, </l>
+               <l> From mossy branches a faint perfume </l>
+               <l> Breathed over honeyed clematis<note> Clematis. Puawananga, or New Zealand clematis, is a woody vine which produces star-shaped white flowers. </note> lips. </l>
+           </lg>
+           <lg>
+               <l> At last we climbed to the ridge on high </l>
+               <l> Ah, crystal vision! Dreamland nigh! </l>
+               <l> Far, far below us, the wide Pacific </l>
+               <l> Slumbered in azure from sky to sky. </l>
+           </lg>
+           <lg>
+               <l> And cloud and shadow, across the deep </l>
+               <l> Wavered, or paused in enchanted sleep, </l>
+               <l> And eastward, the purple-misted islets </l>
+               <l> Fretted the wave with terrace and steep. </l>
+           </lg>
+           <lg>
+               <l> We look on the tranquil, glassy bay, </l>
+               <l> On headlands sheeted with dazzling spray, </l>
+               <l> And the whitening ribs of a wreck forlorn </l>
+               <l> That for twenty years had wasted away. </l>
+           </lg>
+           <lg>
+               <l> All was so calm, and pure, and fair, </l>
+               <l> It seemed the hour of worship there,— </l>
+               <l> Silent, as where the great North Minster </l>
+               <l> Rises for ever, a visible prayer. </l>
+           </lg>
+           <lg>
+               <l> Then we turned from the murmurous forest-land </l>
+               <l> And rode over shingle and silver sand, </l>
+               <l> For so fair was the earth in the golden autumn, </l>
+               <l> We sought no further for Fairyland. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
