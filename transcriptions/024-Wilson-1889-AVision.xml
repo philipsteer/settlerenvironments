@@ -1,0 +1,64 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>A Vision</q> </title>
+               <author> “Austral” (Anne Glenny Wilson) </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Griffith, Farran, Okenden and Welsh </publisher>
+               <pubPlace> London </pubPlace>
+               <date> 1889 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>Austral</q> [Wilson, Anne Glenny]. <q>A Vision.</q> <hi rend="italic">Themes and Variations</hi> (London: Griffith, Farran, Okenden and Welsh, 1889), pp. 12-13. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> But yesterday I saw a ghost,— </l>
+               <l> The calm of noon-day was on the hills, </l>
+               <l> As we rode by the silent, sunny coast, </l>
+               <l> On threadbare grass, by the lessening rills.<note> Threadbare grass … lessening rills. The drying grass and disappearing streams accord with the poem’s Autumn setting. </note> </l>
+               <l> Far down in the valley the corn-waves spread, </l>
+               <l> At the breath of the south wind they bowed and fled. </l>
+               <l> Fleeing before him, yet ever stayed, </l>
+               <l> Gold in the sunshine, grey in shade. </l>
+               <l> The smoke<note> Smoke. Settlers commonly sought to burn vegetation in Summer or Autumn prior to sowing grass seed. </note> hung blue on the swampy plain </l>
+               <l> Yellow and sere was its reedy breast </l>
+               <l> Like the stripes of a tiger’s brindled vest, </l>
+               <l> And the bulrushes rustled and sighed again; </l>
+               <l> But the scent of sea-weed came sweet from the west, </l>
+               <l> Where we saw, in her crystal, sun-streaked home, </l>
+               <l> The blue wave flowering forever in foam. </l>
+           </lg>
+           <lg>
+               <l> Was it the spirit of youth I saw </l>
+               <l> Dancing alone on the lonely hills, </l>
+               <l> All made of sunshine, a fair outlaw? </l>
+               <l> His coat was the colour of daffodils; </l>
+               <l> In his hand was a flute, but I could not hear </l>
+               <l> Either flute or song, though I followed near; </l>
+               <l> For so loudly the rivulets chimed that way, </l>
+               <l> Like bell-ringers ringing a holiday. </l>
+               <l> Was it a guest from a fairy shore </l>
+               <l> Ship-wrecked, lone, under cloudy skies? </l>
+               <l> I know not. He passed and I saw no more; </l>
+               <l> But I fain still would follow those harmonies, </l>
+               <l> Still seek, through the smoke of the Autumn hills, </l>
+               <l> The gleam of that vesture of daffodils! </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
