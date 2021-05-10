@@ -1,0 +1,75 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Song of Aorangi</q> </title>
+               <author> Jessie Mackay </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Robertson </publisher>
+                <pubPlace> Melbourne </pubPlace>
+               <date> 1889 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Mackay, Jessie. <q>The Song of Aorangi.</q> <hi rend="italic">The Spirit of the Rangatira and Other Ballads</hi> (Melbourne: Robertson, 1889), pp. 109-111. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Aorangi,<note> Aorangi. This word in the title is glossed with the following author’s note: Aorangi, the “Heaven -piercer,” the Maori name for Mount Cook. </note> the holy, the highest! Aorangi<note> Aorangi. The poem describes Aorangi or Aoraki (Mount Cook), the highest mountain in New Zealand, which is found in the Southern Alps in the South Island. Although Mackay’s author’s note (above) cites the common settler belief about the origin of the mountain’s name, it was named for Aorangi, who voyaged across the Pacific to the South Island on the Ārai-te-uru canoe. </note> that cleaveth the cloud! </l>
+               <l> Lord of the Alps, Aorangi—to thee have the mountains bowed: </l>
+               <l> To thee and the fair Ice Queen,<note> Author note: Mount Sefton, which is seen to great advantage from “The Hermitage,” the picturesque hotel at the foot of Mount Cook. </note> with her foot on the glacier low, </l>
+               <l> Throned and crowned together with the mist and the driven snow. </l>
+               <l> Hark! in the roar of the water, the avalanche loud and deep, </l>
+               <l> Bride of the great Aorangi,<note> Bride of the great Aorangi. Maukatua, or Mount Sefton, a mountain to the south of Aoraki/Mount Cook. </note> she speaks, and the wild winds sleep— </l>
+               <l> “Aorangi, the white Heaven-piercer! Aorangi, my chosen and king! </l>
+               <l> Wed to me ages agone with a starry crown and a ring— </l>
+               <l> Yea, on our marriage morning the heavens were nigh to the earth, </l>
+               <l> And Eden was blossoming newly to greet her master's birth. </l>
+               <l> But the blast blew over Eden, and the wail of the soul that dies; </l>
+               <l> And Eden's exiled dwellers creep at thy foot like flies. </l>
+               <l> But thou hast no part with them—none with the clay and the mould; </l>
+               <l> Young wert thou never on earth, and never shalt thou be old. </l>
+               <l> Time ruleth the world below, but ever thy pearl-white crest </l>
+               <l> The fond sun flushes to opal for victor and king confessed. </l>
+               <l> Thy lot is with the immortals that know not to wither or die. </l>
+               <l> And mine is with thine entwined, for but in thy life live I. </l>
+               <l> Hear I the singing torrents melodious at my feet </l>
+               <l> For listing thy far-off music, of thundering dread but sweet? </l>
+               <l> Nay! When the sun is at zenith, and in the clear air like steel </l>
+               <l> Burnish thy pinnacles holy, and the dancing sandbanks reel </l>
+               <l> Over the waste of stone, my face is ever to thee— </l>
+               <l> Over the dark ice-caves where the fierce rivers strive to be free, </l>
+               <l> All in the mystic twilight of the gold and the shimmering rose, </l>
+               <l> Ever and ever to thee and thy glorified mantle of snows. </l>
+               <l> Yea, in the hallowed night, when the pale sweet stars out-glide, </l>
+               <l> Leaning and whispering softly to thee from the azure wide— </l>
+               <l> Yea, ever their silvery glory that girdles the heavens afar </l>
+               <l> Passeth from me as a shadow: thou art my sun and my star. </l>
+               <l> Now is the time of the tempest; the demons that ride on the storm </l>
+               <l> Hide with their wild war-banners of cloud thy all-glorious form, </l>
+               <l> Look on me out of the storm with the calm of immutable will; </l>
+               <l> Low and little I am beside thee, but faithful still.” </l>
+               <l> Aorangi, the Alpine king, from cavernous depths profound </l>
+               <l> Speaks, and the torrents, his children, are hushed at the soul-heard sound— </l>
+               <l> “Beloved and bride of my soul! thy spirit is perfect with mine: </l>
+               <l> We are one in a mystic communion, one in a marriage divine. </l>
+               <l> Lay on thy queenly brow the icy diamond crown, </l>
+               <l> With crystalline clasp thy veil of fleeting diaphanous down[,] </l>
+               <l> Bind on thy beautiful breast, that all may hail thee the bride </l>
+               <l> And the queen of the great Aorangi, thee and none else beside!” </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
