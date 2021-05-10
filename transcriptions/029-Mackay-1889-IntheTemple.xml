@@ -1,0 +1,61 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>In the Temple</q> </title>
+               <author> Jessie Mackay </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Robertson </publisher>
+                <pubPlace> Melbourne </pubPlace>
+               <date> 1889 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Mackay, Jessie. <q>In the Temple.</q> <hi rend="italic">The Spirit of the Rangatira and Other Ballads</hi> (Melbourne: Robertson, 1889), p. 90. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> I have been to-day in the temple </l>
+               <l> Of the everlasting snow, </l>
+               <l> Raised in the golden morning </l>
+               <l> Of the æons of long ago. </l>
+           </lg>
+           <lg>
+               <l> I have seen the pure ice altar, </l>
+               <l> White as an angel’s wing, </l>
+               <l> And the smoke of the foam uprises </l>
+               <l> As when the censers swing. </l>
+           </lg>
+           <lg>
+               <l> I have heard the choir of the torrents </l>
+               <l> Answering each to each, </l>
+               <l> Sounding afar to the heavens, </l>
+               <l> Higher than heart can reach. </l>
+           </lg>
+           <lg>
+               <l> And ever and aye in the anthem </l>
+               <l> The mighty avalanche roar </l>
+               <l> Pealed through the pillars eternal </l>
+               <l> That stand at the temple door. </l>
+           </lg>
+           <lg>
+               <l> The great high priest Aorangi </l>
+               <l> Stands in the temple of prayer, </l>
+               <l> Lifts his white mantle to heaven </l>
+               <l> Till the soul of man be as fair. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
