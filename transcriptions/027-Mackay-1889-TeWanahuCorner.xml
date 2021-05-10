@@ -1,0 +1,157 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Te Wanahu Corner</q> </title>
+               <author> Jessie Mackay </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Robertson </publisher>
+                <pubPlace> Melbourne </pubPlace>
+               <date> 1889 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Mackay, Jessie. <q>Te Wanahu Corner.</q> <hi rend="italic">The Spirit of the Rangatira and Other Ballads</hi> (Melbourne: Robertson, 1889), pp. 14-17. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <front>
+           <div type="preface">
+               <p> [At the side of the road which winds through Peel Forest, <note> Peel Forest. A forest area in the Canterbury region of the South Island, named by settlers after the British prime minister, Sir Robert Peel. </note> on the banks of the Rangitata, <note> Rangitata. The Rangitata river flows from the Southern Alps, through a gorge, to the east coast of the South Island. </note> there is a tree which bears the inscription, “Te Wanahu Corner.” Tradition says that this spot was the scene of an ancient Maori battle. An army from the North Island, in search of the greenstone so much prized among the Maoris, made a raid on the coast of South Canterbury. A fierce battle was fought between them and the Arowhenua tribe at Patiti Point, near Timaru. <note> Patiti Point, near Timaru. Patiti Point is on the coast of the Canterbury region, south of the mouth of the Rangitata river. </note> The invaders were victorious, and the Southern Maoris hastily retreated to Peel Forest and the gorge of the Rangitata; but while in the bush they were overtaken by the enemy, a conflict ensued, and the Southern chief, Te Wanahu, was killed.]<note> The “tradition” recounted by Mackay is entirely spurious and is possibly conflated with the story of the attack led by Te Rauparaha (Ngāti Toa) on the Ngāi Tahu pā of Kaiapoi and Ōnawe in 1831. </note> </p>
+               <p></p>
+           </div>
+       </front>
+       
+       <body>
+           <lg>
+               <l> Here on the hill, where fern trees wave, </l>
+               <l> In the days of long ago </l>
+               <l> Was the last retreat of a Maori brave: </l>
+               <l> Wild and lone is the warrior’s grave— </l>
+               <l> Te Wanahu lies below. </l>
+           </lg>
+           <lg>
+               <l> On level Arowhenua plain,<note> Arowhenua plain. Arowhenua was a Maori settlement in the Canterbury region that was supplanted by the settler town of Temuka. </note> </l>
+               <l> And shore of Timaru, </l>
+               <l> That still their Maori names retain, </l>
+               <l> The Maories dwelt beneath the reign </l>
+               <l> Of brave Te Wanahu. </l>
+           </lg>
+           <lg>
+               <l> Over the deep a Northern crew, </l>
+               <l> Far in the days of yore, </l>
+               <l> Rowing the painted war-canoe, </l>
+               <l> Their faces dark with the fierce tattoo, </l>
+               <l> Came to Patiti shore. </l>
+           </lg>
+           <lg>
+               <l> Te Wanahu stood, as legends tell, </l>
+               <l> And swore, with martial breath, </l>
+               <l> To die or the Northern foe repel; </l>
+               <l> They danced on the shore, with fearful yell, </l>
+               <l> The terrible dance of death. </l>
+           </lg>
+           <lg>
+               <l> They fought and fell by the ocean deep </l>
+               <l> Till the foam was red with gore; </l>
+               <l> High on the sand was a slaughtered heap; </l>
+               <l> Long did the Maori mothers weep </l>
+               <l> For the fight at Patiti shore. </l>
+           </lg>
+           <lg>
+               <l> The battle was fought; the North had won; </l>
+               <l> Te Wanahu’s shattered band </l>
+               <l> Back to the <hi rend="italic">pah</hi><note> Author’s note: Pah, a Maori village or fortress. </note> in haste had gone. </l>
+               <l> In haste the chief at set of sun </l>
+               <l> Spoke to them, spear in hand: </l>
+           </lg>
+           <lg>
+               <l> “Hear, O tribe! the fight is o’er: </l>
+               <l> The Northern gods are strong: </l>
+               <l> The sons of the North are at our door; </l>
+               <l> The flower of my tribe on yonder shore </l>
+               <l> Lie a dead and ghastly throng! </l>
+           </lg>
+           <lg>
+               <l> “To-morrow raise the funeral cry; </l>
+               <l> To-morrow lament the slain; </l>
+               <l> To-night afar to the hill we fly, </l>
+               <l> Or else by the Northern spear we die </l>
+               <l> On Arowhenua plain.” </l>
+           </lg>
+           <lg>
+               <l> “O Arowhenua, and Timaru tide, </l>
+               <l> Farewell!” the maidens said. </l>
+               <l> They thought of the braves on the beach who died; </l>
+               <l> And the wives who were widowed wailed and cried </l>
+               <l> For the place where they were wed. </l>
+           </lg>
+           <lg>
+               <l> And so in the dark they fled away: </l>
+               <l> Te Wanahu led them on; </l>
+               <l> Red was his hand from the fatal fray; </l>
+               <l> Many a mile ere dawn of day </l>
+               <l> The wandering band had gone. </l>
+           </lg>
+           <lg>
+               <l> They reached the foot of a mountain high, </l>
+               <l> And entered the dark-green bush; </l>
+               <l> But all too late—the foe is nigh; </l>
+               <l> The men of the North their march descry </l>
+               <l> With savage yell and rush. </l>
+           </lg>
+           <lg>
+               <l> On the hill Te Wanahu turned at bay; </l>
+               <l> “Let the women and weak go on: </l>
+               <l> My warriors, stand and guard the way; </l>
+               <l> We pass to the spirit-world to-day, </l>
+               <l> But we go not there alone. </l>
+           </lg>
+           <lg>
+               <l> “Look your last on hill and sky, </l>
+               <l> Accursed Northern race!” </l>
+               <l> He brandished his greenstone <hi rend="italic">mere</hi><note> Author note: Mere, pronounced like Mary, the stone battle-axe of the Maories. </note> high, </l>
+               <l> And shouted a Maori battle-cry; </l>
+               <l> The foe came on apace. </l>
+           </lg>
+           <lg>
+               <l> The bird of the forest, scared away, </l>
+               <l> Far on the mountain flew; </l>
+               <l> Crushed were the ferns and red that day, </l>
+               <l> The frail white creeper shattered lay </l>
+               <l> At the foot of Te Wanahu. </l>
+           </lg>
+           <lg>
+               <l> Mothers of Manukau<note> Manukau. The Manukau harbour is in the Auckland region, in the north of the North Island. </note> tore their hair </l>
+               <l> For the braves who came no more; </l>
+               <l> And maids of Waikato,<note> Waikato. The Waikato region is in the centre of the North Island, and the Waikato river flows into the Manukau harbour. </note> in dark despair, </l>
+               <l> Mourned for the host that perished there </l>
+               <l> Or died at Patiti shore. </l>
+           </lg>
+           <lg>
+               <l> But the men of the South were failing fast </l>
+               <l> Around their dying chief. </l>
+               <l> He fell at the foot of a pine at last; </l>
+               <l> Through Reinga<note> Reinga. Te Reinga is the destination of the wairua (spirit or soul) of deceased persons, where it begins to descend to Te Pō, the world of the departed spirits. </note> gate his spirit passed </l>
+               <l> With grim farewell and brief. </l>
+           </lg>
+           <lg>
+               <l> And still the Rangitata rolls, </l>
+               <l> And wails in a tongue unknown </l>
+               <l> For Te Wanahu and his warriors’ souls; </l>
+               <l> For them no Christian requiem tolls: </l>
+               <l> They lie in the forest lone. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
