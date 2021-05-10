@@ -1,0 +1,67 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Voice of the River</q> </title>
+               <author> Jessie Mackay </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Robertson </publisher>
+                <pubPlace> Melbourne </pubPlace>
+               <date> 1889 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Mackay, Jessie. <q>The Voice of the River.</q> <hi rend="italic">The Spirit of the Rangatira and Other Ballads</hi> (Melbourne: Robertson, 1889), pp. 75-76. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> I hear thee to-night, О river!<note> River. It is unclear if the poem invokes a particular river, but Mackay was born in the vicinity of the Rakaia river, in the Canterbury region of the South Island. </note> </l>
+               <l> Methinks I hear thee to-night, </l>
+               <l> Afar in the midnight moaning </l>
+               <l> To pale starlight. </l>
+           </lg>
+           <lg>
+               <l> I hear thee, O desolate river! </l>
+               <l> And the sad winds stir </l>
+               <l> As if when the world was sleeping </l>
+               <l> They mourned for her. </l>
+           </lg>
+           <lg>
+               <l> And thou for the lives, O river! </l>
+               <l> That passed away on thy tide,<note> Passed away on thy tide. Drowning was referred to in colonial New Zealand as “the New Zealand death.” </note> </l>
+               <l> Thy conscience moans at midnight </l>
+               <l> For those who died. </l>
+           </lg>
+           <lg>
+               <l> I hear thee, O lonely river! </l>
+               <l> Dash on the rocks thy spray;— </l>
+               <l> Methinks I hear thee at midnight </l>
+               <l> Though far away. </l>
+           </lg>
+           <lg>
+               <l> Now art thou loud, O river! </l>
+               <l> And thy voice more wild and high; </l>
+               <l> Thy welcome it is to the morning </l>
+               <l> That now is nigh. </l>
+           </lg>
+           <lg>
+               <l> Like the sons of earth, thou river! </l>
+               <l> Thy tears flow in the night; </l>
+               <l> Like them thy smiles awaken </l>
+               <l> In morning light. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
