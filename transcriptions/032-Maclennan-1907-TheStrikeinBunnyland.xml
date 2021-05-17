@@ -1,0 +1,121 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Strike in Bunnyland and How it Was Prevented</q> </title>
+               <author> John MacLennan </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Whitcombe and Tombs </publisher>
+                <pubPlace> Christchurch </pubPlace>
+               <date> 1907 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Maclennan, John. <q>The Strike in Bunnyland and How it Was Prevented.</q> <hi rend="italic">Neptune’s Toll and Other Verses</hi> (Christchurch: Whitcombe and Tombs, 1907), pp. 38-40. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> In the South Isle<note> South Isle. The South Island of New Zealand, which experienced a plague of rabbits between the 1870s and 1890s. </note> of New Zealand, </l>
+               <l> With its tussock-dotted hills,<note> Tussock-dotted hills. Tussock is the dominant form of indigenous grassland ecosystem and was especially widespread in the South Island prior to colonisation.</note> </l>
+               <l> Where moss went a-grubbing long ago, </l>
+               <l> The rabbits of the Freeland </l>
+               <l> Arranged to air their ills, </l>
+               <l> And hold a famous parliament of woe— </l>
+               <l> Heigh-ho!— </l>
+               <l> Just the same as folk in “Windy”<note> Windy. A reference to the city of Wellington, location of New Zealand’s parliament. </note> do, you know! </l>
+           </lg>
+           <lg>
+               <l> A venerable rabbit </l>
+               <l> Stood upon a rotting stump, </l>
+               <l> And cocked his grey ears gaily in the air; </l>
+               <l> With most respectful habit </l>
+               <l> Each bunny ceased to jump, </l>
+               <l> To hear what he—their leader—would declare. </l>
+               <l> Each pair </l>
+               <l> Wore a most profound and educated stare. </l>
+           </lg>
+           <lg>
+               <l> “My lords and ladies” said he, </l>
+               <l> With a tremor on his lips </l>
+               <l> (For speech to him, like dress reform was new) </l>
+               <l> [“]You’ve most of you already </l>
+               <l> Forgot the massive ships<note> Ships. There were multiple attempts to introduce rabbits to different parts of New Zealand, beginning perhaps as early as the 1830s. </note> </l>
+               <l> Which brought you safely o’er the waters blue, </l>
+               <l> To view </l>
+               <l> This goodly land which England gave to you. </l>
+           </lg>
+           <lg>
+               <l> ‘Twas well with you, and happy </l>
+               <l> Each morn with welcome came— </l>
+               <l> Your only little trouble then was gout, </l>
+               <l> Fresh thistle-tops were sappy, </l>
+               <l> Whilst people spoke your fame,<note> Fame. The introduction of rabbits, as well as other species, was pursued and publicized by acclimatisation societies, notably in the Canterbury and Otago regions in the 1860s. </note> </l>
+               <l> Now their children's children want to turn you out— </l>
+               <l> Right about! </l>
+               <l> And they damn the ship that brought you with a shout. </l>
+           </lg>
+           <lg>
+               <l> They’re hunting you with powder,<note> Powder. Settlers explored a range of poisons, notably strychnine, arsenic, and various commercial products. </note> </l>
+               <l> They’re bribing you with snares, </l>
+               <l> Till simple rabbits scarce know where to tread. </l>
+               <l> Grim death they take and shroud her </l>
+               <l> In the toothsome oat<note> Toothsome oats. The most common means of rabbit control by the end of the nineteenth century was a mixture of phosphorus and oats, wheat, or bran. </note> that glares, </l>
+               <l> And thousands of your bunny friends are fed— </l>
+               <l> Till dead. </l>
+               <l> ‘Tis a greater bane than wine when it is red. </l>
+           </lg>
+           <lg>
+               <l> Your sons, refrigerated, </l>
+               <l> Are sent across the sea </l>
+               <l> In pretty painted, closely-fitting tins;<note> Refrigerated … across the sea … tins. The export of frozen rabbit carcasses to Britain began in the mid-1890s, and more than six million carcasses were exported annually by the turn of the century, primarily from the southern regions of the South Island. Tinned rabbit had been exported since the 1880s, but on a much smaller scale. </note> </l>
+               <l> I hear ‘tis estimated, </l>
+               <l> In the papers of the free, </l>
+               <l> That a rising price obtains in rabbit-skins. </l>
+               <l> What sins! </l>
+               <l> Is it wonder that a mutiny begins? </l>
+           </lg>
+           <lg>
+               <l> I see Lord M. T. Garrett </l>
+               <l> Has ‘Fur’<note> M. T. Garrett … Fur. The name, a homonym for “empty garret,” has not been associated with any particular magnate of the rabbit export trade. Rabbit pelts were first exported in the 1870s, and millions were exported annually by the 1890s. </note> marked on his tile— </l>
+               <l> The very name my trembling backbone pains. </l>
+               <l> He struts round like a parrot— </l>
+               <l> It makes my anger boil </l>
+               <l> To think the shelter M. T. Garrett gains </l>
+               <l> When it rains </l>
+               <l> Once covered in a noble rabbit’s brains. </l>
+           </lg>
+           <lg>
+               <l> The plan that I'm proposing </l>
+               <l> Is that rabbits all unite<note> Unite. Strikes by workers’ unions had been banned under the Industrial Conciliation and Arbitration Act (1890), which established compulsory arbitration with employers, but industrial unrest began to grow around the turn of the twentieth century with the emergence of socialist and revolutionary union movements. </note> </l>
+               <l> (For union strengthens everything but rum); </l>
+               <l> If at the meeting’s closing </l>
+               <l> You band yourselves for fight, </l>
+               <l> You soon could boss the lordly squatter’s run<note> Lordly squatter’s run. Squatters were large-scale pastoralists, and as a landed elite were referred to as the “squattocracy.” </note> </l>
+               <l> By gum! </l>
+               <l> How quickly then would glad Utopia come” </l>
+           </lg>
+           <lg>
+               <l> But ere they could assemble </l>
+               <l> To sign the binding scroll, </l>
+               <l> A sportsman had come out to have a shot. </l>
+               <l> A bang which made them tremble </l>
+               <l> Made their leader limply roll, </l>
+               <l> The gun was loaded well—the sportsman got </l>
+               <l> On the spot,— </l>
+               <l> And the strike which was intended happened not. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
