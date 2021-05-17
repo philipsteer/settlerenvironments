@@ -1,0 +1,86 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Farewell to the Estuary</q> </title>
+               <author> John MacLennan </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Whitcombe and Tombs </publisher>
+                <pubPlace> Christchurch </pubPlace>
+               <date> 1907 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> MacLennan, John. <q>Farewell to the Estuary.</q> <hi rend="italic">Neptune’s Toll and Other Verses</hi> (Christchurch: Whitcombe and Tombs, 1907), pp. 41-42. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> I promised to sing you<note> You. Likely the New River Estuary, at the mouth of the Ōreti River, at Invercargill in the south of the South Island of New Zealand. </note> a song one day, </l>
+               <l> Of your low mud flats, and the pine-clad sides </l>
+               <l> Of your long peninsula bridging the way </l>
+               <l> From the silver sun to your silver tides— </l>
+               <l> A soft song, </l>
+               <l> A low song, </l>
+               <l> A song where music bides. </l>
+           </lg>
+           <lg>
+               <l> I searched for rhythm to suit my mood, </l>
+               <l> When your tides were out and your wind was fair, </l>
+               <l> I searched for it oft amid storm and flood, </l>
+               <l> But dreaming may happen, I lost it there— </l>
+               <l> The glad song, </l>
+               <l> The sad song, </l>
+               <l> That floats through your evening air. </l>
+           </lg>
+           <lg>
+               <l> For long I waited the song to come, </l>
+               <l> When the moon was up and the boats were out, </l>
+               <l> And sped through your waters like sprites that roam </l>
+               <l> Through the golden mist, putting care to rout— </l>
+               <l> The old song, </l>
+               <l> The bold song, </l>
+               <l> That comes when the boats are out. </l>
+           </lg>
+           <lg>
+               <l> I wondered wherever a song could hide, </l>
+               <l> So clear was the air along your beach, </l>
+               <l> So free were the breezes that touched the tide, </l>
+               <l> Where rippled your waves, and gave to each </l>
+               <l> Their own song, </l>
+               <l> Their lone song, </l>
+               <l> The song of a moonlit beach. </l>
+           </lg>
+           <lg>
+               <l> Yet find it I could not for nights and days, </l>
+               <l> Though I watched them all till your low sun met </l>
+               <l> The twilight shades, and stars ablaze </l>
+               <l> With Arctic fire<note> Arctic fire. The aurora australis, or Tahu-nui-a-rangi/southern lights, is a counterpart to the aurora borealis and is visible from the south of the South Island. </note> in your dome were set— </l>
+               <l> The bright song, </l>
+               <l> The night song, </l>
+               <l> That lovers ne’er forget. </l>
+           </lg>
+           <lg>
+               <l> One evening I heard it as plain and clear </l>
+               <l> As song could be heard; but a night bird’s cry </l>
+               <l> Awoke ere I captured the song so dear; </l>
+               <l> I’ll seek it to-morrow—to-night, said I, </l>
+               <l> To thy song, </l>
+               <l> And my song </l>
+               <l> There comes a sad good-bye. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
+                   
