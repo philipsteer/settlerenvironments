@@ -1,0 +1,122 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Song of Waipori</q> </title>
+               <author> John MacLennan </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Whitcombe and Tombs </publisher>
+                <pubPlace> Christchurch </pubPlace>
+               <date> 1907 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Maclennan, John. <q>The Song of Waipori.</q> <hi rend="italic">Neptune’s Toll and Other Verses</hi> (Christchurch: Whitcombe and Tombs, 1907), pp. 41-42. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> I was born of the hills<note> Hills. The Waipori river rises in the Lammerlaw Range, in the Otago region of the South Island. </note> in the years long gone, </l>
+               <l> To be king of the valley and plain; </l>
+               <l> To bless me with shade were the forests reared, </l>
+               <l> On my banks were the moas slain; </l>
+               <l> The mist of the morn was my mantle meet, </l>
+               <l> And wherever I chose to wind </l>
+               <l> I hollowed the gorges and ground the rocks </l>
+               <l> To fashions that pleased my mind. </l>
+           </lg>
+           <lg>
+               <l> The Maoris stood by me—a trusty race— </l>
+               <l> And whatever their wrath might be </l>
+               <l> For those who invaded their dusky shores, </l>
+               <l> They were kindness itself to me. </l>
+               <l> To me came the streamlets with tributes bright; </l>
+               <l> The snow on the hills was mine; </l>
+               <l> To the mist and the rain and the mountain springs </l>
+               <l> My right was a right divine. </l>
+           </lg>
+           <lg>
+               <l> Over rocks that have lain at the mountain’s feet </l>
+               <l> For ages, I’ve heedlessly rolled. </l>
+               <l> My banks, they were studded with birch and fern, </l>
+               <l> And my bosom bedecked with gold. </l>
+               <l> The strength of the hills was bequeathed to me, </l>
+               <l> And as I meandered along, </l>
+               <l> Though glad to be beautiful, weird, and rich, </l>
+               <l> I was proud to be great and strong. </l>
+           </lg>
+           <lg>
+               <l> And oft as I wandered ‘mid sun and storm, </l>
+               <l> I murmured again and again: </l>
+               <l> The gold<note> Gold. Gold was discovered in a tributary of the Waipori River in late 1861, several months after the beginning of the Otago gold rush. </note> in my breast and my lordly strength </l>
+               <l> Are of little moment to men. </l>
+               <l> But they came for my wealth from the western isles, </l>
+               <l> Yet, strange as the compact seems, </l>
+               <l> For the tribute of gold that my bosom gave, </l>
+               <l> They gave me their wildest dreams. </l>
+           </lg>
+           <lg>
+               <l> ‘Twas a gladsome thing to be gloried thus; </l>
+               <l> The whole of my winding length </l>
+               <l> Was a weird, wild dream of my golden store, </l>
+               <l> With never a thought of my strength. </l>
+               <l> And with never a care for my gold, said I, </l>
+               <l> They will leave me my lordly fame. </l>
+               <l> But the dreamers were glad with their dreaming still, </l>
+               <l> When other invaders<note> Other invaders. The Waipori Electric Power Company was formed in 1902 with the aim of generating hydroelectric power from the Waipori River, and its first power station began operating in 1907. </note> came. </l>
+           </lg>
+           <lg>
+               <l> All vainly, at first, for my strength they sought— </l>
+               <l> They never could make me kneel; </l>
+               <l> Till they bound me down with a birchen chain<note> Birchen chain. Wooden flumes diverted water from the Waipori River to the power station. </note> </l>
+               <l> To the shaft of a kingly wheel.<note> Kingly wheel. A reference to the two Pelton wheels installed in the power station to generate electricity. </note> </l>
+               <l> I was sore in my heart to be hampered thus, </l>
+               <l> Then I laughed at my pain, and vowed </l>
+               <l> That I might be chained to a wheel and still </l>
+               <l> Have strength enough to be proud. </l>
+           </lg>
+           <lg>
+               <l> They tore me thus from the rocky bed </l>
+               <l> Which ever my home had been, </l>
+               <l> And set me down on a mountain side, </l>
+               <l> At the gates of the Southern Queen. </l>
+               <l> Much beauty was stored on her sunny slopes, </l>
+               <l> At her feet a majestic sea, </l>
+               <l> And, doing my bidding, she opened her gates, </l>
+               <l> And gave to me liberty. </l>
+           </lg>
+           <lg>
+               <l> Then, swiftly, the thought of my strength returned, </l>
+               <l> I sprang to my feet once more, </l>
+               <l> And, blessing the mountains that gave me birth— </l>
+               <l> Remembering deeds of yore— </l>
+               <l> I banished forever the hissing stream, </l>
+               <l> I lighted the hill and the wave, </l>
+               <l> Wherever a spindle I chanced to touch, </l>
+               <l> That spindle became my slave. </l>
+           </lg>
+           <lg>
+               <l> In midnight I found me a royal place, </l>
+               <l> For out on the coast by night, </l>
+               <l> They gave me a mission to hide the stars </l>
+               <l> By filling the world with light.<note> Light. The Waipori Electric Power Company supplied electricity to the city of Dunedin. </note> </l>
+               <l> And never a thought of the wheel had I, </l>
+               <l> Nor a care for the birchen chain, </l>
+               <l> For with the command of a thousand wheels, </l>
+               <l> I was king of the land again. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
+                   
