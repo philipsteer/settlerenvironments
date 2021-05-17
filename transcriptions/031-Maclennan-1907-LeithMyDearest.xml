@@ -1,0 +1,77 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Leith, My Dearest</q> </title>
+               <author> John Maclennan </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Whitcombe and Tombs </publisher>
+                <pubPlace> Christchurch </pubPlace>
+               <date> 1907 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Maclennan, John. <q>Leith, My Dearest.</q> <hi rend="italic">Neptune’s Toll and Other Verses</hi> (Christchurch: Whitcombe and Tombs, 1907), pp. 32-33. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Leith,<note> Leith. Ōwheo, or the River Leith, flows through the city of Dunedin, in the Otago region of the South Island. </note> my dearest, on thy banks, </l>
+               <l> I, tho’ far away, am dreaming. </l>
+               <l> King art thou of artful pranks, </l>
+               <l> To set the lights of love a-gleaming, </l>
+               <l> Wander through thy rocky glen, </l>
+               <l> Wimple, sparkle gaily by me. </l>
+               <l> Sing the April song again, </l>
+               <l> That once you sang to me and Mimie. </l>
+           </lg>
+           <lg>
+               <l> Was there ever such a tune </l>
+               <l> As this from thee my soul hath taken? </l>
+               <l> But touch a chord of which, and soon </l>
+               <l> A thousand answering chords awaken. </l>
+               <l> Well thou know'st to voice the chords, </l>
+               <l> Clear as mountain air above thee, </l>
+               <l> Music set to simple words </l>
+               <l> That pleased her so, and made me love thee. </l>
+           </lg>
+           <lg>
+               <l> Did’st thou not enchant the fern! </l>
+               <l> The moss in beauty's nectar lave it! </l>
+               <l> Command thy mountain sides to learn, </l>
+               <l> And echo back the names we gave it it!— </l>
+               <l> Kissed you not her snowy feet, </l>
+               <l> Counting gain the sighs they cost thee! </l>
+               <l> Glad, because she cared to cheat </l>
+               <l> The wee manuka bridge<note> Manuka bridge. Mānuka, also known as tea tree, is a low-growing tree that typically grows on poor soils. </note> that crossed thee. </l>
+           </lg>
+           <lg>
+               <l> Here another streamlet glides, </l>
+               <l> Here another thrush<note> Thrush. The song thrush was introduced across New Zealand during the 1860s. </note> is singing; </l>
+               <l> Love on many beauteous tides </l>
+               <l> Its tiny fleet is homeward bringing. </l>
+               <l> But I long to see thy hills, </l>
+               <l> To hear thy crystal water falling; </l>
+               <l> Thine the only voice that trills, </l>
+               <l> The song for which my soul is calling. </l>
+           </lg>
+           <lg>
+               <l> Then, my dearest, through thy glen, </l>
+               <l> Wimple, sparkle gaily by me. </l>
+               <l> Sing the April song again, </l>
+               <l> That once you sang to me and Mimie. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
