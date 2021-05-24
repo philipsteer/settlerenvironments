@@ -1,0 +1,103 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The West Wind</q> </title>
+               <author> Hubert Church </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Bulletin Newspaper Co. </publisher>
+                <pubPlace> Sydney </pubPlace>
+                <date> 1902 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Church, Hubert. <q>The West Wind.</q> <hi rend="italic">The West Wind</hi> (Sydney: Bulletin Newspaper Co., 1902), pp. 4-5. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> From out the city’s<note> City. Likely Wellington, New Zealand, where Church had lived since 1879. </note> maelstrom </l>
+               <l> To thee with thankfulness I come, </l>
+               <l> For thou dost scatter in thy breeze </l>
+               <l> The treasure of a thousand seas! </l>
+           </lg>
+           <lg>
+               <l> Thou hast the breath of spicy gales </l>
+               <l> From islands of unfurling sails. </l>
+               <l> And, scarce above the tide, the shores </l>
+               <l> Irradiate of madrepores.<note> Madrepores. Coral. </note> </l>
+           </lg>
+           <lg>
+               <l> There thou, perchance, hast blown athwart </l>
+               <l> Some mouldering fabric all amort, </l>
+               <l> Whose heart, dear God! may even be </l>
+               <l> A sepulchre amid the sea; </l>
+           </lg>
+           <lg>
+               <l> Like some despairing man outworn, </l>
+               <l> Who carries in his breast forlorn </l>
+               <l> The ghosts of faith no more enjoyed, </l>
+               <l> Love, hope, and conscience unalloyed. </l>
+           </lg>
+           <lg>
+               <l> Yet in thy strenuous harmony </l>
+               <l> Methinks I hear the threnody </l>
+               <l> Of surging continents that roll </l>
+               <l> In sable terror to the pole. </l>
+           </lg>
+           <lg>
+               <l> There thou thyself in pain dost go </l>
+               <l> Through sleet and lightning, hail and snow, </l>
+               <l> Impetuous for the azure main </l>
+               <l> Where thou canst rock to sleep again. </l>
+           </lg>
+           <lg>
+               <l> Pour on me the magic thralls </l>
+               <l> Of old cathedrals, in whose walls </l>
+               <l> A thousand years of praise have given </l>
+               <l> Their sanctuary the peace of heaven. </l>
+           </lg>
+           <lg>
+               <l> And let your whisperings disclose </l>
+               <l> The secret of the nor’land rose, </l>
+               <l> Who waves her long white life to sleep </l>
+               <l> Beneath some scarred, embattled keep, </l>
+           </lg>
+           <lg>
+               <l> Whose twilight elfin bugles blow </l>
+               <l> Unearthly music that does flow </l>
+               <l> To where the cataract is poured </l>
+               <l> Within the eremite fiord. </l>
+           </lg>
+           <lg>
+               <l> Where'er my early footsteps strayed </l>
+               <l> Thy wild companions too have played, </l>
+               <l> And here upon this Southern shore </l>
+               <l> Have sent with thee my youth once more. </l>
+           </lg>
+           <lg>
+               <l> And as I watch thy trailing cloud, </l>
+               <l> My heart beneath the verge is bowed </l>
+               <l> To where the casement of the boy </l>
+               <l> Oped every morning into Joy. </l>
+           </lg>
+           <lg>
+               <l> I hear a sound, I feel a touch: </l>
+               <l> The ocean’s depth it is not such,— </l>
+               <l> The dawn of an intenser day </l>
+               <l> Beyond the sunset, far away. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
