@@ -1,0 +1,61 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>A Swallow in Maoriland</q> </title>
+               <author> Hubert Church </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Bulletin Newspaper Co. </publisher>
+                <pubPlace> Sydney </pubPlace>
+               <date> 1902 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Church, Hubert. <q>A Swallow in Maoriland.</q> <hi rend="italic">The West Wind</hi> (Sydney: Bulletin Newspaper Co., 1902), p. 10. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Dear swallow from a fonder sky!<note> Swallow … fonder sky. The welcome swallow was a rare visitor to New Zealand from Australia, and only became established there in the mid-twentieth century. </note> </l>
+               <l> Why do you leave your happy mate </l>
+               <l> Within the golden lands that lie </l>
+               <l> Beyond the evening's shadowy gate? </l>
+               <l> Ah, tender wings! you bear a load </l>
+               <l> That only Memory may see,— </l>
+               <l> The fragrance of my Youth’s abode, </l>
+               <l> The ecstasy of life to me! </l>
+           </lg>
+           <lg>
+               <l> It may be that their beat has weaved </l>
+               <l> A path by Childhood’s starry creek, </l>
+               <l> Where jealous ferns droop interleaved </l>
+               <l> To hear the whispering waters speak; </l>
+               <l> And thou, perchance, hast flown aloof </l>
+               <l> Athwart the garden sweet and wild, </l>
+               <l> And rested on the sheltering roof </l>
+               <l> Where tender Love and I have smiled! </l>
+           </lg>
+           <lg>
+               <l> Already thou on ceaseless wings </l>
+               <l> Art bidden to thy loved return; </l>
+               <l> To all thy flight my vision clings, </l>
+               <l> For far-off home like thee I yearn; </l>
+               <l> And through the warm, unfolding tears </l>
+               <l> I see the sacred fount again </l>
+               <l> That poured the Joy of Childhood’s years </l>
+               <l> The still, supremest heart of Pain! </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
