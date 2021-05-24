@@ -1,0 +1,54 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Gentle River</q> </title>
+               <author> John MacLennan </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Whitcombe and Tombs </publisher>
+                <pubPlace> Christchurch </pubPlace>
+                <date> 1907 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> MacLennan, John. <q>The Gentle River.</q> <hi rend="italic">Neptune’s Toll and Other Verses</hi> (Christchurch: Whitcombe and Tombs, 1907), pp. 50. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> I know a certain valley  where the birch  and rata  lend </l>
+               <l> Their stately form and colour to the sky, </l>
+               <l> Where brambles deck the hollow and ferns  in grandeur bend </l>
+               <l> To kiss the gentle stream that eddies by.
+                   
+                   I know a rugged footpath where a crazy little bridge </l>
+               <l> Is built alone to bear the weight of love, </l>
+               <l> Or glass its rustic beauty in the waters of the ridge, </l>
+               <l> Or shade them from the azure light above.
+                   
+                   I know a sweet November where morning glory<note></note> creeps </l>
+               <l> Around the heart to while its care away;
+                   A fallen forest monarch entombed in emerald sleeps
+                   Where lovers rest to dream their sweet to-day.
+                   
+                   I know these things are transient, for winter comes anon
+                   To claim as withered leaves the rata bud;
+                   But yet a little summer till its loveliness is gone
+                   And gentle streams be ruffled by the flood.
+                   
+                   But I know another valley where frost shall never come,
+                   Where rata’s crimson blossoms never die;
+                   For fern and mossy valley in memory have a home
+                   Eternal as the stream that eddies by.
+                   
