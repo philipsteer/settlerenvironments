@@ -1,0 +1,71 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Under the Nikau</q> </title>
+               <author> John MacLennan </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Whitcombe and Tombs </publisher>
+                <pubPlace> Christchurch </pubPlace>
+               <date> 1907 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> MacLennan, John. <q>Under the Nikau.</q> <hi rend="italic">Themes and Variations</hi> (Christchurch: Whitcombe and Tombs, 1907), pp. 76-77. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> I'm singing a song to you[,] South, </l>
+               <l> Here in the northern shade— </l>
+               <l> A song that is sung by the mouth </l>
+               <l> Of the spirit that dwells in the glade. </l>
+               <l> It breathes of the lichen and moss, </l>
+               <l> Its rhythm is peacefully calm, </l>
+               <l> And glides through the sunbeams that glimmer across, </l>
+               <l> Under the Nikau palm.<note> Nikau palm. The nikau, New Zealand’s only native palm, is found in the North Island and as far south as the Canterbury region in the South Island. </note> </l>
+           </lg>
+           <lg>
+               <l> The fantails<note> Fantails. Pīwakawaka, or the fantail, is a gregarious and acrobatic bird that feeds on insects. </note> are twitt’ring above, </l>
+               <l> Full nimbly they’re dancing among </l>
+               <l> The branches; whilst, brimming with love, </l>
+               <l> The blackbird<note> Blackbird. The blackbird was introduced to New Zealand in the 1860s and 1870s. </note> is chanting his song. </l>
+               <l> The soul of the forest’s awake, </l>
+               <l> Emitting its heart-healing balm, </l>
+               <l> That floats in the shadow for melody’s sake, </l>
+               <l> Under the Nikau palm. </l>
+           </lg>
+           <lg>
+               <l> There’s rapture in manifold green </l>
+               <l> That reigns in the valley alone, </l>
+               <l> There’s love in its grandeur serene, </l>
+               <l> And love hath a way of its own </l>
+               <l> Of taking the flowers to its breast, </l>
+               <l> And giving a voice to the psalm </l>
+               <l> That floats through the forest at eventide, </l>
+               <l> Under the Nikau palm. </l>
+           </lg>
+           <lg>
+               <l> Then listen, dear South, to the song </l>
+               <l> That lovers unconsciously learn, </l>
+               <l> Who rest for a season among </l>
+               <l> The gullies of sensitive fern. </l>
+               <l> ‘Tis fronded and restful and free, </l>
+               <l> Heart healing, consoling, and calm, </l>
+               <l> The sylvan song in the northern shade, </l>
+               <l> Under the Nikau palm. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
