@@ -1,0 +1,85 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>To a Seagull</q> </title>
+               <author> Hubert Church </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Bulletin Newspaper Co. </publisher>
+                <pubPlace> Sydney </pubPlace>
+               <date> 1902 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Church, Hubert. <q>To a Seagull.</q> <hi rend="italic">The West Wind</hi> (Sydney: Bulletin Newspaper Co., 1902), pp. 14-15. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Here the hollows are wave-enchanted, </l>
+               <l> Here the winds that are scourged through zones </l>
+               <l> Blow with trumpets an anthem haunted, </l>
+               <l> Dreams of coral and dead men’s bones. </l>
+           </lg>
+           <lg>
+               <l> Over the bars, the foam, the thunder, </l>
+               <l> Purple delights and sluiced lagoons, </l>
+               <l> Over the reefs that shatter asunder </l>
+               <l> Fiery waves in million moons, </l>
+           </lg>
+           <lg>
+               <l> Over the ships that move untiring, </l>
+               <l> Lovely as floating madrepores,<note> Madrepores. Coral. </note>— </l>
+               <l> Here they lull, like a soul desiring </l>
+               <l> Ultimate slumber on these shores. </l>
+           </lg>
+           <lg>
+               <l> Here away from the World’s endeavour </l>
+               <l> I, the gull,<note> Gull. New Zealand has several species of gull and tern. </note> and the cloud are three, </l>
+               <l> Two the same for ever and ever, </l>
+               <l> Inaccessible unto me! </l>
+           </lg>
+           <lg>
+               <l> They from dawning of Time have floated </l>
+               <l> Careless over the earth and sea, </l>
+               <l> Ne’er like mortals in darkness moated, </l>
+               <l> Dungeoned spirits that would be free. </l>
+           </lg>
+           <lg>
+               <l> Bird like music, and love, and morning, </l>
+               <l> Day’s forerunner, eternal joy! </l>
+               <l> Thou and all wings that beat are scorning </l>
+               <l> Man, too heavy with sad alloy. </l>
+           </lg>
+           <lg>
+               <l> Thee no sorrow old age is bringing, </l>
+               <l> Joy for ever from bowy lips </l>
+               <l> Throws thee kisses, and Ocean’s singing </l>
+               <l> Thrills thy pennons’ tremulous tips. </l>
+           </lg>
+           <lg>
+               <l> Thou art the same as birds that folded </l>
+               <l> Wings on the wave of a winsome world: </l>
+               <l> Thine delirious motion moulded </l>
+               <l> Under the winds at dawning hurled. </l>
+           </lg>
+           <lg>
+               <l> And for ever thy path is Fancy’s, </l>
+               <l> Seas, the sun, and the clouds thy peers; </l>
+               <l> And like echoes of old romances </l>
+               <l> Thou recallest our careless years. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
