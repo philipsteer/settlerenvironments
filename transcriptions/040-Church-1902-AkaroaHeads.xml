@@ -1,0 +1,49 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Akaroa Heads</q> </title>
+               <author> Hubert Church </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Bulletin Newspaper Co. </publisher>
+                <pubPlace> Sydney </pubPlace>
+               <date> 1902 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Church, Hubert. <q>Akaroa Heads.</q> <hi rend="italic">The West Wind</hi> (Sydney: Bulletin Newspaper Co., 1902), p. 17. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Oh! what a solitude is all around </l>
+               <l> The hermit sea, the splintered cliff<note> Splintered cliff. A description of the entrance to Akaroa harbour, in the Canterbury region of the South Island of New Zealand, which is the eroded cone of an extinct volcano. </note> that falls </l>
+               <l> In altars on eternal pedestals </l>
+               <l> That make the wilderness a holy ground! </l>
+               <l> Yet surely do I hear an ancient sound,<note> Sound. Church had been completely deaf since childhood, due to a sporting injury. </note> </l>
+               <l> Barbaric worship in these massy walls, </l>
+               <l> Souls bared to heaven where now the seamew calls, </l>
+               <l> Wild rapture where is now a death profound. </l>
+           </lg>
+           <lg>
+               <l> Oh! may my spirit never fail to soar </l>
+               <l> Far from the foamy fabric of the brine </l>
+               <l> And all the shallow coil that cumbers Life, </l>
+               <l> Lest I be like this desolated shore, </l>
+               <l> For ever fretted, and for ever strife, </l>
+               <l> A soul whose altars are no more divine. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
