@@ -1,0 +1,60 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Bowen Falls, Milford Sound</q> </title>
+               <author> Hubert Church </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Bulletin Newspaper Co. </publisher>
+                <pubPlace> Sydney </pubPlace>
+               <date> 1902 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Church, Hubert. <q>Bowen Falls, Milford Sound.</q> <hi rend="italic">The West Wind</hi> (Sydney: Bulletin Newspaper Co., 1902), p. 20. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> O waterfall that fallest to the sea,<note> Waterfall … sea. Hineteawa, or the Lady Bowen Falls, discharges into Milford Sound, a fiord on the west coast of the South Island of New Zealand. </note> </l>
+               <l> Falling for ever to white virginals </l>
+               <l> Of olden melody! thy voice I hear </l>
+               <l> In molten moments of the summer stars </l>
+               <l> When the great sun is dead in majesty. </l>
+           </lg>
+           <lg>
+               <l> From the white fields of home like thee I came </l>
+               <l> Impetuous to the cliffs, and I have poured </l>
+               <l> Treasure of love on altars cold, as thou </l>
+               <l> Hast showered thy rainbow on the icy rocks, </l>
+               <l> That have not felt thy kiss,—and I would die. </l>
+           </lg>
+           <lg>
+               <l> Athwart the hollows of the moon-fed air </l>
+               <l> Come eider tremors of thy dying plunge, </l>
+               <l> Surceasing as child-tired eyelids droop </l>
+               <l> Upon a wavy bosom, rocked with love </l>
+               <l> Poured from the heaven for ever like thy song. </l>
+           </lg>
+           <lg>
+               <l> The moon is kissing thy keen diadem, </l>
+               <l> Sick for her barrenness, and all her face </l>
+               <l> Creeps to thy white arc down the precipice, </l>
+               <l> As I have nestled, yearning with wild eyes, </l>
+               <l> Into the umber chancels of a soul. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
+                   
