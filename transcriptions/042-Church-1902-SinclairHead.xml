@@ -1,0 +1,49 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Sinclair Head, Cook Strait, M.L.</q> </title>
+               <author> Hubert Church </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Bulletin Newspaper Co. </publisher>
+                <pubPlace> Sydney </pubPlace>
+               <date> 1902 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Church, Hubert. <q>Sinclair Head, Cook Strait, M.L.</q> <hi rend="italic">The West Wind</hi> (Sydney: Bulletin Newspaper Co., 1902), p. 18. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> The waves<note> Waves. Sinclair Head/Te Rimurapa is near Wellington harbour and faces Cook Strait, which separates the North and South Islands of New Zealand. Church had lived in Wellington since 1879. </note> come flawless from the hand of God, </l>
+               <l> Fresh and for ever new, and all the Ocean </l>
+               <l> Folds from the orient <sic>ecstacy’s</sic> emotion </l>
+               <l> As if Divinity for ever trod </l>
+               <l> Upon the infinite purple deep and broad; </l>
+               <l> And every billow pours its one devotion </l>
+               <l> To die upon the shore in perfect motion, </l>
+               <l> White, chaste, and shadowless in its last abode. </l>
+           </lg>
+           <lg>
+               <l> We, miserable, fallen on a time </l>
+               <l> Too much o’erwrought and prematurely old, </l>
+               <l> And only knowing Grief is each day’s friend, </l>
+               <l> Do but despairingly adore the chime </l>
+               <l> Of the wild surges, chanting without end </l>
+               <l> Secrets of joy to human ears untold. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
