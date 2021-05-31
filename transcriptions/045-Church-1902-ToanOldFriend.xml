@@ -1,0 +1,81 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>To an Old Friend</q> </title>
+               <author> Hubert Church </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Bulletin Newspaper Co. </publisher>
+                <pubPlace> Sydney </pubPlace>
+               <date> 1902 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Church, Hubert. <q>To an Old Friend.</q> <hi rend="italic">The West Wind</hi> (Sydney: Bulletin Newspaper Co., 1902), pp. 26-27. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> A stately tree </l>
+               <l> Where ivy wanders round the bole, </l>
+               <l> And you may hear the midnight sea </l>
+               <l> Moan in its caverns like a soul </l>
+               <l> Chastened by adversity. </l>
+           </lg>
+           <lg>
+               <l> Old storms have swept </l>
+               <l> Fair branches of a younger day; </l>
+               <l> The melancholy wind has wept </l>
+               <l> The homeless hours in tears away </l>
+               <l> While the timorous birds have slept. </l>
+           </lg>
+           <lg>
+               <l> But in the Spring </l>
+               <l> Come feathered warblers<note> Feathered warblers. The phrase does not appear to refer to any particular species of bird.</note> from the sound </l>
+               <l> Of coral foam, and many a wing </l>
+               <l> Waves nestling sympathy around, </l>
+               <l> To their old home twittering. </l>
+           </lg>
+           <lg>
+               <l> And as each bird </l>
+               <l> Pipes the full treble of the South </l>
+               <l> The branches tremble in a blurred </l>
+               <l> Faint echo, as a human mouth </l>
+               <l> Falters notes by memory stirred. </l>
+           </lg>
+           <lg>
+               <l> So I, a youth, </l>
+               <l> Come to you with a Spring-tide voice </l>
+               <l> To whisper an endearing truth: </l>
+               <l> The aged heart may best rejoice </l>
+               <l> Knowing clearer heavenly ruth. </l>
+           </lg>
+           <lg>
+               <l> And I will take </l>
+               <l> From my full cruse a placid balm </l>
+               <l> To scatter on pale Memory’s wake, </l>
+               <l> And you shall feel a summer calm, </l>
+               <l> Happy for the giver’s sake. </l>
+           </lg>
+           <lg>
+               <l> And you shall be </l>
+               <l> My shelter from Youth’s troublous wind </l>
+               <l> When all my soul is agony, </l>
+               <l> <sic>Deeptrustful</sic> I shall ever find </l>
+               <l> In your heart a roof for me. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
+                   
