@@ -1,0 +1,49 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Cape Raoul, Tasman’s Peninsula</q> </title>
+               <author> Hubert Church </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Bulletin Newspaper Co. </publisher>
+                <pubPlace> Sydney </pubPlace>
+               <date> 1902 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Church, Hubert. <q>Cape Raoul, Tasman’s Peninsula.</q> <hi rend="italic">The West Wind</hi> (Sydney: Bulletin Newspaper Co., 1902), p. 17. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Scar,<note> Scar. The tip of Cape Raoul, on the Tasman Peninsula, Tasmania, features tall sea cliffs and natural stone columns that jut into the sea. Church was born in Tasmania in 1857 and lived there until 1865. Joseph Raoul was quartermaster of one of the ships of the d’Entrecasteaux expedition, which visited the area twice in 1792-3. </note> ever frowning to the Southern pole </l>
+               <l> Over a sullen ocean, thou hast seen </l>
+               <l> Splendour of God and devilry of men, </l>
+               <l> Earthquake and tempest, and the stubborn soul </l>
+               <l> Of the oppressor;<note> Oppressor. The reference is unclear. </note> now thou art a scroll </l>
+               <l> Where Time has writ the fury that has been, </l>
+               <l> And thou for solace on the clouds dost lean, </l>
+               <l> From their full utterance gathering a soft toll. </l>
+           </lg>
+           <lg>
+               <l> The surges at thy base for ever thunder, </l>
+               <l> The piping winds like haggard spirits wail, </l>
+               <l> And from afar the melancholy main, </l>
+               <l> Tinged as if Sorrow’s palace was thereunder, </l>
+               <l> Yearns to thee for its solitary pain </l>
+               <l> Unsoothed by the magic of a sail. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
