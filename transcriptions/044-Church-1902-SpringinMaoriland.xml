@@ -1,0 +1,56 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Spring in Maoriland</q> </title>
+               <author> Hubert Church </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Bulletin Newspaper Co. </publisher>
+                <pubPlace> Sydney </pubPlace>
+               <date> 1902 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Church, Hubert. <q>Spring in Maoriland.</q> <hi rend="italic">The West Wind</hi> (Sydney: Bulletin Newspaper Co., 1902), p. 21. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Thou wilt come with suddenness,<note> Suddenness. The settler calendar identifies September as the beginning of Spring. </note> </l>
+               <l> Like a gull between the waves, </l>
+               <l> Or a snowdrop that doth press </l>
+               <l> Through the white shroud on the graves; </l>
+               <l> Like a love too long withheld, </l>
+               <l> That at last has over-welled. </l>
+           </lg>
+           <lg>
+               <l> What if we have waited long, </l>
+               <l> Brooding by the Southern Pole, </l>
+               <l> Where the towering icebergs throng, </l>
+               <l> And the inky surges roll: </l>
+               <l> What can all their terror be </l>
+               <l> When thy fond winds compass thee? </l>
+           </lg>
+           <lg>
+               <l> They shall blow through all the land </l>
+               <l> Fragrance of thy cloudy throne, </l>
+               <l> Underneath the rainbow spanned </l>
+               <l> Thou wilt enter in thine own, </l>
+               <l> And the glittering earth shall shine </l>
+               <l> Where thy footstep is divine. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
+                   
