@@ -1,0 +1,88 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Maoriland</q> </title>
+               <author> Hubert Church </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Bulletin Newspaper Co. </publisher>
+                <pubPlace> Sydney </pubPlace>
+               <date> 1902 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Church, Hubert. <q>Maoriland.</q> <hi rend="italic">The West Wind</hi> (Sydney: Bulletin Newspaper Co., 1902), pp. 35-36. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Afar<note> Afar. The poem’s title, “Maoriland,” was from the 1880s to the 1910s a “literary synonym for New Zealand” (Jane Stafford and Mark Williams, <hi rend="italic">Maoriland: New Zealand Literature 1872-1914</hi>, Wellington: Victoria University Press, 2006, p. 10). </note> in some forgotten wood </l>
+               <l> Whose only worshippers, the clouds, </l>
+               <l> Poise in a stately interlude </l>
+               <l> Above the topmost leafy shrouds, </l>
+               <l> To listen to a waterfall </l>
+               <l> That winnows slumber thro’ the pines . . . </l>
+               <l> There was thy cradle placed, and all </l>
+               <l> Thy radiance around them shines. </l>
+           </lg>
+           <lg>
+               <l> To thee no Naiad oaring pressed </l>
+               <l> The rich reeds of a sacred stream, </l>
+               <l> Nor ibis of revered nest </l>
+               <l> Sailed in a melancholy gleam </l>
+               <l> Of moated stillness, like a dream </l>
+               <l> Wherein a swarthy queen lay hid </l>
+               <l> In blood-cemented pyramid: </l>
+           </lg>
+           <lg>
+               <l> Nor any wreath of cannon-smoke </l>
+               <l> Clung to old palaces and towers; </l>
+               <l> But, best for thee, the Forest spoke, </l>
+               <l> To tell the secret to the flowers </l>
+               <l> That thou wert born, and evermore </l>
+               <l> The wave that wandered to the shore </l>
+               <l> Was free as thou wert, and no more. </l>
+           </lg>
+           <lg>
+               <l> Ah! something of their sap has crept </l>
+               <l> Into thy being: thou hast grown </l>
+               <l> Where balmy sun and winter kept </l>
+               <l> A shadowy tryst with thee alone: </l>
+               <l> Thou hast the wildness of the wood, </l>
+               <l> The dim enchantment of the creek; </l>
+               <l> And surely somewhere thou hast stood </l>
+               <l> Where God himself vouchsafed to speak . . . </l>
+           </lg>
+           <lg>
+               <l> Thy sweet elusive spirit dwells </l>
+               <l> Amid the far-suspended South, </l>
+               <l> And there thy lonely passion tells </l>
+               <l> Its pain upon thy dreamy mouth: </l>
+               <l> For ever on the mountain side </l>
+               <l> The snow imprisoned, and the tide </l>
+               <l> That is eternally denied </l>
+               <l> The shore, aloof with thee abide. </l>
+           </lg>
+           <lg>
+               <l> Perhaps on thy revealing face </l>
+               <l> The shadows of the unforeseen </l>
+               <l> Have left too deep for joy their trace; </l>
+               <l> But ah! thy tender heart may lean </l>
+               <l> To those that bore the storm and stress, </l>
+               <l> But soothed from Sorrow all her grace </l>
+               <l> Thy land of fading tears to bless! </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
