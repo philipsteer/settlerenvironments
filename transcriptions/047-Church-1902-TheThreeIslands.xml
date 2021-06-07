@@ -1,0 +1,71 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Three Islands</q> </title>
+               <author> Hubert Church </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Bulletin Newspaper Co. </publisher>
+                <pubPlace> Sydney </pubPlace>
+               <date> 1902 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Church, Hubert. <q>The Three Islands.</q> <hi rend="italic">The West Wind</hi> (Sydney: Bulletin Newspaper Co., 1902), p. 39. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> How blest these islands<note> These islands. The three main islands of Aotearoa New Zealand: Te Ika-a-Māui/North Island, Te Waipounamu/South Island, and Rakiura/Stewart Island. </note> of the morn, </l>
+               <l> The diadem of lonely seas </l>
+               <l> Where the Almighty’s smile is born </l>
+               <l> To follow westward with the breeze: </l>
+               <l> For first on us the light of God<note> First … light of God. New Zealand’s proximity to the international dateline, which was formally established with the recognition of Greenwich as the prime meridian in the 1880s. </note> </l>
+               <l> Each matin from the heaven is bowed, </l>
+               <l> Swift as the fury of the sword, </l>
+               <l> Soft as the rainbow in the cloud! </l>
+           </lg>
+           <lg>
+               <l> Around us are white-woven waves </l>
+               <l> That ne’er have felt a tyrant’s keel, </l>
+               <l> That roll above old heroes’ graves<note> Old heroes’ graves. The reference is unclear. </note> </l>
+               <l> To thunder in a breaking peal; </l>
+               <l> And overhead the snowy scars, </l>
+               <l> Where never foot of man hath clomb, </l>
+               <l> Point to the everlasting stars </l>
+               <l> That lustre all the Southern dome. </l>
+           </lg>
+           <lg>
+               <l> Glad rivers from the forest flow </l>
+               <l> Or fall in frolic from the peaks, </l>
+               <l> In myriad flowers our spirits know </l>
+               <l> The sweetness of Jehovah speaks; </l>
+               <l> And through the woods low murmurs run, </l>
+               <l> Blent voices from the circle sea </l>
+               <l> That whisper we and they are one, </l>
+               <l> Bred of the ocean, and as free! </l>
+           </lg>
+           <lg>
+               <l> The thunder of the moa’s<note> Moa. The moa, an extinct flightless bird, was an icon of colonial New Zealand. </note> gorge </l>
+               <l> Shall be our answer to the foe; </l>
+               <l> As sparks that feather from the forge </l>
+               <l> Our souls shall rise in battle’s glow: </l>
+               <l> So Peace shall wreathe our iron capes </l>
+               <l> That frown defiance to the foam </l>
+               <l> That smites with fury and escapes </l>
+               <l> In hissing ruin to its home! </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
