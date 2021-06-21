@@ -1,0 +1,73 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Kauri Forest</q> </title>
+               <author> <q>St. George</q> (Frances Shayle George) </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> New Zealander </publisher>
+                <pubPlace> Auckland </pubPlace>
+                <date> 1853 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> "St. George" [Frances Shayle George]. <q>The Kauri Forest.</q> <hi rend="italic">New Zealander</hi>, 5 October 1853, p. 3. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> They raised their stately heads in pride, </l>
+               <l> O’er all the forest trees,<note> O’er all the forest trees. Kauri is the tallest tree species in Aotearoa New Zealand, growing forty or fifty meters in height. </note> </l>
+               <l> Their shadows lingered on the tide </l>
+               <l> Of circumambient seas;<note> Circumambient seas. Likely a poetic description of New Zealand’s island geography, but possibly a reference to the coastal forests that were the earliest basis of the kauri trade. </note> </l>
+               <l> The bright sun kissed them as he rose </l>
+               <l> High in the orient heaven, </l>
+               <l> To them, at daylight’s <sic>lovliest</sic> close, </l>
+               <l> His parting beams were given. </l>
+           </lg>
+           <lg>
+               <l> In velvet glades, by gushing streams, </l>
+               <l> Their giant growth was found, </l>
+               <l> Such has been dreamt in poet’s dreams, </l>
+               <l> And called enchanted ground; </l>
+               <l> No human foot, no human hand,<note> No human foot, no human hand. The poem ignores Māori knowledge and use of kauri, and their according of chiefly status to the tallest kauri trees. </note> </l>
+               <l> Those virgin groves had soiled, </l>
+               <l> Fresh as they sprang at God’s command, </l>
+               <l> When Earth’s first morning smil’d. </l>
+           </lg>
+           <lg>
+               <l> Profoundest silence shrined them round, </l>
+               <l> The air itself breathed awe, </l>
+               <l> The faintest sigh, the lightest sound, </l>
+               <l> Broke Nature’s mystic law. </l>
+               <l> Where are those silent forests now? </l>
+               <l> Keen axes<note> Keen axes. Europeans had begun kauri milling in earnest by the 1820s. </note> glance and ring, </l>
+               <l> While loud beneath each sheltering bough </l>
+               <l> The hardy woodsmen sing. </l>
+           </lg>
+           <lg>
+               <l> They make the freight of gallant barks,<note> Freight of gallant barks. By the mid-1800s, kauri timber was being exported to Sydney and San Francisco for housing construction. </note> </l>
+               <l> To many a distant shore, </l>
+               <l> And many a foreign landsman marks </l>
+               <l> The stately height they bore. </l>
+               <l> But never can man’s art restore </l>
+               <l> Those beauties once profan’d, </l>
+               <l> Those forests wear the garb they wore </l>
+               <l> When priceless Nature reign’d. </l>
+           </lg>
+           <p> Auckland,<note> Auckland. Kauri was restricted to the Auckland Province, in the north of the North Island, with notable forests in the vicinity of the Auckland settlement. </note> October 3rd, 1853.</p>
+       </body>
+   </text>
+</TEI>
+                   
