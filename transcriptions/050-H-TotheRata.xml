@@ -1,0 +1,70 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>To the ‘Rata, or Gigantic Myrtle,’ of New Zealand</q> </title>
+               <author> <q>H.</q> </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Hawke’s Bay Herald </publisher>
+                <pubPlace> Napier </pubPlace>
+               <date> 1877 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>H.</q>. <q>To the ‘Rata, or Gigantic Myrtle,’ of New Zealand.</q> <hi rend="italic">Hawke’s Bay Herald</hi>, 15 January 1877, p. 3. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> O glorious myrtle,<note> Glorious myrtle. The northern rātā is a species of myrtle that can grow to over 40 metres high. </note> in thy crimson robe,<note> Crimson robe. A reference to the red flowers of the rātā. </note> </l>
+               <l> Thou wraps’t the hills, the valleys, and the plain; </l>
+               <l> A grander picture, eye did ne’er behold, </l>
+               <l> Supreme in beauty, thou dost truly reign. </l>
+           </lg>
+           <lg>
+               <l> Upon the mountain top,<note> Mountain top. The Ruahine ranges, adjacent to the settlement of Woodville, were not deforested prior to the 1870s. </note> thou flingest wide, </l>
+               <l> Thy robust arm, to tempt the furious breeze; </l>
+               <l> But though it fall upon thee in its might, </l>
+               <l> Unharmed thou stands’t, a very king of trees. </l>
+           </lg>
+           <lg>
+               <l> When now, the scorching perpendicular rays </l>
+               <l> Of summer suns do bid us seek the shade; </l>
+               <l> Where can we find a lovelier retreat </l>
+               <l> Than neath thee? monarch of the forest glade. </l>
+           </lg>
+           <lg>
+               <l> Sweet there to watch the tui<note> Tui. The tui is a species of bird that feeds on nectar and is known for its melodious song. </note> dip his bill, </l>
+               <l> Into the deep recesses of thy flowers, </l>
+               <l> And sip the honied nectar to his fill, </l>
+               <l> Then warble forth sweet melodies for hours. </l>
+           </lg>
+           <lg>
+               <l> And were I now about to lead my love </l>
+               <l> Unto the altar, where we might be wed; </l>
+               <l> A myrtle spray among the daisies twined, </l>
+               <l> Should be the bridal wreath upon her head. </l>
+           </lg>
+           <lg>
+               <l> When, at the last, I lay me down to die, </l>
+               <l> And loved ones seek to decorate my clay, </l>
+               <l> While on my bier the snow white lilies lie, </l>
+               <l> Among them let there be a myrtle spray. </l>
+           </lg>
+               <p> H. </p>
+               <p> Woodville, January 4, 1877.<note> Woodville … 1877. Woodville, in the southern Hawke’s Bay region of the North Island, was established in the 1870s as a centre of timber milling. </note> </p>
+       </body>
+   </text>
+</TEI>
+                   
