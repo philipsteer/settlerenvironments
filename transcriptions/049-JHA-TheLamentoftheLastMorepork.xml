@@ -1,0 +1,115 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Lament of the Last Morepork</q> </title>
+               <author> "J. H. A." </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Daily Southern Cross </publisher>
+                <pubPlace> Auckland </pubPlace>
+               <date> 1868 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>J. H. A.</q> <q>The Lament of the Last Morepork.</q> <hi rend="italic">Daily Southern Cross</hi>, 24 June 1868, p. 5.  </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <front>
+           <p> "Hinc exaudiri voces, . . . . </p>
+           <p> Solaque culminibus ferali carmine bubo </p>
+           <p> Sæpe queri, et longas in fletum ducere voces." </p>
+           <p> —<hi rend="sc">Virg. Æneid,</hi> iv., 462.<note> Hinc exaudiri … <hi rend="sc">Virg. Æneid,</hi>, iv., 462. The quotation from Virgil’s <hi rend="italic">Aeneid</hi> describes the sound, as one nineteenth-century translator puts it, of <q>midnight's solitary bird, / Death-boding</q> (John Conington, <hi rend="italic">The Æneid of Virgil</hi>, 1867). </note> </p>
+       </front>
+       
+       <body>
+           <lg>
+               <l> In the dark New Zealand forest, in the days long past and gone, </l>
+               <l> When the swarthy native savage in his mountains roamed alone, </l>
+               <l> Or ere the pale-faced stranger, from his home beyond the sea, </l>
+               <l> In his swiftly winged bark had reached that land so fair and free, </l>
+               <l> All joyous in the leafy groves the birds their wild notes sung, </l>
+               <l> And hill and dell and mountain to their tuneful accents rung. </l>
+               <l> But the wily stranger came, who, with many a promise mild, </l>
+               <l> And gifts and offerings dangerous, the tawny chiefs beguiled; </l>
+               <l> With presents some, and some with sword, he thrust from hearth and home, </l>
+               <l> And drove the Maori exiles ’mong his gloomy hills to roam. </l>
+               <l> And now no longer unconstrained the native chief may rove, </l>
+               <l> Nor in his ancestors’ domain pour forth his tale of love; </l>
+               <l> Nor in the tangled forest, as they flit from spray to spray, </l>
+               <l> May the wild New Zealand songsters to the lone woods tune their lay; </l>
+               <l> For from the sordid stranger there hath issued a command </l>
+               <l> That the fairest and the loveliest be swept from out the land. </l>
+               <l> And first to death of all condemned amidst the feathered throng, </l>
+               <l> The owl<note> Owl. Likely the whēkau/laughing owl, rather than the ruru/morepork, which rapidly declined in numbers from the mid-1800s and ultimately became extinct during the twentieth century. </note> his nightly chant no more pours forth the woods among; </l>
+               <l> The last of all his murdered race one only bird remains, </l>
+               <l> And thus to wood and mountain he with mournful voice complains: </l>
+           </lg>
+           <lg>
+               <l> As a gleam of the fitful sunshine, </l>
+               <l> Obscured by a passing cloud, </l>
+               <l> When the winter’s blast is keenest, </l>
+               <l> And the voice of the storm is loud; </l>
+               <l> As swift through the vault of the heavens </l>
+               <l> In the silent hours of the night </l>
+               <l> Wildly rushes the wandering comet, </l>
+               <l> Leaving naught of its trackless light; </l>
+               <l> With a doom so fell and sudden, </l>
+               <l> From their home in the pathless wood, </l>
+               <l> Were the ancient owls of New Zealand </l>
+               <l> Cast forth with their helpless brood. </l>
+               <l> On their heads was the price of blood </l>
+               <l> By the voice of the thoughtless laid, </l>
+               <l> And condemned along with the guilty </l>
+               <l> They lie buried among the dead. </l>
+               <l> Oh! why on the unoffending </l>
+               <l> Was this cruel sentence passed, </l>
+               <l> That leaves me of all my kindred </l>
+               <l> The loneliest and the last? </l>
+               <l> ’Twas because the birds of the stranger,<note> Birds of the stranger. Likely a reference to species that acclimatisation societies sought to introduce from the 1860s onwards. </note> </l>
+               <l> From their drear Atlantic homes, </l>
+               <l> Fell a prey to the crafty prowler </l>
+               <l> That far in the forest roams. </l>
+               <l> ’Twas he who with claw so deadly, </l>
+               <l> Concealed in his hidden lair, </l>
+               <l> As they flitted among the bushes, </l>
+               <l> Tore the denizens of the air. </l>
+               <l> For how to the birds of darkness </l>
+               <l> That seek their repose by day, </l>
+               <l> Could the light-loving bird of the stranger </l>
+               <l> Fall ever a luckless prey? </l>
+               <l> Yet, why do I grieve for my kindred, </l>
+               <l> And mourn o’er their cruel fate? </l>
+               <l> Destroyed by the self-same sentence, </l>
+               <l> The victims of misjudged hate, </l>
+               <l> See how the imported songsters </l>
+               <l> In the woods expiring lie, </l>
+               <l> And entrapped by the rat Norwegian,<note> Rat Norwegian. The Norwegian rat (rattus norvegicus) had been introduced in the late 1700s, but the poem possibly confuses this species with the ship rat (rattus rattus), which became established in the 1860s and began to impact forest-dwelling native bird populations. </note> </l>
+               <l> In countless myriads die! </l>
+               <l> I hear that terrible <sic>deathshriek</sic>,  </l>
+               <l> The last wail of that ill-fated line, </l>
+               <l> And exult in their race’s extinction, </l>
+               <l> As they exulted in mine. </l>
+           </lg>
+           <lg>
+               <l> He ceased his song, and now no more among the woods is heard </l>
+               <l> The nightly-hooted cadence of this old Zealandian bird; </l>
+               <l> Yet the native oft at dusky eve, besides his hut reclined, </l>
+               <l> In fancy’s dream still hears his note come whispering down the wind. </l>
+           </lg>
+           <p> J. H. A. </p>
+           <p> Whangarei Heads, June 6, 1868. </p>
+       </body>
+   </text>
+</TEI>
+                   
