@@ -1,0 +1,61 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>New Zealand’s Forest King</q> </title>
+               <author> <q>Nemo</q> </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Waikato Times </publisher>
+                <pubPlace> Hamilton </pubPlace>
+               <date> 1889 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>Nemo.</q> <q>New Zealand’s Forest King.</q> <hi rend="italic">Waikato Times</hi>, supplement, 14 September 1889, p. 5. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> The kauri lifts its stately head,<note> Kauri … stately head. It was a settler commonplace to refer to kauri as the “monarch of the New Zealand forest” (i.e. T. Kirk, <hi rend="italic">The Forest Flora of New Zealand</hi>, 1889). </note> with verdure over-crowned, </l>
+               <l> And looks down on all the other trees that in the woods are found; </l>
+               <l> Without a branch full fifty feet,<note> Without a branch full fifty feet. Kauri shed their lower branches after several decades of growth. </note> uprears its mighty stem, </l>
+               <l> Then spreads abroad its giant arms, as if protecting them. </l>
+           </lg>
+           <lg>
+               <l> The oak is England’s boast and pride; its fame the poets sing, </l>
+               <l> And yet ‘tis but a dwarf beside New Zealand’s Forest King. </l>
+               <l> A sapling in the woods it grew, a thousand years<note> Thousand years. Kauri were renowned for their ability to grow to an extreme age. </note> ago, </l>
+               <l> And all the time defied the storms and fiercest winds that blow. </l>
+           </lg>
+           <lg>
+               <l> Although, now in its sturdy prime, unbent by length of years, </l>
+               <l> And heedless of the tempest’s might, one foe the monarch fears: </l>
+               <l> The bushman marches through the woods, destruction in his tracks, </l>
+               <l> And soon the mighty tree must fall beneath the woodman’s axe. </l>
+           </lg>
+           <lg>
+               <l> Blow follows blow with steady skill; the gap grows deep and wide, </l>
+               <l> While thick and fast the flying chips fall down on every side. </l>
+               <l> A crack, then one terrific crash is heard for miles around, </l>
+               <l> And now the monarch of the woods lies stretched upon the ground. </l>
+           </lg>
+           <lg>
+               <l> The kauri grew, while in the earth, the axe unsmelted lay, </l>
+               <l> Nor could the wisest in the land, foretell its work to-day. </l>
+               <l> But fate selected axe and man to lay the monarch low, </l>
+               <l> And when, or how, our death may come, nor you nor I can know. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
