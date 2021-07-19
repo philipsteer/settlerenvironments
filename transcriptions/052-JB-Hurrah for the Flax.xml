@@ -1,0 +1,74 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Hurrah for the Flax</q> </title>
+               <author> “J. B.” (John Biggar?) </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Otago Witness </publisher>
+                <pubPlace> Dunedin </pubPlace>
+               <date> 1861 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> “J. B.” [John Biggar?]. <q>Hurrah for the Flax.</q> <hi rend="italic">Otago Witness</hi>, 15 June 1861, p. 5. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Hurrah for the Flax, the evergreen Flax;<note> Evergreen Flax. Harakeke, or phormium tenax, is an evergreen perennial. </note> </l>
+               <l> With its fibres tough and strong,<note> Fibres tough and strong. Maori had long utilised harakeke/flax fibre, or muka, and European scientists ascertained early in the 1800s that it was stronger than hemp. </note> </l>
+               <l> That forms the ropes<note> Ropes. One of the main uses of fibre produced in settler flax mills was rope manufacture. </note> of the ships that float, </l>
+               <l> And urges the seamen’s song. </l>
+           </lg>
+           <lg>
+               <l> Hurrah for the Flax, the evergreen Flax, </l>
+               <l> That binds the neat thatch’d cot, </l>
+               <l> That makes the mat, that secures the stack </l>
+               <l> From the rain and tempest shock. </l>
+           </lg>
+           <lg>
+               <l> Hurrah for the Flax, the evergreen Flax, </l>
+               <l> With its soft and honey'd spear;<note> Honey’d spear. Harakeke/flax produces long flower spikes, and its flowers are rich in nectar. </note> </l>
+               <l> How the children laugh as its sweets they quaff, </l>
+               <l> And home in triumph bear. </l>
+           </lg>
+           <lg>
+               <l> Hurrah for the Flax, the evergreen Flax, </l>
+               <l> As it stands in bright array, </l>
+               <l> Like an arm’d host, each at his post, </l>
+               <l> Impatient for the fray. </l>
+           </lg>
+           <lg>
+               <l> Hurrah for the Flax, the evergreen Flax, </l>
+               <l> When the wintry storms prevail, </l>
+               <l> When the ox may look for a shelter’d nook </l>
+               <l> From the bitter breathing gale. </l>
+           </lg>
+           <lg>
+               <l> Hurrah for the Flax, the evergreen Flax, </l>
+               <l> That falls before the adze, </l>
+               <l> While its root remains how the strength it strains </l>
+               <l> Of the ploughman<note> Ploughman. The swamps where flax/harakeke grows were often drained by settlers to create farmland. </note> and his nags. </l>
+           </lg>
+           <lg>
+               <l> Hurrah for the Flax, the evergreen Flax, </l>
+               <l> That hill and plain<note> Hill and plain. Different species of flax/harakeke grow in lowland swamp and mountain environments. </note> adorn; </l>
+               <l> ‘Tis an emblem of strength, till it falls at length </l>
+               <l> To give place to the waving Corn. </l>
+           </lg>
+           <p> Kaikorai.<note> Kaikorai. The Kaikorai valley is near the centre of Dunedin, in the south of the South Island. Flax/harakeke grew widely in pre-colonial Dunedin. </note> </p>
+       </body>
+   </text>
+</TEI>
