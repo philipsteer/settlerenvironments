@@ -1,0 +1,114 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Ohio Creek: A Reverie</q> </title>
+               <author> "J." </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Thames Star </publisher>
+                <pubPlace> Thames </pubPlace>
+               <date> 1881 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> “J.” <q>The Ohio Creek: A Reverie.</q> <hi rend="italic">Thames Star</hi>, 24 December 1881, p. 1. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Along the stream<note> Stream. The Ohio Creek in the Coromandel ranges, near Thames, in the North Island of New Zealand. </note> we took our way, </l>
+               <l> Where hidden deep in shadow lay </l>
+               <l> The graceful nikau<note> Nikau. The nikau, New Zealand’s only native palm, is found in the North Island and as far south as the Canterbury region in the South Island. </note> and the fern, </l>
+               <l> Their branches reaching o’er the burn. </l>
+               <l> Traces of recent storm and flood, </l>
+               <l> In bridges broken, holes of mud, </l>
+               <l> Are noticed; and the traveller finds, </l>
+               <l> Crossings of strange artistic kinds. </l>
+               <l> Ceaseless for ages has this brook </l>
+               <l> Ran rippling on, round curve and crook; </l>
+               <l> Cutting away, by gentle shock, </l>
+               <l> Its devious path thro’ hardest rock. </l>
+               <l> Perchance in the far distant past, </l>
+               <l> Some Maori warrior’s home was cast </l>
+               <l> Amid these hill[s], and on this shore </l>
+               <l> Found his supply of fern roots store. </l>
+               <l> Half hidden from the Sun’s fierce heat </l>
+               <l> Is many a cool moss-covered seat, </l>
+               <l> Where weary tourists<note> Tourists. At the time, tourists visited the area of the Ohio Creek to view a giant kauri tree. </note> for a while </l>
+               <l> May rest, in most luxurious style; </l>
+               <l> And contemplate the scenery round, </l>
+               <l> Tree, rock, and hill, with fern-clad ground. </l>
+               <l> Pleasant it is at such a time, </l>
+               <l> Attentive listening to the rhyme </l>
+               <l> Of Nature’s music all around; </l>
+               <l> The whispering breeze, and brook’s low sound, </l>
+               <l> Where flowing o’er its pebbly bed, </l>
+               <l> While birds are warbling overhead. </l>
+               <l> Like rift in cloud on Winter’s day </l>
+               <l> Gleam thro’ the trees the Sun’s bright ray, </l>
+               <l> Casting on brook a burnished sheen, </l>
+               <l> And tinting leaves with various green. </l>
+               <l> Dreamily pass the hours while thus, </l>
+               <l> Far from the world’s turmoil and fuss, </l>
+               <l> We drink in beauty, nor regret </l>
+               <l> That we with solitude have met. </l>
+               <l> Health gains improvement, and the life </l>
+               <l> More vigorous grows more fit for strife, </l>
+               <l> By sometimes stopping in the race, </l>
+               <l> And letting youth her step retrace. </l>
+               <l> Awhile forgetting busy care, </l>
+               <l> The workshop desk, the office stair, </l>
+               <l> And school-room close confinement leave, </l>
+               <l> Glad to escape, pure air to breathe. </l>
+               <l> And should the thoughts in fancy stray </l>
+               <l> To other scenes now far away, </l>
+               <l> To earlier days of life gone by, </l>
+               <l> And other forms that low now lie. </l>
+           </lg>
+           <lg>
+               <l> Still such remembrance shall not check </l>
+               <l> Our day’s enjoyment, for there yet </l>
+               <l> Remains the fact, that over all </l>
+               <l> The course of life, its rise and fall, </l>
+               <l> God rules supreme; this thought shall cheer </l>
+               <l> Our days, while still continuing here; </l>
+               <l> Guiding with tenderest love our way, </l>
+               <l> Though oft forgetful we may stray. </l>
+               <l> Thoughts now arise that here perchance </l>
+               <l> Lies hidden treasure,<note> Hidden treasure. The Coromandel gold rush began in 1867. </note> which the advance </l>
+               <l> Of science shall unearth, and then </l>
+               <l> Will busy [crowds] explore this glen, </l>
+               <l> Of wealth oft searched for here before. </l>
+           </lg>
+           <lg>
+               <l> And changing Nature’s beauteous face </l>
+               <l> In one of profit, not of grace. </l>
+               <l> Here at the hardy miner’s word, </l>
+               <l> May stampers[‘]<note> Stampers. Stamper batteries were machines used to extract gold from quartz. </note> music yet be heard, </l>
+               <l> And cottage neat, with garden ground, </l>
+               <l> Be seen on many a rising mound. </l>
+               <l> Such be the future, but to-day </l>
+               <l> The hills in freshest verdure lay, </l>
+               <l> Unsullied by the hand of man, </l>
+               <l> And tree clad far as eye can scan. </l>
+               <l> But now wild fancy draw thy rein, </l>
+               <l> Nor needlessly prolong the strain </l>
+               <l> Of melancholy musing. </l>
+           </lg>
+               <p> J. </p>
+               <p> Thames, </p>
+               <p> November 30th, 1881. </p>
+       </body>
+   </text>
+</TEI>
