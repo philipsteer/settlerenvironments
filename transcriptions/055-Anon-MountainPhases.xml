@@ -1,0 +1,63 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Mountain Phases: A Sketch in the Wairarapa</q> </title>
+               <author> Anon. </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Wairarapa Standard </publisher>
+                <pubPlace> Greytown </pubPlace>
+               <date> 1870 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Anon. <q>Mountain Phases: A Sketch in the Wairarapa.</q> <hi rend="italic">Wairarapa Standard</hi>, 5 February 1870, p. 3. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Looming in the twilight morn, </l>
+               <l> As giants<note> Giants. The poem describes the mountains of the Tararua Range, which border the western edge of the Wairarapa plains. </note> of dark midnight born; </l>
+               <l> Waiting for the op’ning day, </l>
+               <l> Catching high its earliest ray, </l>
+               <l> Like beacons to the valley deep, </l>
+               <l> Waking up its life from sleep. </l>
+               <l> Mists up-gath’ring from beneath, </l>
+               <l> Out river beds and sedgy heath; </l>
+               <l> While, in easy grace arising, </l>
+               <l> Ever varying forms devising. </l>
+               <l> And clothing all from head to feet </l>
+               <l> In dripping rain and colder sleet; </l>
+               <l> And the wind, in fitful chases, </l>
+               <l> Up the steeps and down the faces; </l>
+               <l> Clearing off, and bringing on </l>
+               <l> Gleams of sunshine all day long, </l>
+               <l> Till, the sun, in evening’s round, </l>
+               <l> Clears all off in calm profound. </l>
+               <l> Then, in purple tinted dress, </l>
+               <l> Beams the richest loveliness: </l>
+               <l> Azure depths, and golden streaks, </l>
+               <l> Mark the slopes and pointed peaks. </l>
+               <l> And, nobler too, in outline free, </l>
+               <l> Far as far as eye can see, </l>
+               <l> Fading in the distant blue, </l>
+               <l> Richer than the morning’s hue. </l>
+               <l> But the shadows dimmer grow </l>
+               <l> In the evening’s darker glow; </l>
+               <l> When the blacker shades of night </l>
+               <l> Shut all in from human sight. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
