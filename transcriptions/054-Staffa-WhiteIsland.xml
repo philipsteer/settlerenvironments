@@ -1,0 +1,85 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>White Island</q> </title>
+               <author> <q>Staffa</q> </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Bay of Plenty Times </publisher>
+                <pubPlace> Tauranga </pubPlace>
+               <date> 1885 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>Staffa.</q> <q>White Island.</q> <hi rend="italic">Bay of Plenty Times</hi>, 10 February 1885, p. 2. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Volcanic Isle!<note> Volcanic isle. Whakaari/White Island is an active submarine volcano in the Bay of Plenty, in the north of the North Island. </note> thy fame world-wide has spread; </l>
+               <l> Mysterious crater of deep-centred fire, </l>
+               <l> With fleecy steam-clouds billowing overhead </l>
+               <l> Tossed upward ever by thy pent up ire. </l>
+           </lg>
+           <lg>
+               <l> Thy riven portal,<note> Riven portal. The cliffs surrounding Whakaari/White Island are broken in only one place, Crater Bay, where ships are able to land. </note> through its open door, </l>
+               <l> Admits the trav’ller to a rock-strewn beach. </l>
+               <l> We land,<note> We land. The same issue of the Bay of Plenty Times where the poem was published includes an article describing a visit to Whakaari/White Island by a tourist party, which mirrors many of the descriptions in the poem. The poet’s pseudonym, “Staffa,” is taken from the name of the tourists’ steamship. </note> in haste, thy beauties to explore, </l>
+               <l> Prepared to learn whate’er thou hast to teach. </l>
+           </lg>
+           <lg>
+               <l> Upon thy many-tinted hues we gaze </l>
+               <l> With growing wonder; but words fail to tell </l>
+               <l> Our admiration, as the sun’s bright rays </l>
+               <l> Illume each cliff and jutting pinnacle. </l>
+           </lg>
+           <lg>
+               <l> Rich brown thy walls, with sulphur veined, </l>
+               <l> And here and there a rift, which seems to speak </l>
+               <l> Of some convulsion that had rent and strained </l>
+               <l> And well nigh from their centre made them break. </l>
+           </lg>
+           <lg>
+               <l> But when we stand upon the crater’s brink </l>
+               <l> And peer into that awful dark green cave, </l>
+               <l> From its unfathomable depth we shrink; </l>
+               <l> For who falls in no human power could save. </l>
+           </lg>
+           <lg>
+               <l> Yet still we gaze spellbound, as forth in clouds </l>
+               <l> All noiselessly rolls up the rushing steam, </l>
+               <l> Which ever and anon the rock enshrouds </l>
+               <l> Like moving phantom of some baseless dream. </l>
+           </lg>
+           <lg>
+               <l> At length we tear ourselves away, to view </l>
+               <l> The varied wonders every turn displays </l>
+               <l> Of boiling lake, and pool of strangest hue, </l>
+               <l> Which, hissing weirdly, fill us with amaze. </l>
+           </lg>
+           <lg>
+               <l> For here has nature mixed, with lavish hand, </l>
+               <l> Such healing blessings<note> Healing blessings. A reference to the medicinal properties of sulphur, which had been mined on the island since the late 1870s, and further expanded in late 1884 by the newly-formed New Zealand Manure and Chemical Company. </note> for the hours of pain, </l>
+               <l> That he whose cramped limbs can no longer stand, </l>
+               <l> Bathing—restores their wonted powers again. </l>
+           </lg>
+           <lg>
+               <l> Farewell, lone Isle! we shudder at the thought </l>
+               <l> Of all the fiery power pent up in thee, </l>
+               <l> Lest it some day<note> Some day. Mining ceased on Whakaari/White Island after ten miners were killed in 1914 after part of the volcano’s crater rim collapsed. </note> should shatter thee to naught, </l>
+               <l> Or hurl thee headlong in th’ encircling sea. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
