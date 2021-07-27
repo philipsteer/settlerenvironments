@@ -1,0 +1,63 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>A Voice from the Flood</q> </title>
+               <author> <q>Taipo</q> </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Marlborough Express </publisher>
+                <pubPlace> Blenheim </pubPlace>
+               <date> 1870 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>Taipo.</q> <q>A Voice from the Flood.</q> <hi rend="italic">Marlborough Express</hi>, 10 December 1870, p. 7. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> What are our Councillors<note> Councillors. Members of the Provincial Council of the Marlborough region, in the South Island of Aoteroa New Zealand. </note> doing, </l>
+               <l> Brothers, the whole day long, </l>
+               <l> While the floods<note> Floods. The settlement of Blenheim had been devastated by a flood in February 1868. </note> bring wreck and ruin </l>
+               <l> With a power fierce and strong? </l>
+               <l> Where’s the cash they were going to borrow, </l>
+               <l> To stop the overflow? </l>
+               <l> Friend John, with a look of sorrow, </l>
+               <l> Says “Hang me, if I know;” </l>
+               <l> But I would very much rather </l>
+               <l> Dam the overflow. </l>
+               <l> A draught of water’s pleasant </l>
+               <l> When you are very dry, </l>
+               <l> And pleasant is the purling brook </l>
+               <l> That murmurs gently by; </l>
+               <l> But oh, these dirty waters, </l>
+               <l> So drumlie<note> Drumlie. Turbid, murky. </note> and so brown, </l>
+               <l> They’re neither sweet nor pleasant </l>
+               <l> That inundate the town. </l>
+               <l> The poet<note> Poet. The poem quotes from William Shakespeare’s A Midsummer Night’s Dream, Act 2 scene 1. </note> said, “I know a bank </l>
+               <l> Whereon the wild thyme grows,” </l>
+               <l> And I, too, know another bank </l>
+               <l> O’er which the Opawa<note> Opawa. The Ōpaoa River, formerly known as the Opawa River, flows through Blenheim. </note> flows. </l>
+               <l> The Councillors round King Canute’s<note> King Canute. Cnut the Great, King of England in the 11th century, was reputed to have ordered the tide not to come in as a demonstration of his political power. </note> chair </l>
+               <l> Bade him keep the wild waves back; </l>
+               <l> I wish the Councillors round our Mayor </l>
+               <l> Would keep the river in its track. </l>
+               <l> Oh say, Lord Henry,<note> Lord Henry. Henry Dodson was mayor of Blenheim, 1870-71, after previously being a member of the Marlborough Provincial Council. </note> where's the cash </l>
+               <l> You all were going to borrow? </l>
+               <l> Or shall the flood I moan to-day </l>
+               <l> Be free to return to-morrow? </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
