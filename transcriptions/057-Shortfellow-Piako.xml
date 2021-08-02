@@ -1,0 +1,94 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Piako: A Long Way After Longfellow</q> </title>
+               <author> <q>Shortfellow</q> </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Evening Argus </publisher>
+                <pubPlace> Wellington </pubPlace>
+               <date> 1876 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>Shortfellow.</q> <q>Piako: A Long Way after Longfellow.</q> <hi rend="italic">Evening Argus</hi>, 1 July 1876, p. 3. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> The shades of night were falling fast, </l>
+               <l> As through a frontier<note> Frontier. In the Hauraki region, in the north of the North Island. </note> village passed </l>
+               <l> A man<note> Man. Revealed in the final stanza to be Sir George Grey, former Governor of the colony, who had been elected to Parliament in 1874. </note> who bore in sacrifice, </l>
+               <l> A blue book with the strange device </l>
+               <l> “Piako!”<note> Piako. George Grey had successfully disrupted the opening of Parliament in June 1876 by moving a motion against the Government demanding a debate over the sale of the Piako Swamp to a group of land speculators. The anonymous poem was published in the pro-government <hi rend="italic">Evening Argus</hi>. </note> </l>
+           </lg>
+           <lg>
+               <l> His brow was sad, his eye beneath, </l>
+               <l> Looked rather wat’ry, and his teeth </l>
+               <l> Did chatter, as in voice quite weak, </l>
+               <l> He muttered with a kind of squeak </l>
+               <l> “Piako!” </l>
+           </lg>
+           <lg>
+               <l> In settlers’ houses he saw the light </l>
+               <l> Of household fires gleam warm and bright, </l>
+               <l> And then he saw a dismal swamp, </l>
+               <l> And muttered, as he felt the cramp, </l>
+               <l> “Piako!” </l>
+           </lg>
+           <lg>
+               <l> “Try not the swamp,” the old man said; </l>
+               <l> [“]The slush’ll reach above your head: </l>
+               <l> The mud in there is deep and foul!“ </l>
+               <l> He only answered with a howl </l>
+               <l> “Piako!” </l>
+           </lg>
+           <lg>
+               <l> “Oh stay,” a maiden said, “and rest </l>
+               <l> Thy weary head upon this breast!” </l>
+               <l> But as her tatooed [sic] lip<note> Tatooed lip. The poem mocks Grey’s reputation for close relations with Māori leaders, and understanding of Māori language and culture. </note> he ‘spied, </l>
+               <l> He only answered (while he sighed) </l>
+               <l> “Piako!” </l>
+           </lg>
+           <lg>
+               <l> “Beware of floundering in the flax; </l>
+               <l> Beware of rheumatism’s racks!” </l>
+               <l> This was the settler’s last farewell. </l>
+               <l> He only heard a dismal yell, </l>
+               <l> “Piako!” </l>
+           </lg>
+           <lg>
+               <l> At break of day, as out from camp, </l>
+               <l> The ditchers<note> Ditchers. Labourers employed to drain the Piako swamp to transform it into pastoral land. </note> went into the swamp, </l>
+               <l> And one or two began to swear,— </l>
+               <l> A voice cried through the startled air </l>
+               <l> “Piako!” </l>
+           </lg>
+           <lg>
+               <l> A traveller, where they heard the sound, </l>
+               <l> Up to his neck in mud was found; </l>
+               <l> His eyes were covered with a glaze, </l>
+               <l> He muttered in a dreamy haze </l>
+               <l> “Piako.” </l>
+           </lg>
+           <lg>
+               <l> Here in the slush was poor old Grey, </l>
+               <l> Alive, but nearly drown’d,<note> Nearly drown’d. The <hi rend="italic">Evening Argus</hi> had previously described Grey as “an <hi rend="italic">ignus fatuus</hi>, whose baleful flickerings have led some twenty way-worn political travellers to flounder hopelessly in the Piako Swamp” (29 June 1876). </note> he lay; </l>
+               <l> And from his lips, so wan and chill, </l>
+               <l> He muttered tremblingly and ill,— </l>
+               <l> “Piako!” </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
