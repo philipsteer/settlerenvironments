@@ -1,0 +1,115 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Akaroa</q> </title>
+               <author> <q>Silas Wegg</q> </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Lake County Press </publisher>
+                <pubPlace> Arrowtown </pubPlace>
+               <date> 1884 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>Silas Wegg.</q> <q>Akaroa.</q> <hi rend="italic">Lake County Press</hi>, 25 September 1884, p. 4. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <div1 type="part" n="1">
+               <p>I.</p>
+               <lg>
+                   <l> Where do sunbeams brightest glisten, </l>
+                   <l> ‘Mid intricacies of shade; </l>
+                   <l> Where does love-lorn <hi rend="italic">tui</hi><note> Author’s note: The tui, or parson-bird, one of the honeysuckers peculiar to New Zealand. </note> listen </l>
+                   <l> To its mate in leafy glade; </l>
+                   <l> Where, when earliest spring is waking </l>
+                   <l> From their sleep each leaflet’s fold, </l>
+                   <l> Do the zephyrs, gently shaking[,] </l>
+                   <l> Pave the <hi rend="italic">kowhai’s</hi><note> Author’s note: The kowhai is a native acacia, that in spring is covered with a profusion of golden blossoms. </note> roots with gold; </l>
+                   <l> Where, with melody surprising, </l>
+                   <l> Does the <hi rend="italic">bell-bird</hi><note> Author’s note: The bell-bird, or Moko Moko, another New Zealand honey-sucker, that always welcomes the dawn with a strangely clear and deep note, like a bell. </note> welcome day, </l>
+                   <l> Ere the golden sun arising </l>
+                   <l> Makes the night mists roll away; </l>
+                   <l> Where do great <hi rend="italic">koninis</hi>,<note> Author’s note: The konini is the giant fuchsia of New Zealand, whose numberless purple berries are the delight of birds and children. </note> laden </l>
+                   <l> With their million berries store, </l>
+                   <l> Purple lips of many a maiden? </l>
+                   <l> ‘Tis in lovely Akaroa.<note> Akaroa. Akaroa is the name of a harbour and small town on Banks Peninsula, in the Canterbury region of the South Island of New Zealand. </note> </l>
+               </lg>
+           </div1>
+           <div1 type="part" n="2">
+               <p>II.</p>
+               <lg>
+                   <l> Where do mighty tree-clad mountains<note> Mountains. Banks Peninsula is an extinct, eroded volcanic complex </note> </l>
+                   <l> Solemn guard the vales below, </l>
+                   <l> Giving birth to many a fountain, </l>
+                   <l> Where in winter lies the snow; </l>
+                   <l> Where do great <hi rend="italic">totaras</hi>,<note> Author’s note: The totara is a pine with golden or bronze-colored foliage, of great beauty. It grows to an enormous size. </note> flinging </l>
+                   <l> Bronzed foliage to the sky, </l>
+                   <l> Rest a thousand songsters singing </l>
+                   <l> Hymns of rapture ere they fly; </l>
+                   <l> Where are giant <hi rend="italic">willows</hi><note> Author’s note: The weeping willows growing in Akaroa are all said to have sprung from a slip brought by a Frenchman from Napoleon’s tomb at St. Helena. They are of enormous size. </note> growing, </l>
+                   <l> From Napoleon’s distant grave; </l>
+                   <l> Where are creeks for ever flowing, </l>
+                   <l> Giving verdure as they lave; </l>
+                   <l> Where do sunclad wavelets wander </l>
+                   <l> To Zealandia’s fairest shore, </l>
+                   <l> In embracing growing fonder? </l>
+                   <l> ‘Tis in lovely Akaroa. </l>
+               </lg>
+           </div1>
+           <div1 type="part" n="3">
+               <p> III. </p>
+               <lg>
+                   <l> Where do sunsets[‘] rays of glory, </l>
+                   <l> Gold and purple raiment, throw </l>
+                   <l> O’er the <hi rend="italic">hills</hi><note> Author’s note: The <hi rend="italic">hills</hi> around Akaroa were the scenes of many a renowned Maori conflict. </note> renowned in story </l>
+                   <l> In the Maori long ago; </l>
+                   <l> Where does wild <hi rend="italic">clematis</hi>,<note> Author’s note: The wild <hi rend="italic">clematis</hi>, with snowy blossoms fully a foot in circumference, is of marvellous beauty. </note> flinging </l>
+                   <l> Tendrils o’er the boughs below, </l>
+                   <l> Cover sprays where birds are singing </l>
+                   <l> With a cloak of purest snow; </l>
+                   <l> Where, in wild, sequestered valley, </l>
+                   <l> Grows the wondrous <hi rend="italic">Nikau</hi><note> Author’s note: The <hi rend="italic">Nikau</hi> palm grows only in the most sequestered and sheltered valleys. </note> palm, </l>
+                   <l> Forming ever-verdant alley, </l>
+                   <l> Where there is eternal calm; </l>
+                   <l> Where are silver <hi rend="italic">fern-trees</hi><note> Author’s note: The silver <hi rend="italic">fern-tree</hi>’s fronds are a brilliant green above and pure silver underneath. </note> spreading </l>
+                   <l> Fairy fronds of beauty pure, </l>
+                   <l> A perpetual fragrance shedding? </l>
+                   <l> ‘Tis in lovely Akaroa. </l>
+               </lg>
+           </div1>
+           <div1 type="part" n="4">
+               <p> IV. </p>
+               <lg>
+                   <l> Where, when storms are raging madly, </l>
+                   <l> ‘Neath the bitter tempest’s blast, </l>
+                   <l> Does the sailor enter gladly, </l>
+                   <l> Finding peaceful seas at last; </l>
+                   <l> Where does the <hi rend="italic">titoki</hi>’s<note> Author’s note: The <hi rend="italic">titoki</hi> is the native ash. It bears masses of scarlet berries like gigantic raspberries. </note> glory </l>
+                   <l> Blaze with scarlet many a glade, </l>
+                   <l> Sheltered from <hi rend="italic">nor’-westers’</hi><note> Author’s note: The <hi rend="italic">nor’-westers</hi> are hot winds in Akaroa, and wither vegetation.</note> fury </l>
+                   <l> By the <hi rend="italic">pine</hi><note> Author’s note: The native bush consisted originally principally of gigantic <hi rend="italic">pines</hi>. </note> trees’ tasselled shade; </l>
+                   <l> Where are feet for ever pressing </l>
+                   <l> Wondrous <hi rend="italic">ferns</hi><note> Author’s note: The <hi rend="italic">ferns</hi> in Akaroa are of marvellous variety and beauty. </note> of beauty rare, </l>
+                   <l> Robed in Nature’s choicest dressing, </l>
+                   <l> Ever fresh and passing fair; </l>
+                   <l> Where, when from the world we sever, </l>
+                   <l> Seeking peace for evermore, </l>
+                   <l> Should we choose to rest for ever? </l>
+                   <l> ‘Tis in lovely Akaroa. </l>
+               </lg>
+           </div1>
+       </body>
+   </text>
+</TEI>
