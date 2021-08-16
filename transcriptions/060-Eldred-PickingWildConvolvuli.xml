@@ -1,0 +1,63 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Picking Wild Convolvuli</q> </title>
+               <author> <q>Eldred</q> </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Western Star </publisher>
+                <pubPlace> Riverton </pubPlace>
+               <date> 1878 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>Eldred.</q> <q>Picking Wild Convolvuli.</q> <hi rend="italic">Western Star</hi>, 16 February 1878, p. 7.  </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Picking wild convolvuli<note> Wild convolvuli. Pōhue, an indigenous bindweed, which produces white flowers during the summer. </note> </l>
+               <l> Under a December sky, </l>
+               <l> Sheltered from the sun and breeze </l>
+               <l> By umbrageous tangled trees, </l>
+               <l> While with crisp and sparkling motion </l>
+               <l> Laps against the rocks the ocean, </l>
+               <l> And the cattle white and dun </l>
+               <l> Chew the cud out in the sun </l>
+               <l> Lying midst the fern and clover, </l>
+               <l> Which the shadows travel over </l>
+               <l> Of the fleecy clouds that fly </l>
+               <l> Thro’ the azure summer sky, </l>
+               <l> While the Billow mountains<note> Billow mountains. The location of the reference is unclear. </note> </l>
+               <l> Rise like frozen billows blue </l>
+               <l> Lowering in the sun north-west </l>
+               <l> Each one <sic>tipt</sic> with silver crest </l>
+               <l> Over head the parakeets<note> Parakeets. Kākāriki, or the New Zealand parakeet, is predominantly bright green, with different species distinguished by coloured areas on their heads. </note> </l>
+               <l> Sail along in emerald fleets </l>
+               <l> Speeding swiftly thro’ the air </l>
+               <l> After berries ripe and fair;— </l>
+               <l> Now upon the boughs alight </l>
+               <l> In the sunshine warm and bright </l>
+               <l> Chatter to the breeze and sun </l>
+               <l> As along the boughs they run </l>
+               <l> While the little girl and boy </l>
+               <l> Crow and caper in their joy </l>
+               <l> And the merry cicadae<note> Cicadae. Dozens of species and subspecies of cicada are unique to Aotearoa New Zealand. </note> </l>
+               <l> Chirrup upon tuft and tree. </l>
+           </lg>
+           <p> Orepuki,<note> Orepuki. A small Māori settlement in the south of the South Island, which had attracted settlers after the discovery of gold in 1865. </note>  Dec. 31st, 1878. </p>
+       </body>
+   </text>
+</TEI>
+                   
