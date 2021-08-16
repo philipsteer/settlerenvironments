@@ -1,0 +1,71 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Old Wairau</q> </title>
+               <author> <q>F. M.</q> </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Marlborough Press </publisher>
+                <pubPlace> Blenheim </pubPlace>
+               <date> 1872 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>F. M.</q> <q>The Old Wairau.</q> <hi rend="italic">Marlborough Press</hi>, 30 October 1872, p. 4. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> I’ll sing a song for the Old Wairau,<note> Old Wairau. The Wairau River, in the Marlborough region of the South Island of New Zealand. The first major armed clash between Māori and settlers took place in the Wairau valley in 1843. </note></l>
+               <l> I’ll sing the Wairau’s praise; </l>
+               <l> Let the toiling farmer speed the plough, </l>
+               <l> And dream of harvest days, </l>
+               <l> But we’ll away where the young lambs<note> Lambs. Sheep were first introduced to the Wairau valley in 1846. </note> play </l>
+               <l> On the lofty mountain’s<note> Lofty mountain. The Wairau River rises in the Spenser Mountains, at the northern end of the Southern Alps mountain range. </note> brow, </l>
+               <l> When we’ve quaffed the stream in the noonday’s beam </l>
+               <l> On the banks of the Old Wairau. </l>
+           </lg>
+           <lg>
+               <l> When the lower world is in darkness furled, </l>
+               <l> And all is still below, </l>
+               <l> The morning’s light drives away the night, </l>
+               <l> And sets the peaks aglow; </l>
+               <l> And a gentle breeze comes o’er the seas, </l>
+               <l> And waves each forest bough, </l>
+               <l> Where the black birch<note> Black birch. Either a reference to black beech, a lowland tree species, or the similar but distinct mountain beech, both of which are known as tawhairauriki by Māori. </note> hides the mountain sides </l>
+               <l> That look down on the Old Wairau. </l>
+           </lg>
+           <lg>
+               <l> Far, far below the milch cows low, </l>
+               <l> Down in the verdant glade; </l>
+               <l> And the steer lies still on the ferny hill, </l>
+               <l> Beneath the ti-tree’s<note> Ti-tree. Mānuka, a common small tree, was known by settlers as <q>tea tree.</q> </note> shade; </l>
+               <l> By the silver streams, in the glad sunbeams, </l>
+               <l> The flocks are resting now; </l>
+               <l> And the god of day, with a warm, bright ray, </l>
+               <l> Looks down on the Old Wairau. </l>
+           </lg>
+           <lg>
+               <l> Then here’s good luck to the Old Wairau, </l>
+               <l> Where the sun-light’s glancing still, </l>
+               <l> Where the mountain snow has a rosy glow, </l>
+               <l> And the flocks are on the hill; </l>
+               <l> May fortune’s star, there shining far, </l>
+               <l> With every good endow </l>
+               <l> The hills and the streams, and the bright sunbeams </l>
+               <l> That smile on the Old Wairau. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
