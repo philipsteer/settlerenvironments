@@ -1,0 +1,41 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Rata and the Tui</q> </title>
+               <author> Johannes C. Andersen </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> New Zealand Illustrated Magazine </publisher>
+                <pubPlace> Auckland </pubPlace>
+               <date> 1903 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Andersen, Johannes C. <q>The Rata and the Tui.</q> <hi rend="italic">New Zealand Illustrated Magazine</hi>, 1 June 1903, p. 225. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> The rata<note> Rata. A species of tree that produces red flowers during the summer. </note> flings purple array </l>
+               <l> Over great forest-kings; </l>
+               <l> The sun-god leads Summer away, </l>
+               <l> And a wood-dryad sings </l>
+               <l> ‘Mid the flower-sprays dewy: </l>
+               <l> Inarticulate gasps,—then a chime </l>
+               <l> That no bird of the forest can rime, </l>
+               <l> Then silence again: ‘twas a tui.<note> Tui. The tui is a species of bird known for its complex and melodious song. </note></l>
+           </lg>
+       </body>
+   </text>
+</TEI>
