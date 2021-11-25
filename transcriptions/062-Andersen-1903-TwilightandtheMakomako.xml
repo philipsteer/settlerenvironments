@@ -1,0 +1,58 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Twilight and the Makomako</q> </title>
+               <author> Johannes C. Andersen </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> New Zealand Illustrated Magazine </publisher>
+                <pubPlace> Auckland </pubPlace>
+               <date> 1903 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Andersen, Johannes C. <q>Twilight and the Makomako.</q> <hi rend="italic">New Zealand Illustrated Magazine</hi>, 1 November 1903, p. 96. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Night on the forest is falling, </l>
+               <l> Slowly the day leaves the hill, </l>
+               <l> Birds from the coverts are calling, </l>
+               <l> Calling in tinkle and trill; </l>
+               <l> Medley of harmony ringing </l>
+               <l> Musical, mellow and chiming, </l>
+               <l> Each one regardlessly singing,— </l>
+               <l> Jangle of sweetness and rhyming! </l>
+           </lg>
+           <lg>
+               <l> Twilight is gone from the hill, </l>
+               <l> Dark are the woods to the moon; </l>
+               <l> All the sweet voices are still, </l>
+               <l> Darkness has come too soon.— </l>
+               <l> One lone bird forgets </l>
+               <l> That the white moon is climbing; </l>
+               <l> While over the hill a star sets, </l>
+               <l> It is chiming and chiming. </l>
+           </lg>
+           <lg>
+               <l> Bell-birds,<note> Bell-birds. The bellbird/korimako, also referred to by settlers as the moko-moko (or makomako in this poem), is known for the clear ringing notes of its call. </note> softer than bells,— </l>
+               <l> Bell-bird, ever in tune, </l>
+               <l> What passion your bosom swells? </l>
+               <l> What god in your bosom dwells </l>
+               <l> As you chime to the climbing moon? </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
