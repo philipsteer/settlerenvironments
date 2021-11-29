@@ -1,0 +1,48 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Dawn and the Kaka</q> </title>
+               <author> Johannes C. Andersen </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> New Zealand Illustrated Magazine </publisher>
+                <pubPlace> Auckland </pubPlace>
+               <date> 1904 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Andersen, Johannes C. <q>Dawn and the Kaka.</q> <hi rend="italic">New Zealand Illustrated Magazine</hi>, 1 October 1904, p. 34. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Out of the shadowy gloom </l>
+               <l> The feathery ratas<note> Ratas. A species of tree that produces red flowers during the summer. </note> rise, </l>
+               <l> Fainter the stars illume </l>
+               <l> Translucent skies: </l>
+               <l> Stealing mid flowers and leaves </l>
+               <l> The young wind creeps, </l>
+               <l> And the breast of the forest heaves </l>
+               <l> As it lightly sleeps: </l>
+               <l> Harsh, from the glimmering deeps </l>
+               <l> Slowly unfolding, </l>
+               <l> A sudden babel of cries, </l>
+               <l> Discordantly scolding: </l>
+               <l> Night from the valley flies, </l>
+               <l> Whilst the wakening kakas<note> Kakas. A large, brown, forest-dwelling parrot. </note> scream, </l>
+               <l> Breaking its tranquil dream. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
