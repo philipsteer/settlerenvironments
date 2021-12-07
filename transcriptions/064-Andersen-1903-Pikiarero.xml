@@ -1,0 +1,43 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Pikiarero (The Yellow Clematis)</q> </title>
+               <author> Johannes C. Andersen </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Whitcombe and Tombs </publisher>
+                <pubPlace> Christchurch </pubPlace>
+               <date> 1903 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Andersen, Johannes C. <q>Pikiarero (The Yellow Clematis).</q> <hi rend="italic">Songs Unsung</hi> (Christchurch: Whitcombe and Tombs, 1903), p. 28. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Meek clematis;<note> Clematis. Pikiarero (Clematis forsteri) is a climbing plant found in forest habitats throughout Aotearoa New Zealand, which produces large numbers of scented, star-shaped flowers. </note> tree-dweller; child of dew; </l>
+               <l> Nursling of light and air! </l>
+               <l> Slow-trailing stars, or showers of misty suns,— </l>
+               <l> Whence is the hand thou reachest wistfully, </l>
+               <l> Feeling, on earth, for something not of earth?— </l>
+               <l> Lo, is this Bethel,<note> Bethel. The biblical patriarch, Jacob, had a dream at Bethel of angels scaling a ladder that extended from the earth to heaven (Genesis 28:10-22). </note> and the gate of Heaven? </l>
+               <l> Art thou the golden ladder, whereon pass </l>
+               <l> God’s angels up and down continually? </l>
+               <l> Ev’n now (God’s thoughts are angels) one descends;— </l>
+               <l> A pure gold petal flutters to my feet. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
