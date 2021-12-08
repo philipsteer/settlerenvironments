@@ -1,0 +1,47 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Tauhou (Or Silver-eye)</q> </title>
+               <author> Johannes C. Andersen </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Whitcombe and Tombs </publisher>
+                <pubPlace> Christchurch </pubPlace>
+               <date> 1903 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Andersen, Johannes C. <q>The Tauhou (Or Silver-eye).</q> <hi rend="italic">Songs Unsung</hi> (Christchurch: Whitcombe and Tombs, 1903), p. 56. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> A summer long the sun and thou<note> Thou. The tauhou/silvereye is a small songbird, distinguished by a white ring around its eye, that was introduced from Australia in the 1850s (“tauhou” translates as “stranger”). </note> </l>
+               <l> In flowering bush have lingered merry, </l>
+               <l> Ye both have left the bushlands now, </l>
+               <l> Where neither flower there is, nor berry, </l>
+               <l> And insects, as the days turn cold, </l>
+               <l> Hide deep in bark, and leaf, and mould. </l>
+           </lg>
+           <lg>
+               <l> The keen winds and thy plaintive cry </l>
+               <l> Have come together down the glen; </l>
+               <l> Is Earth unkind, o Silver-eye, </l>
+               <l> Thou comest to the haunts of men.<note> Haunts of men. The tauhou/silvereye is found in suburban environments and farmland, as well as forests. </note> </l>
+               <l> Ah; we desert our gay haunts thus </l>
+               <l> When life grows cold, unkind to us. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
