@@ -1,0 +1,47 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Waterfall and the Piwakawaka</q> </title>
+               <author> Johannes C. Andersen </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Whitcombe and Tombs </publisher>
+                <pubPlace> Christchurch </pubPlace>
+               <date> 1903 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Andersen, Johannes C. <q>The Waterfall and the Piwakawaka.</q> <hi rend="italic">Songs Unsung</hi> (Christchurch: Whitcombe and Tombs, 1903), p. 104. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Water falling in foam, </l>
+               <l> And a dead fuchsia<note> Fuchsia. The kōtukutuku/tree fuchsia is the world’s largest species of fuchsia, with thin bark that peels in strips, and is one of Aotearoa New Zealand’s few deciduous tree species—so might appear to be dead in winter. </note> bending </l>
+               <l> From the daylight above, to the gloam </l>
+               <l> Of the chasm descending: </l>
+               <l> Frondage of ferns, and the drip </l>
+               <l> From bark hanging in tatters,— </l>
+               <l> Sunlight and cheerfulness slip </l>
+               <l> To the gloom, when asway on the tip </l>
+               <l> Of a twig, the gay fantail<note> Fantail. The pīwakawaka/fantail is a gregarious and acrobatic bird that feeds on insects. </note> chatters; </l>
+               <l> Death is around it—what matters?— </l>
+               <l> A flirt of its fan and it flits </l>
+               <l> And over the foaming sits </l>
+               <l> And flirts, twits and chatters. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
+                   
