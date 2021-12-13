@@ -1,0 +1,55 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Tui</q> </title>
+               <author> “L. Avis” (C. Watkins) </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Walter Scott </publisher>
+                <pubPlace> London </pubPlace>
+               <date> 1888 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> “L. Avis” [C. Watkins]. <q>The Tui.</q> <hi rend="italic">A Century of Australian Song</hi>, edited by Douglas B. W. Sladen (London: Walter Scott, 1888), p. 70. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Full in the light of morning, high upon a withered bough, </l>
+               <l> A Tui<note> Tui. The tui is a species of bird known for its complex and melodious song. </note> sits and calls his mate in tuneful <q>thee and thou,</q> </l>
+               <l> Methinks a bird of high degree, graceful, alert, and keen, </l>
+               <l> With dead-gold specks about his coat, and violet lights and green.<note> Dead-gold specks … violet lights and green. Tui feathers have an iridescent appearance. </note> </l>
+           </lg>
+           <lg>
+               <l> A speckled band, a shapely ruff,<note> Speckled band … shapely ruff. Tui have white feathers around the neck and white tufts on the throat.</note> about his supple throat, </l>
+               <l> As though he must be warmly kept, or would not sing a note, </l>
+               <l> And best of beauties manifold, his crisp, white feather <q>bands,</q><note> White feather “bands.” Possibly a reference to white shoulder feathers that are visible in flight. </note> </l>
+               <l> Arranged and kept in order meet, without the use of hands. </l>
+           </lg>
+           <lg>
+               <l> In perfect match with his attire, his song is choice and strange, </l>
+               <l> Now soft, now harsh, now sweet, he runs through all a songbird’s range; </l>
+               <l> He stands on high and calls his mate, bright in the sun’s bright rays— </l>
+               <l> A type of that mysterious past, the unknown Maori days. </l>
+           </lg>
+           <lg>
+               <l> Days when the bold, bright Maori was free from Pakeha<note> Pakeha. Pākehā is the most common Māori term for the settler population and was at times used as a term of settler self-identification. </note> rule, </l>
+               <l> When to learn to fish and fight and swim was all he knew of school. </l>
+               <l> Looks he not back to those free days, to wish they were not done? </l>
+               <l> He may, for, like the birds and bush, his race is nearly done.<note> Nearly done. Along with a growing number of animal extinctions, it was an increasingly common settler belief in the last decades of the 1800s that Māori were likely to die out as a distinct population. </note> </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
