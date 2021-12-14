@@ -1,0 +1,73 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Forty Mile Bush, N.I.</q> </title>
+               <author> “Austral” (Anne Glenny Wilson) </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> New Zealand Mail </publisher>
+               <pubPlace> Wellington </pubPlace>
+               <date> 1884 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>Austral</q> [Wilson, Anne Glenny]. <q>The Forty Mile Bush, N.I.</q> <hi rend="italic">New Zealand Mail</hi>, 19 September 1884, p. 3. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Far in the forests’<note> Forest. The Forty Mile Bush/Te Tapere-nui-ā-Whātonga was an area of dense forest in the northern Wairarapa region of the North Island. It was deforested during the 1870s and 1880s in large part by Scandinavian settlers brought to New Zealand by assisted migration schemes. </note> aromatic shade, </l>
+               <l> We rode, one afternoon of golden ease: </l>
+               <l> The long road ran thro' sunshine and thro' shade, </l>
+               <l> Lulled by the somnolent stories of the trees. </l>
+           </lg>
+           <lg>
+               <l> Sometimes a bell-bird<note> Bell-bird. The bellbird/korimako is known for the clear ringing notes of its call. </note> fluted far away, </l>
+               <l> Sometimes the murmur of the leafy deep, </l>
+               <l> Rising and falling all the autumnal day, </l>
+               <l> Rolled on the hills and sank again to sleep. </l>
+           </lg>
+           <lg>
+               <l> Before us lay the pinewoods’<note> Pinewoods. The reference is unclear as several indigenous tree species that grew in the area were described as pines, notably rimu (red pine) and matai (black pine). </note> sombre miles, </l>
+               <l> Thick laid with moss, like furs upon the floor. </l>
+               <l> Behind, the woodland[’]s green monotonous aisles, </l>
+               <l> Closed in the West by sunset’s amber door. </l>
+           </lg>
+           <lg>
+               <l> Mile after mile the same.<note> Mile after mile the same. Likely a reference to the so-called Five Mile Avenue, part of the only major road through the region at the time. </note> The sky grew red, </l>
+               <l> And thro' the trees we saw a snowy gleam </l>
+               <l> Of Phantom peak, and spectral mountain-head, </l>
+               <l> And gulfs that nurse the glacier and the stream. </l>
+           </lg>
+           <lg>
+               <l> This is the snow king’s threshold and dominion! </l>
+               <l> The frozen ranges<note> Ranges. The Tararua Ranges bordered the Forty-Mile Bush to the west. </note>  white, without a stain, </l>
+               <l> Like icy wings outspread, and flying pinion </l>
+               <l> Ready to soar above the cloudy plain. </l>               
+           </lg>
+           <lg>
+               <l> Deep in the glen the hollow waters, racing </l>
+               <l> Sent forth their turbulent voices to the night. </l>
+               <l> The stars above began their solemn pacing, </l>
+               <l> And hourly shone the distant village light.<note> Village light. Likely a reference to the settlements of Pahiatua or Eketāhuna. </note> </l>
+           </lg>
+           <lg>
+               <l> Mysterious forest! In this humming city<note> City. The reference is unclear, and may be fanciful, as Wilson had since her marriage in 1874 had lived in the rural Rangitīkei region. </note> </l>
+               <l> I seem to hear thy music-breathing tree, </l>
+               <l> Thy branches wave and beckon me, in pity, </l>
+               <l> To seek again thy hospitality! </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
