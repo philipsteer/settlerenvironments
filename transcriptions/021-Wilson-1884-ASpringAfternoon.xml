@@ -1,0 +1,81 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>A Spring Afternoon, N.Z.</q> </title>
+               <author> “Austral” (Anne Glenny Wilson) </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> The Australasian </publisher>
+               <pubPlace> Melbourne </pubPlace>
+               <date> 1884 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>Austral</q> [Wilson, Anne Glenny]. <q>A Spring Afternoon, N.Z.</q> <hi rend="italic">The Australasian</hi>, 11 October 1884, p. 32. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> We rode in the shadowy place of pines, <note> Pines. The reference is unclear: several indigenous tree species were described as pines, notably rimu (red pine), matai (black pine), and kahikatea (white pine), while the Monterey or radiata pine was first introduced in the late 1850s and began to be planted more widely in the 1870s. </note> </l>
+               <l> The wind went whispering here and there </l>
+               <l> Like whispers in a house of prayer. </l>
+               <l> The sunshine stole in narrow lines, </l>
+               <l> And sweet was the resinous atmosphere, </l>
+               <l> The shrill cicada,<note> Cicada. The chorus cicada is endemic to New Zealand. </note> far and near, </l>
+               <l> Piped on his high exultant third. </l>
+               <l> Summer! Summer! He seems to say— </l>
+               <l> Summer! He knows no other word, </l>
+               <l> But trills on it the live-long day; </l>
+               <l> The little hawker of the green, </l>
+               <l> Who calls his wares through all the solemn forest scene. </l>
+           </lg>
+           <lg>
+               <l> A shadowy land of deep repose! </l>
+               <l> Here where the loud nor’-wester blows, </l>
+               <l> How sweet, to soothe a trivial care, </l>
+               <l> The pine trees[’] ever-murmured prayer! </l>
+               <l> To shake the scented powder down </l>
+               <l> From stooping boughs that bar the way, </l>
+               <l> And see the vistas, golden brown, </l>
+               <l> Stretch to the sky-line far away. </l>
+               <l> But on and upward still we ride </l>
+               <l> Whither the furze,<note> Furze. Gorse was first introduced into New Zealand in the early 1800s, where it became an invasive weed, capable of producing its yellow flowers twice a year as opposed to annual flowering in its homeland. </note> an outlaw bold, </l>
+               <l> Scatters along the bare hillside, </l>
+               <l> Handfuls of free, uncounted gold, </l>
+               <l> And breaths of nutty, wild perfume, </l>
+               <l> Salute us from the flowering broom. </l>
+               <l> I love this narrow, sandy road </l>
+               <l> That idly gads o’er hill and vale, </l>
+               <l> Twisting where once a rivulet flowed, </l>
+               <l> With as many turns as a gossip’s tale. </l>
+               <l> I love this shaky, creaking bridge, </l>
+               <l> And the willow<note> Willow. Multiple species of willow were introduced into New Zealand in the nineteenth century and were often propagated for purposes of erosion control. </note> leaning from the ridge, </l>
+               <l> Shaped like some green fountain playing, </l>
+               <l> And the twinkling windows of the farm, </l>
+               <l> Just where the woodland throws an arm </l>
+               <l> To hear what the merry stream is saying. </l>
+           </lg>
+           <lg>
+               <l> Stop the horses for a moment, high upon the breezy stair, </l>
+               <l> Looking over plain and upland, and the depths of summer air, </l>
+               <l> Watch the cloud and shadow sailing o’er the forest’s sombre breast, </l>
+               <l> Misty capes and snow-cliffs glimmer on the ranges to the west.<note> Ranges to the west. The setting of the poem is unclear but is seemingly not in the vicinity of Wilson’s home near the west coast of New Zealand’s North Island </note> </l>
+               <l> Hear the distant thunder rolling, surely ‘tis the making tide, </l>
+               <l> Swinging all the blue Pacific on the harbour’s iron side. </l>
+               <l> Now the day grows grey and chill, but see on yonder wooded fold, </l>
+               <l> Between the clouds a ray of sunshine slips, and writes a word in gold. </l>
+           </lg>
+       </body>
+   </text>                    
+</TEI>
