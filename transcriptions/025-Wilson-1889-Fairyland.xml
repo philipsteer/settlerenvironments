@@ -9,12 +9,12 @@
               <edition>Transcribed and edited by Philip Steer</edition>
           </editionStmt>
             <publicationStmt>
-                <publisher> Griffith, Farran, Okenden and Welsh </publisher>
-               <pubPlace> London </pubPlace>
-               <date> 1889 </date>
+                <publisher> The Australasian </publisher>
+               <pubPlace> Melbourne </pubPlace>
+               <date> 1883 </date>
            </publicationStmt>
             <sourceDesc>
-                <bibl> <q>Austral</q> [Wilson, Anne Glenny]. <q>Fairyland.</q> <hi rend="italic">Themes and Variations</hi> (London: Griffith, Farran, Okenden and Welsh, 1889), pp. 54-55. </bibl>
+                <bibl> <q>Austral</q> [Wilson, Anne Glenny]. <q>Fairyland.</q> <hi rend="italic">The Australasian</hi>, 5 May 1883, p. 7. </bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -30,7 +30,7 @@
                <l> Do you remember that careless band, </l>
                <l> Riding o’er meadow and wet sea-sand, </l>
                <l> One autumn day, in a mist of sunshine, </l>
-               <l> Joyously seeking for fairyland? </l>
+               <l> Joyously seeking for Fairyland? </l>
            </lg>
            <lg>
                <l> The wind in the tree-tops was scarcely heard, </l>
@@ -42,7 +42,7 @@
                <l> Pale hoar-frost glittered in shady slips, </l>
                <l> Where ferns were dipping their finger-tips, </l>
                <l> From mossy branches a faint perfume </l>
-               <l> Breathed over honeyed clematis<note> Clematis. Puawananga, or New Zealand clematis, is a woody vine which produces star-shaped white flowers. </note> lips. </l>
+               <l> Breathed over honeyed clematis-lips.<note> Clematis. Puawananga, or New Zealand clematis, is a woody vine which produces star-shaped white flowers. </note> </l>
            </lg>
            <lg>
                <l> At last we climbed to the ridge on high </l>
@@ -57,10 +57,16 @@
                <l> Fretted the wave with terrace and steep. </l>
            </lg>
            <lg>
-               <l> We look on the tranquil, glassy bay, </l>
+               <l> We looked on the <sic>tranquill</sic>, glassy bay, </l>
                <l> On headlands sheeted with dazzling spray, </l>
                <l> And the whitening ribs of a wreck forlorn </l>
                <l> That for twenty years had wasted away. </l>
+           </lg>
+           <lg>
+               <l> Blue in the sunshine, green in the shade, </l>
+               <l> Like humming-bird’s plumage, the water played; </l>
+               <l> Far off a sail, white as fallen blossom, </l>
+               <l> Gleamed over the shadowy ocean glade. </l>       
            </lg>
            <lg>
                <l> All was so calm, and pure, and fair, </l>
