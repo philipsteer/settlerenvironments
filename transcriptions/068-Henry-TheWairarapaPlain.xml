@@ -1,0 +1,79 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>The Wairarapa Plain</q> </title>
+               <author> Philip Henry </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Wairarapa Standard </publisher>
+                <pubPlace> Masterton </pubPlace>
+               <date> 1873 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Henry, Philip. <q>The Wairarapa Plain.</q> <hi rend="italic">Wairarapa Standard</hi>, 1 March 1873, p. 2. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Often dreaming of days bygone </l>
+               <l> Kind memory brings back again </l>
+               <l> Pleasant summer days I once knew </l>
+               <l> On the Wairarapa Plain.<note> Wairarapa Plain. A region north of Wellington, in the south of the North Island, which was first explored for settlement in 1841. </note> </l>
+           </lg>
+           <lg>
+               <l> In those days my blood would circle </l>
+               <l> Freer, quicker in each vein, </l>
+               <l> When I turned my horse’s bridle </l>
+               <l> For the Wairarapa Plain. </l>
+           </lg>
+           <lg>
+               <l> Past the Hutt and Mungaroa,<note> Hutt and Mungaroa. Travellers from Wellington to Wairarapa would journey up the Hutt River and then through the Mangaroa wetland. </note> </l>
+               <l> Then the Rimutaka<note> Rimutaka. The Remutaka Range divides Wellington from the Wairarapa. </note> gain, </l>
+               <l> Breezy height that guards the passage </l>
+               <l> To the wide expanded Plain. </l>
+           </lg>
+           <lg>
+               <l> When at last I passed thy summit, </l>
+               <l> Heedless I of wind or rain, </l>
+               <l> I had clomb the mountain barrier, </l>
+               <l> Soon would reach the level Plain. </l>
+           </lg>
+           <lg>
+               <l> Down descending gazed I forward, </l>
+               <l> Looking onward to obtain </l>
+               <l> The first green and shining vista </l>
+               <l> Of the voiceless spreading Plain.<note> Spreading Plain. Much of the Wairarapa plain near the Remutaka Range was covered in grass and scrub at the time of colonisation, which settlers replaced with introduced grass species to support the expanding pastoral economy. </note> </l>
+           </lg>
+           <lg>
+               <l> One look across to where the Lake<note> Lake. Lake Wairarapa is a large lake and wetland area near the Remutaka Range that drains into the sea on the southern coast of the North Island. </note> </l>
+               <l> Sleeps quiet by the restless main, </l>
+               <l> And then at last—at last I’m bounding </l>
+               <l> O’er the long and sea-like Plain. </l>
+           </lg>
+           <lg>
+               <l> Sweet the birds sang in the green bush, </l>
+               <l> And my thirsty sense did drain </l>
+               <l> Its fill of life and health and sunshine, </l>
+               <l> In that summer on the Plain. </l>
+           </lg>
+           <lg>
+               <l> Happy days which only memory </l>
+               <l> Now can bring me back again; </l>
+               <l> They were transient, though through ages </l>
+               <l> Bathed in sunshine lies the Plain. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
