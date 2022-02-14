@@ -1,0 +1,102 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Wakatip</q> </title>
+               <author> H. </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Lake Wakatip Mail </publisher>
+                <pubPlace> Queenstown </pubPlace>
+               <date> 1873 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>H.</q> <q>Wakatip.</q> <hi rend="italic">Lake Wakatip Mail</hi>, 15 January 1873, p. 3. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> From shore to shore of Zealand’s land, </l>
+               <l> There is no fairer, brighter scene;<note> Scene. Whakatipu Waimāori/Lake Wakatipu is a long inland lake, in the south of the South Island. </note> </l>
+               <l> No nobler spot, or picture grand, </l>
+               <l> May ever in these isles be seen. </l>
+               <l> All that’s joyous, fresh and clear, </l>
+               <l> Doth cling about it, and around, </l>
+               <l> Charming every object near, </l>
+               <l> And making heart and pulse to bound. </l>
+           </lg>
+           <lg>
+               <l> Shapes of beauty, forms of grace, </l>
+               <l> Float about on every side; </l>
+               <l> Airy nothings, seen in space, </l>
+               <l> Come reflected on its tide. </l>
+               <l> Dark and massive, shadow back </l>
+               <l> Mountains great;<note> Mountains great. Whakatipu Waimāori/Lake Wakatipu is surrounded by mountains, including the Kawarau/Remarkables Range. </note> and greater still, </l>
+               <l> Marking, by their mighty track, </l>
+               <l> The terraced slopes of vale and hill. </l>
+           </lg>
+           <lg>
+               <l> Waters deep, and dark, and blue, </l>
+               <l> Mirror clouds of purest white; </l>
+               <l> And show unbroken, sharp, and true, </l>
+               <l> Snow-clad peaks of wondrous height. </l>
+               <l> Blackest shapes of mountains bold, </l>
+               <l> Bluest skies, each leaping stream— </l>
+               <l> Birthplace these of magic gold<note> Gold. The Otago gold rush, which began in 1861, included locations along the Kawarau River, which is the only outflow of Whakatipu Waimāori/Lake Wakatipu. </note>— </l>
+               <l> All are there—a blended dream. </l>
+           </lg>
+           <lg>
+               <l> Pastures green, and countless flocks<note> Flocks. The extensive grasslands east of the Southern Alps were fully exploited for sheep farming by the mid-1860s. </note> </l>
+               <l> Roam o’er hills and valleys deep, </l>
+               <l> Browsing on the jutting rocks, </l>
+               <l> Or by its crystal streams do creep. </l>
+               <l> Homesteads snug, unknowing tell </l>
+               <l> The wanderer yet of joy and peace; </l>
+               <l> Each wreath of smoke from wooded dell, </l>
+               <l> Unwinds from round his heart a crease. </l>
+           </lg>
+           <lg>
+               <l> Health and freedom supreme reign, </l>
+               <l> Undivided in their sway; </l>
+               <l> Each alone asserts its claim </l>
+               <l> To act its part in fullest play. </l>
+               <l> Summer heats, nor winter snows, </l>
+               <l> Change or alter not their powers; </l>
+               <l> But sweet is every wind that blows: </l>
+               <l> Yes! sweet as Spring time’s sweetest flowers. </l>
+           </lg>
+           <lg>
+               <l> Contrasts meet and harmonize— </l>
+               <l> Skies and waters, mountains too— </l>
+               <l> Each with each doth sympathise, </l>
+               <l> The towering hills and waters blue. </l>
+               <l> Distance, seen through azure space, </l>
+               <l> Present seems to wondering eye; </l>
+               <l> Strange, weird objects seem in place, </l>
+               <l> And long-forgotten scenes draw nigh. </l>
+           </lg>
+           <lg>
+               <l> Strange enchantment that the spell, </l>
+               <l> As wove around you, taints the air, </l>
+               <l> And bids the stranger speak, and tell </l>
+               <l> How thy glory banished care. </l>
+               <l> Enraptured by thy fairy forms, </l>
+               <l> Troubles fly, and cares forsake; </l>
+               <l> Pleasant calms replace life’s storms </l>
+               <l> In presence of this queenly Lake. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
+                   
