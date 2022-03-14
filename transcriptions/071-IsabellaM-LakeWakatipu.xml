@@ -1,0 +1,91 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>Lake Wakatipu</q> </title>
+               <author> Isabella M. </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Lake Wakatip Mail </publisher>
+                <pubPlace> Queenstown </pubPlace>
+               <date> 1891 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>Isabella M.</q> <q>Lake Wakatipu.</q> <hi rend="italic">Lake Wakatip Mail</hi>, 4 December 1891, p. 3. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Lake of the mountain land,<note> Lake of the mountain land. Whakatipu Waimāori/Lake Wakatipu is a long inland lake, in the south of the South Island, surrounded by mountains including the Kawarau/Remarkables Range. </note> flowing and free, </l>
+               <l> Mighty the spirit that dwelleth by thee, </l>
+               <l> And soft is His breath, as onward we glide, </l>
+               <l> Over thy bosom, most beautiful tide. </l>
+           </lg>
+           <lg>
+               <l> Slumbering sweetly! we break thy repose; </l>
+               <l> White rise the waves as thy waters unclose, </l>
+               <l> Curling and foaming, upheaving along, </l>
+               <l> Sweet in their plaint as a lullaby song. </l>
+           </lg>
+           <lg>
+               <l> Varied and precious the things<note> Precious … things. Likely a reference to gold discoveries that were made during the 1860s along the Kawarau River, which is the only outflow of Whakatipu Waimāori/Lake Wakatipu. </note> thou dost hold, </l>
+               <l> Washed from the crypts of these mountains so old </l>
+               <l> Treasures of ages! that man may not view, </l>
+               <l> Lie in the depths of thy fathomless blue. </l>
+           </lg>
+           <lg>
+               <l> Lovely at dawning, when glassy and cold, </l>
+               <l> Lovely at sunset, when burnished with gold, </l>
+               <l> And roseate gleams, of lingering day, </l>
+               <l> Steal on thee softly, then vanish away. </l>
+           </lg>
+           <lg>
+               <l> Lake of the mountain land, troubled and wild, </l>
+               <l> Sometimes thou art—like a petulant child— </l>
+               <l> Tossing and swaying, in terrible form, </l>
+               <l> Uplifting thy voice far over the storm. </l>
+           </lg>
+           <lg>
+               <l> Seek’st thou to break through thy barriers strong, </l>
+               <l> That here, in thy place, have kept thee so long? </l>
+               <l> Content thee, fair Lake, thus cradled to be, </l>
+               <l> For good is the Spirit that dwelleth by thee. </l>
+           </lg>
+           <lg>
+               <l> Sunbeams stream o’er thee, by strength of His power, </l>
+               <l> Moonbeams uplit thee at midnight’s still hour; </l>
+               <l> The “Austral Cross,”<note> Austral Cross. Crux, also known as the Southern Cross, a constellation visible in the Southern Hemisphere. </note> and fair satellites, shine, </l>
+               <l> And silently watch thee in beauty divine. </l>
+           </lg>
+           <lg>
+               <l> Say, my soul, where is that Great Spirit’s throne, </l>
+               <l> High in the mountains, so silent and lone? </l>
+               <l> Nay, far in the Heavens, where eye cannot see. </l>
+               <l> Earth’s but His footstool, most mighty is He. </l>
+           </lg>
+           <lg>
+               <l> These grand hoary heights He called into birth, </l>
+               <l> Waters He gathered, apart from the earth, </l>
+               <l> At the beginning. Omnipotent still! </l>
+               <l> All things existent, His glory doth fill. </l>
+           </lg>
+           <lg>
+               <l> Farewell, lovely lake! I step to the shore. </l>
+               <l> May I be better in heart than before, </l>
+               <l> Adoring His presence wherever I be, </l>
+               <l> For God is the Spirit that dwelleth by thee. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
