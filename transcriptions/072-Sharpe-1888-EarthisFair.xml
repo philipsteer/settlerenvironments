@@ -1,0 +1,77 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>Earth is Fair</q> </title>
+                <author> Alfred Sharpe </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Newcastle Morning Herald and Miners' Advocate </publisher>
+                <pubPlace> Newcastle </pubPlace>
+                <date> 1888 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Alfred Sharpe.  <q>Earth is Fair.</q> <hi rend="italic">Newcastle Morning Herald and Miners' Advocate</hi>, 20 February 1888, p. 2. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <front>
+           <p> “And God saw everything that He had made, and behold it was very good.”–GEN i, 31.<note> GEN i, 31. A quotation from the Book of Genesis, the first book of the <hi rend="italic">Bible</hi>, which describes God’s response after creating the world in six days. </note> </p>           
+       </front>
+       
+       <body>
+           <lg>
+               <l> Tell me not, tell me not that the angel of woe<note> Angel of woe. A reference to the Book of Revelation, the last book of the <hi rend="italic">Bible</hi>, which describes an angel “flying through the midst of heaven, saying with a loud voice, Woe, woe, woe, to the inhabiters of the earth” (8:13). </note> </l>
+               <l> Broods over the earth, in its throb or its glow, </l>
+               <l> Or that life’s a warfare with devilish foe; </l>
+               <l> Or that ‘tis a desert for body and soul, </l>
+               <l> A weary endurance of sorrow and dole, </l>
+               <l> A wilderness journey to heaven’s bright goal.<note> Wilderness journey … heaven’s bright goal. The lines of this stanza evoke a Protestant view of the world, possibly drawing on the allegory of the journey made by Christian in John Bunyan’s <hi rend="italic">The Pilgrim’s Progress</hi> (1678). </note> </l>
+           </lg>
+           <lg>
+               <l> For I know, yes, I know that the earth it is fair; </l>
+               <l> And, though life is mixed up with sorrow and care, </l>
+               <l> It yet hath its sunshine, and flowers bloom there. </l>
+               <l> Our Creator is good, and His goodness is shown </l>
+               <l> In all the bright things that o’er earth he hath strown, </l>
+               <l> Though man, His creation, hath dimmed its bright tone.<note> Man … bright tone. A reference to the original sin that marred the creation, described in Genesis 3, and possibly also to the environmental damage caused by settlers in Australia and New Zealand. </note> </l>
+           </lg>
+           <lg>
+               <l> Let us look, let us look at the flowers on the lea, </l>
+               <l> At the insects at play, at the birds on the tree, </l>
+               <l> How fair, and how bright, and how happy they be! </l>
+               <l> And can we suppose the existence of man </l>
+               <l> Alone is created as under a ban; </l>
+               <l> And that, too, by God’s own deliberate plan? </l>
+           </lg>
+           <lg>
+               <l> No it’s not, no it’s not—earth is pleasant and bright </l>
+               <l> To all, save to those who, in self-induced night, </l>
+               <l> Choose to sit far from even a glimmer of light. </l>
+               <l> Things bright and things beautiful round us abound; </l>
+               <l> Kind hearts and warm friendships by seekers are found; </l>
+               <l> And foretastes of heaven are lying around. </l>
+           </lg>
+           <lg>
+               <l> Then say not, O say not that our portion is woe </l>
+               <l> While through our drear lifetime existence we go; </l>
+               <l> O mortals, how can you dishonour God so? </l>
+               <l> He hath made this earth bright, that a type<note> Type. Invokes the typological interpretation of the <hi rend="italic">Bible</hi>, which regards aspects of the Old Testament as symbols of the New Testament. </note> we may see, </l>
+               <l> A shadowy type, of what heaven will be </l>
+               <l> When no more is the earth and no more is the sea. </l>
+           </lg>
+           <p> ALFRED SHARPE, Newcastle.<note> Newcastle. Sharpe had lived in New Zealand since 1859, but moved to Newcastle, New South Wales, in late 1887. </note> </p>
+           
+       </body>
+   </text>
+</TEI>             
