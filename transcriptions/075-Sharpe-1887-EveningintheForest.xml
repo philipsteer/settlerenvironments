@@ -1,0 +1,103 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>Evening in the Forest</q> </title>
+                <author> Alfred Sharpe </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> New Zealand Herald </publisher>
+                <pubPlace> Auckland </pubPlace>
+                <date> 188 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Alfred Sharpe.  <q>Evening in the Forest.</q> <hi rend="italic">New Zealand Herald</hi>, , 24 December 1887, p. 7. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> I looked on a sky of orange flame; </l>
+               <l> On the rose-cloud bloom of a dying day; </l>
+               <l> The forest was steeped in an amber glow, </l>
+               <l> Save where the deep purple shadows lay. </l>
+           </lg>
+           <lg>
+               <l> I leaned ‘gainst the trunk of a mighty tree, </l>
+               <l> Bathed in that rose-gold shimmery light; </l>
+               <l> The insects were droning their evening hymn; </l>
+               <l> The tuis<note> Tuis. The tui is a species of bird known for its melodious song. </note> were chanting their last goodnight. </l>
+           </lg>
+           <lg>
+               <l> On nikau palm<note> Nikau palm. The nīkau, New Zealand’s only native palm, has closely-spaced dark green leaves. </note> fronds the glory fell, </l>
+               <l> And nestled amongst their glossy spears, </l>
+               <l> Till the graceful spread of each fan-like head </l>
+               <l> All hung with sparkles of gold appears. </l>
+           </lg>
+           <lg>
+               <l> The fern trees<note> Fern trees. Most likely a reference  to the ponga, or silver fern, which grows to a height of ten metres and is especially common in the North Island.</note> shone out like golden plumes </l>
+               <l> ‘Gainst the purple depths of the shadow glade; </l>
+               <l> Whilst evening zephyrs, with murmurous hush, </l>
+               <l> Sank to their rest in the fronded shade. </l>
+           </lg>
+           <lg>
+               <l> Far, far up in the ambient air </l>
+               <l> The forest monarchs<note> Forest monarchs. Most likely a reference to the kauri, the tallest tree species in Aotearoa New Zealand, growing forty or fifty meters in height, and commonly described by settler as the monarch of the colonial forest. </note> in pride up-towered, </l>
+               <l> A dusk shade under their mighty limbs, </l>
+               <l> Whilst glowing gold on their heads down showered. </l>
+           </lg>
+           <lg>
+               <l> Down from the network of branches and leaves, </l>
+               <l> Softened by distance, in dreamy spell, </l>
+               <l> Like angel voicings from out of the sky, </l>
+               <l> Came coo of pigeon<note> Pigeon. The kererū, or New Zealand pigeon, is a large forest bird, although it is better known for the noise of its wings than for its call. </note> and bell-birds<note> Bell-birds. The korimako, or bellbird, is known for the clear ringing notes of its call. </note> bell. </l>
+           </lg>
+           <lg>
+               <l> I dreamily gazed on that golden scene, </l>
+               <l> And watched the lengthening shadowings creep, </l>
+               <l> First purple, then violet, blue, and grey, </l>
+               <l> Till hushed was Nature in twilight sleep. </l>
+           </lg>
+           <lg>
+               <l> Night fell—all gone was the rosy glow; </l>
+               <l> Faded the glamour on fern, and on tree; </l>
+               <l> All was hushed in a slumberous calm, </l>
+               <l> Save the murmurous drone of the distant sea. </l>
+           </lg>
+           <lg>
+               <l> And ere I left, my evening hymn </l>
+               <l> Up from my soul did humbly swell; </l>
+               <l> Though no sound was heard, ‘twas heard by Him, </l>
+               <l> Down in the depths of that forest dell. </l>
+           </lg>
+           <lg>
+               <l> I felt His love—not the forced love </l>
+               <l> By stern <sic>Livitical</sic> laws<note> Livitical laws. A reference to the Jewish religious laws of Leviticus, as recorded in the Old Testament of the <hi rend="italic">Bible</hi>. </note> upheld; </l>
+               <l> Nor stimulate love, born of hopes and fears, </l>
+               <l> That erst was taught us in days of old; </l>
+           </lg>
+           <lg>
+               <l> But the love benignant, that never dies; </l>
+               <l> That governeth all with its tender power; </l>
+               <l> Not only man in his lofty pride, </l>
+               <l> But each small insect, or tiny flower. </l>
+           </lg>
+           <lg>
+               <l> The love that heareth the glowing tones </l>
+               <l> Hymned by thousands, with organ swell; </l>
+               <l> And also heareth the wordless psalms </l>
+               <l> That rise for aye from each forest dell. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
