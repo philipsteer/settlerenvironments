@@ -1,0 +1,133 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>A Reminiscence of New Zealand</q> </title>
+                <author> Alfred Sharpe </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Newcastle Morning Herald and Miners' Advocate </publisher>
+                <pubPlace> Newcastle </pubPlace>
+                <date> 1888 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Alfred Sharpe.  <q>A Reminiscence of New Zealand.</q> <hi rend="italic">Newcastle Morning Herald and Miners' Advocate</hi>, 20 September 1888, p. 2. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> One Summer’s eve,<note> One summer’s eve. The “reminiscence” described in the poem seemingly relates to the period when Sharpe lived in the Mangapai area, north of Auckland, following his arrival in New Zealand in 1859. </note> when glowing twilight shadows </l>
+               <l> Were closing o’er the land; </l>
+               <l> And on the winding river<note> River. Seemingly the Mangapai River, or stream, which flows into the Whangarei harbour. </note> damps of evening </l>
+               <l> Lay in a dim grey band; </l>
+               <l> And whilst the dying glory of the sunset </l>
+               <l> The western sky still spanned; </l>
+           </lg>
+           <lg>
+               <l> I loosed my skiff, and, under woodland shadows </l>
+               <l> Along the river bank, </l>
+               <l> I swept along against a gentle current, </l>
+               <l> Through dew-rise cool and dank; </l>
+               <l> On either side the forest, all entangled </l>
+               <l> With ferns and creepers rank. </l>
+           </lg>
+           <lg>
+               <l> A silent and a holy calmness brooded </l>
+               <l> O’er river, vale, and hill; </l>
+               <l> Save the soft rustling of the air-king’s whisper, </l>
+               <l> Or cry of morepork<note> Morepork. The ruru/morepork is a small owl. </note> shrill, </l>
+               <l> That startled momentarily the silence, </l>
+               <l> Then all again was still. </l>
+           </lg>
+           <lg>
+               <l> And as the sombre shades of evening deepened, </l>
+               <l> And light died from the sky, </l>
+               <l> First one by one, then in innumerous numbers, </l>
+               <l> The stars appeared on high; </l>
+               <l> And weirdly showed the changing forest shadows </l>
+               <l> As swift I glided by. </l>
+           </lg>
+           <lg>
+               <l> Then passing up a creek all dark with frondage </l>
+               <l> Of forest giants hoar, </l>
+               <l> I moored my skiff to pendulous branches drooping </l>
+               <l> From the o’erhanging shore; </l>
+               <l> While, dimly seen above, the mighty kauris<note> Mighty kauris. The tallest tree species in Aotearoa New Zealand, growing forty or fifty meters in height, and commonly described by settler as the monarch of the colonial forest. </note> </l>
+               <l> Seemed heavenward to soar. </l>
+           </lg>
+           <lg>
+               <l> Anon the moon rose o’er the eastern forest, </l>
+               <l> And silver topped each hill; </l>
+               <l> Transfusing with her light the woodland gloomings; </l>
+               <l> And sparkling on the rill; </l>
+               <l> Until, at last, the scene in sheeny radiance </l>
+               <l> Showed silver-bright and still. </l>
+           </lg>
+           <lg>
+               <l> The stately kauris showed like hoary pillars </l>
+               <l> All flecked with silver light; </l>
+               <l> While all the glossy leafage ‘neath them glittered </l>
+               <l> With sparkles diamond-bright; </l>
+               <l> And strange, fantastic forms loomed from the shadows </l>
+               <l> Like phantoms of the night. </l>
+           </lg>
+           <lg>
+               <l> And, skyward far, the spreading branches closing </l>
+               <l> Showed like a mighty dome; </l>
+               <l> While past the openings sailed light, rounded cloudlets, </l>
+               <l> Pure white, like fleecy foam, </l>
+               <l> Momentarily showing through the frondage, </l>
+               <l> Like angels passing home. </l>
+           </lg>
+           <lg>
+               <l> Like the grand aisles of some Titanic temple </l>
+               <l> The mighty trunks<note> Mighty trunks. The kauri trunk grows to be a perfectly cylindrical shape, reaching diameters of up to three or metres. </note> rose dim; </l>
+               <l> I felt, within that hushed and holy stillness, </l>
+               <l> As standing on the rim </l>
+               <l> Of things unseen, known only to the seraphs, </l>
+               <l> And to the cherubim.<note> Seraphs … cherubim. Types of angel described in the <hi rend="italic">Bible</hi>. </note> </l>
+           </lg>
+           <lg>
+               <l> And there, amid that deep primeval<note> Primeval. Kauri can live for more than 1,000 years, with some renowned trees estimated to have lived for perhaps 1,7000 to 2000 years. </note> forest, </l>
+               <l> I stood all dumb and still; </l>
+               <l> While of the grand and solemn beauty round me </l>
+               <l> My soul drank in its fill; </l>
+               <l> I could not even to a word give voicing, </l>
+               <l> E’en if I had the will. </l>
+           </lg>
+           <lg>
+               <l> For there are solemn temples where the voicings </l>
+               <l> Of lips are never heard; </l>
+               <l> And where, amid the mighty works of Nature, </l>
+               <l> The heart alone is stirred; </l>
+               <l> And though it quivereth with its thronging feelings, </l>
+               <l> It utters not a word. </l>
+           </lg>
+           <p>*	*	*	*	*</p>
+           <lg>
+               <l> Long years have passed since I stood there and worshipped </l>
+               <l> Within that temple hoar; </l>
+               <l> As if but yesterday, to me appeareth </l>
+               <l> That solemn scene of yore; </l>
+               <l> For scenes in which the heart takes part are graven </l>
+               <l> On memory evermore. </l>
+           </lg>
+           <p> ALFRED SHARP.<note> Sharp. Sharpe began to spell his name without the final “e,” in accordance with the spelling used by his younger brother, William Bethal Sharp, who he joined after his move to Australia. </note> </p>
+           <p> Newcastle. <note> Newcastle. Sharpe had moved to Newcastle, New South Wales, in late 1887. </note></p>
+           
+       </body>
+   </text>
+</TEI>
+           
+                   
