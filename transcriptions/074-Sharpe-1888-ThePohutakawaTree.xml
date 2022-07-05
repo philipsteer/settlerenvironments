@@ -1,0 +1,116 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>The Pohutakawa Tree</q> </title>
+                <author> Alfred Sharpe </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Newcastle Morning Herald and Miners' Advocate </publisher>
+                <pubPlace> Newcastle </pubPlace>
+                <date> 1888 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Alfred Sharpe. <q>The Pohutakawa Tree.</q> <hi rend="italic">Newcastle Morning Herald and Miners' Advocate</hi>, 12 May 1888, p. 2. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <front>
+           <p> All the coast line of the Northern part of New Zealand is fringed by a giant myrtle, which covers the cliffs and foreshores. This tree is the <sic>Pohutakawa</sic><note> Pohutakawa. Sharpe, in common with many settlers, misspells pōhutukawa. Colonial botanist Thomas Kirk claimed the species “is, perhaps, the most magnificent plant in the New Zealand flora” (<hi rend="italic">The Forest Flora of New Zealand</hi>, 1889). </note> of the natives, and the “Christmas tree” of the settlers, so called because at Christmas time it bursts out into a mass of crimson bloom, and is used to decorate the houses at that festive season. Its wood is very hard and durable, and is used for the ribs and knees of vessels, for which its strength and remarkable curvatures render it invaluable. The trunks are seldom more than 12ft. girth, but the spread of the huge twisted limbs is enormous, casting deep shadows around and underneath on the cliffs, and it often grows to a height of a hundred feet. It seems to delight in the most exposed places, where it spreads broad and low, and defies the tempest. </p>
+       </front>
+       
+       <body>
+           <lg>
+               <l> Metrosideros Tomentosa,<note> Metrosideros Tomentosa. The nineteenth century taxonomic name of pōhutukawa, now known as Metrosideros excelsa, which is derived from the ancient Greek words “metra” (heartwood) and “sideron” (iron). </note> </l>
+               <l> So by savants named, </l>
+               <l> All unlike the soft mimosa,<note> Mimosa. Most likely the silk tree, Albizia julibrissin, an introduced species. </note> </l>
+               <l> Thou for strength art framed. </l>
+               <l> On the craggy cliffs, defiant, </l>
+               <l> Drenched with spray of wave, </l>
+               <l> Standest thou, all lush and royaunt, </l>
+               <l> O’er some ocean cave; </l>
+               <l> While each fronded bough attesteth </l>
+               <l> It defieth the tempest’s might; </l>
+               <l> And a crimson glory resteth </l>
+               <l> O’er each branch, and proudly cresteth </l>
+               <l> All thy topmost height. </l>
+           </lg>
+           <lg>
+               <l> In his might the storm king twisteth </l>
+               <l> All thy branches hoar, </l>
+               <l> Yet each stretcheth where it listeth, </l>
+               <l> Green for evermore; </l>
+               <l> Each in proud resistance, facing </l>
+               <l> All the tempest’s fling; </l>
+               <l> And amongst their interlacing </l>
+               <l> Sea-birds rest their wing. </l>
+               <l> There, the cormorant, white-breasted,<note> Cormorant, white-breasted. The white-fronted kāruhiruhi/the pied shag, or cormorant, commonly nests in coastal pōhutukawa trees. </note></l>
+               <l> Gazes on the deep below, </l>
+               <l> Where the waves, all foamy-crested, </l>
+               <l> Surge along, till rock-arrested </l>
+               <l> In their onward flow. </l>
+           </lg>
+           <lg>
+               <l> All the seasons, in their ranging, </l>
+               <l> Winter, Summer, Spring, </l>
+               <l> Or the Autumn, ever changing </l>
+               <l> Beauties to thee bring. </l>
+               <l> Thou’rt in Winter dark and massive, </l>
+               <l> Meet for stormy time, </l>
+               <l> Meet for a resistance passive </l>
+               <l> To the ocean rime. </l>
+               <l> In the Spring, thy leaflets springing, </l>
+               <l> Crown thee with a silver green; </l>
+               <l> While the kingfishers<note> Kingfishers. The habitat of the kōtare/sacred kingfisher is widespread, including coastal locations, and it congregates on the coast during winter. </note> are winging, </l>
+               <l> Or from rocks below upspringing </l>
+               <l> To thy leafy screen. </l>
+           </lg>
+           <lg>
+               <l> King of Summer Flora crowns thee, </l>
+               <l> Placing on thy head </l>
+               <l> A bright coronal of glory </l>
+               <l> Of a vivid red, </l>
+               <l> That when sunlight on it glances </l>
+               <l> Mocks the ruby’s glow, </l>
+               <l> And, reflected downwards, dances </l>
+               <l> On the waves below; </l>
+               <l> And thy flowers and leaves combining </l>
+               <l> Symbolise our Christmas time; </l>
+               <l> Ruby-berried holly miming; </l>
+               <l> With the good old customs chiming </l>
+               <l> Of the English clime. </l>
+           </lg>
+           <lg>
+               <l> Floral emblem in New Zealand </l>
+               <l> Thou’rt of Christmas glee; </l>
+               <l> All associate with its pleasure, </l>
+               <l> And its revelry. </l>
+               <l> Emblem, too, of strength and power, </l>
+               <l> On thy native rock;<note> Native rock. Thomas Kirk, in <hi rend="italic">The Forest Flora of New Zealand</hi> (1889), observes that pōhutukawa “has been wantonly destroyed in many localities, and is now very scarce in districts where it was formerly plentiful.” </note> </l>
+               <l> Caring not, though storm-clouds lower, </l>
+               <l> For the tempest’s shock. </l>
+               <l> Thou, with roots of iron cleaving </l>
+               <l> To New Zealand’s rock-bound shore, </l>
+               <l> Far above the ocean’s heaving; </l>
+               <l> Or thy lower branches laving </l>
+               <l> In its surges, standest braving </l>
+               <l> Wind and wave, for ever waving </l>
+               <l> Back defiance to their roar. </l>
+           </lg>                   
+           <p> ALFRED SHARP.<note> Sharp. Sharpe began to spell his name without the final “e,” in accordance with the spelling used by his younger brother, William Bethal Sharp, who he joined after his move to Australia. </note> </p>
+           <p> Newcastle. <note> Newcastle. Sharpe had moved to Newcastle, New South Wales, in late 1887. </note> </p>
+           
+       </body>
+   </text>
+</TEI>
+                   
