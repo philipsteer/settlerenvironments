@@ -1,0 +1,122 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>A Day with Nature</q> </title>
+                <author> Alfred Sharpe </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> New Zealand Herald </publisher>
+                <pubPlace> Auckland </pubPlace>
+                <date> 1886 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Alfred Sharpe.  <q>A Day with Nature.</q> <hi rend="italic">New Zealand Herald</hi>, 23 January 1886, p. 3. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> I wandered abroad on a sunshiny day, </l>
+               <l> Over the upland and over the lea, </l>
+               <l> Watching the flash of the insects at play, </l>
+               <l> And the iridescent gleams on the sea. </l>
+               <l> <sic>Perfume-laded</sic> zephyrs were wafted to me, </l>
+               <l> From out of the depths of the evergreen bowers, </l>
+               <l> Sweet with aromatic odours from tree, </l>
+               <l> Sweet, too, with languorous scent from the flowers. </l>
+           </lg>
+           <lg>
+               <l> I wended my way to a forest-clad dell, </l>
+               <l> Passing from sunlight to ambering shade; </l>
+               <l> Coming at last to a crystalline well, </l>
+               <l> Sparkling and cool, in the depths of the glade. </l>
+               <l> The feathery frondage of fern trees<note> Fern trees. Most likely a reference to the ponga, or silver fern, which grows to a height of ten metres and is especially common in the North Island. </note> made </l>
+               <l> A rich green canopy over my head, </l>
+               <l> And delicate fernlets<note> Fernlets. Ferns typically comprise the undergrowth in New Zealand forests. </note> of many a shade </l>
+               <l> Of emerald tintings around me were spread. </l>
+           </lg>
+           <lg>
+               <l> Above me a mighty puriri<note> Puriri. Pūriri is a forest tree, growing to around 20 metres, with pale bark. </note> spread, </l>
+               <l> With fawn-coloured limbs, shewing [sic] pale ‘gainst the gloom </l>
+               <l> Of its massive, green, and umbrageous head, </l>
+               <l> That sunbeams might pierce but never illume. </l>
+               <l> Faint waves of blushings flashed down from the bloom </l>
+               <l> Of the rata,<note> Rata. The northern rātā is a forest tree, growing to over 40 metres, with red flowers. </note> glowing in crimson light </l>
+               <l> As the breeze waved aside the mamaku<note> Mamaku. Mamaku, or black tree fern. </note> plume </l>
+               <l> Giving a glimpse of its rubescence bright. </l>
+           </lg>
+           <lg>
+               <l> The <sic>manukau</sic>,<note> Manukau. Mānuka, or tea tree, is a low-growing tree with a profusion of small white flowers. </note> crowned with its snowy bloom, </l>
+               <l> Hung over the glen, like masses of snow, </l>
+               <l> Scenting with faint, terebinthine<note> Terebinthine. Turpentine-like. </note> perfume, </l>
+               <l> The soft breeze that passed me with whisperings low; </l>
+               <l> The moss-covered ground was besprinkled below </l>
+               <l> With the starry drops of the petalline shower </l>
+               <l> That fluttered down like feathery snow, </l>
+               <l> From that snowy mass of <sic>manukau</sic> flower. </l>
+           </lg>
+           <lg>
+               <l> I laid me down under the greenwood shade; </l>
+               <l> My soul drinking in all the beauty there. </l>
+               <l> A whispering murmuring stirred in the glade, </l>
+               <l> Filling with quivering echoes the air. </l>
+               <l> I drowsily gazed at the greenery fair </l>
+               <l> Till my waking thoughts into Dreamland passed; </l>
+               <l> And I slept, but still in my sleep saw there </l>
+               <l> The mirror in which the scene was glassed. </l>
+           </lg>
+           <lg>
+               <l> And still, in my sleep, spread the fairy glen </l>
+               <l> In all its beauty, and all its glow; </l>
+               <l> But a softer, tenderer beauty then </l>
+               <l> Seemed over all things to softly flow; </l>
+               <l> And as I gazed in sweet accents low </l>
+               <l> A song arose from the crystalline well, </l>
+               <l> Now seeming above and now seeming below, </l>
+               <l> And these were the words of its musical swell: </l>
+           </lg>
+           <lg>
+               <l> "Come to the woodlands, away, away, </l>
+               <l> Come where the sunbeams with shadowings play </l>
+               <l> Shining like diamond points on the leaves </l>
+               <l> Of the bowers the drooping clematis<note> Clematis. Likely a reference to puawananga, or white clematis, an evergreen vine that produces white flowers. </note> weaves; </l>
+               <l> Or where the plumy fern fronds grow </l>
+               <l> Filling the air with an amberine glow; </l>
+               <l> And leaving kisses on leaf and flower </l>
+               <l> That sparkle like raindrops after a shower. </l>
+           </lg>
+           <lg>
+               <l> Come to the woodlands, come roam with me,  </l>
+               <l> Drinking in beauty from flower and from tree; </l>
+               <l> Come, roam in the home of the Dryad at will, </l>
+               <l> Or rest on the moss-covered bank of the rill, </l>
+               <l> And there I will whisper into your ear </l>
+               <l> The dryadine secrets that we hold dear; </l>
+               <l> And my kisses shall fill your soul with love </l>
+               <l> For all things around and all things above." </l>
+           </lg>
+           <lg>
+               <l> And then I awoke, and that echoing song </l>
+               <l> In the forest aisles died slowly away; </l>
+               <l> While the rustling leaves seemed still to prolong </l>
+               <l> The notes, in soft cadence, from spray to spray; </l>
+               <l> And I lingered there, till the summer day </l>
+               <l> Flashed crimson banners all over the west </l>
+               <l> To tell the world it was passing away </l>
+               <l> To the great Nevermore of eternal rest. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
+                   
