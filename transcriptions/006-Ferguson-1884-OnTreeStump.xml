@@ -1,0 +1,108 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>On Tree Stump on Mr Mosley’s Farm, Inch Clutha</q> </title>
+               <author> Dugald Ferguson </author>
+           </titleStmt>
+          <editionStmt>
+              <edition>Transcribed and edited by Philip Steer</edition>
+          </editionStmt>
+            <publicationStmt>
+               <publisher> Clutha Leader </publisher>
+               <pubPlace> Balclutha </pubPlace>
+               <date> 1884 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Ferguson, Dugald. <q>On Tree Stump on Mr Mosley’s Farm, Inch Clutha.</q> <hi rend="italic">Clutha Leader</hi>, 21 November 1884, p. 6. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+    <text>
+        <front>
+            <p> [Written by request.] </p>
+        </front>
+        
+        <body>
+            <lg>                   
+                <l> Where stately Clutha’s arms enfold </l>
+                <l> Her island<note> Inch Clutha. Inch Clutha is an island in the Clutha River/Mata-Au, in the South Island of New Zealand.  </note> round, is to be seen </l>
+                <l> A tree stump marvellous to behold— </l>
+                <l> So vast in girth, that what had been </l>
+                <l> A tree so mighty one might well </l>
+                <l> Deplore the cause there was to fell. </l>
+            </lg>
+            <lg>
+                <l> But anger soon with sorrow blends </l>
+                <l> When told what sent its sentence forth, </l>
+                <l> That had no place in paltry ends </l>
+                <l> Connected with its market worth, </l>
+                <l> (That wields o’er men such potent law), </l>
+                <l> And doomed it to the Woodman’s saw. </l>
+            </lg>
+            <lg>
+                <l> A craven vile, with nature mean, </l>
+                <l> Whose charge the workmen were, to vent </l>
+                <l> Against its owner his poor spleen, </l>
+                <l> Had the tree felled for this intent; </l>
+                <l> His mean soul pleased when on the ground </l>
+                <l> He heard its thund’ring shock resound. </l>
+            </lg>
+            <lg>
+                <l> But for that ill-timed prank, I wot </l>
+                <l> Its top umbrageous, tow’ring vast, </l>
+                <l> Might yet on high long proudly float, </l>
+                <l> And on the ground its shadow cast; </l>
+                <l> With zealous care guarded from harm </l>
+                <l> As some prized object on the farm. </l>
+            </lg>
+            <lg>
+                <l> Yet it was once a tree of fame, </l>
+                <l> When high it towered o’er the glade; </l>
+                <l> And travellers from a distance came, </l>
+                <l> And its huge form in awe surveyed, </l>
+                <l> As like some Anakim<note> Anakim. A race of giants mentioned in the Bible (e.g. Deuteronomy 1:28). </note> it stood </l>
+                <l> The undoubted monarch of the wood. </l>
+            </lg>
+            <lg>
+                <l> Ere yet the ruthless Pakeha<note> Pakeha. Pākehā are settlers of British or European descent. </note> </l>
+                <l> Appeared with desolating axe, </l>
+                <l> And tangled brakes, where erst some pah<note> Pah. A pā is a Māori fortified settlement. </note> </l>
+                <l> Was haply screened ‘mid scrub and flax, </l>
+                <l> With echoing strokes then quickly cleared, </l>
+                <l> Its towering form there long was reared. </l>
+            </lg>
+            <lg>
+                <l> Around its top, an object marked, </l>
+                <l> Ten thousand storms had haply raved </l>
+                <l> With howling blasts, and lightnings forked, </l>
+                <l> Yet still unscathed had all been braved; </l>
+                <l> Till treach’rous act from a mean foe </l>
+                <l> Its mighty form at length laid low. </l>
+            </lg>
+            <lg>
+                <l> And of the tree late in that place, </l>
+                <l> Whose wealth of timber gave such cause </l>
+                <l> For wonder, now is found no trace; </l>
+                <l> The stump but shows what once it was, </l>
+                <l> And thistles now suffice to hide </l>
+                <l> What lately was the forest’s pride. </l>
+            </lg>
+            <lg>
+                <l> Like it the man, who once in pride </l>
+                <l> His name “writ large” upon the earth, </l>
+                <l> With wealth and substance spreading wide, </l>
+                <l> And yet of useful works was dearth— </l>
+                <l> And that he lived is now but known </l>
+                <l> Through some rich monumental stone. </l>
+            </lg>
+                <p> DUGALD FERGUSON. </p>
+        </body>
+    </text>
+</TEI>
