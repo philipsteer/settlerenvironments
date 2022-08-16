@@ -1,0 +1,69 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>An Arbor Day Vision</q> </title>
+               <author> <q>Wych Elm</q> (Marie R. Randle) </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Otago Witness </publisher>
+                <pubPlace> Dunedin </pubPlace>
+               <date> 1892 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>Wych Elm</q> [Marie R. Randle]. <q>An Arbor Day Vision.</q> <hi rend="italic">Otago Witness</hi>, 1 September 1892, p. 37. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> In olden days when Rosalind<note> Rosalind. The protagonist of William Shakespeare’s <hi rend="italic">As You Like It</hi> (1599), who takes refuge in the Forest of Arden. </note> </l>
+               <l> Sat ‘neath the beech trees’ shade and dream’d, </l>
+               <l> While thro’ their downy-satin leaves </l>
+               <l> The yellow sunshine danc’d and stream’d; </l>
+               <l> And on the silver boles were hung, </l>
+               <l> (Soft-flutt'ring in the summer breeze), </l>
+               <l> The verses by Orlando<note> Orlando. Orlando writes poems to Rosalind that he posts on the trees of the Forest of Arden. </note> sung </l>
+               <l> Unto the list’ning forest trees; </l>
+               <l> Then was the reign of old romance </l>
+               <l> In Arden woods, in lovely France. </l>
+           </lg>
+           <lg>
+               <l> In olden days, when Oberon<note> Oberon. The King of the Fairies in William Shakespeare’s <hi rend="italic">A Midsummer Night’s Dream</hi> (1595/6), who visits the forest outside Athens. </note> </l>
+               <l> His revels held on moonlight nights, </l>
+               <l> And all the woodland ways o’er teem’d </l>
+               <l> With airy, tiny, glist’ring sprites; </l>
+               <l> When on the moss Titania<note> Titania. The Queen of the Fairies, who receives a love potion at Oberon’s behest and later imagines her experience has been a dream. </note> </l>
+               <l> Unseen, slept soft with folded wings, </l>
+               <l> In an enchanted atmosphere, </l>
+               <l> Peopled with quaint imaginings; </l>
+               <l> What fairy tales might have been told </l>
+               <l> By each great forest monarch<note> A common phrase for a large and ancient tree. </note> old. </l>
+           </lg>
+           <lg>
+               <l> Some day, our barren hills<note> Much of the Otago province, in the South Island, was grassland rather than forest at the time of colonisation. </note> may boast </l>
+               <l> A mantle rich of forest trees, </l>
+               <l> And oak, and ash, and elm, and beech<note> Oak … ash … elm … beech. English tree species that were introduced by settlers. </note> </l>
+               <l> May whisper in the summer breeze; </l>
+               <l> Then will a Rosalind appear, </l>
+               <l> To fancy’s eye, amid the glades, </l>
+               <l> And poets dainty lays will sing </l>
+               <l> Of elves within those woodland shades; </l>
+               <l> And old-world visions will arise </l>
+               <l> To bloom anew ‘neath Austral skies. </l>
+           </lg>
+           <p> —WYCH ELM.<note> Wych Elm. The so-called Scots elm, <hi rend="italic">Ulmus glabra</hi>, which was the chosen penname of Marie R. Randle. </note> </p>
+           <p> Inch Valley,<note> Inch Valley. Marie Randle resided in Inch Valley, in the Otago Province, from 1889-1892, while her husband was head teacher at the local school. </note> August 1892.<note> August 1892. Arbor Day, an annual occasion for planting trees, was first officially observed in New Zealand as a public holiday for government departments and schools on 4 August 1892. </note> </p>
+       </body>
+   </text>
+</TEI>         
