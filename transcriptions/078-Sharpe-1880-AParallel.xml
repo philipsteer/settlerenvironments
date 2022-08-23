@@ -1,0 +1,95 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>A Parallel Suggested by Rangitoto</q> </title>
+                <author> Alfred Sharpe </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> New Zealand Herald </publisher>
+                <pubPlace> Auckland </pubPlace>
+                <date> 1880 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Alfred Sharpe.  <q>A Parallel Suggested by Rangitoto.</q> <hi rend="italic">New Zealand Herald</hi>, 30 October 1880, p. 3. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Dark Rangitoto,<note> Rangitoto. Rangitoto Island, near Auckland in the North Island of Aotearoa New Zealand, is a volcanic island that was a popular recreation site for Pākehā settlers in the late nineteenth century. </note> though it may seem </l>
+               <l> Rugged and gloomy, and barren and bare, </l>
+               <l> Hath many a spot, and many a bower </l>
+               <l> Of beauty and loveliness rare. </l>
+           </lg>
+           <lg>
+               <l> There are sheltered bays, where the rippling waves </l>
+               <l> With a dreamy and measured murmur creep, </l>
+               <l> Wave after wave, to the emerald strand, </l>
+               <l> To kiss it and fall asleep. </l>
+           </lg>
+           <lg>
+               <l> There are fairy dells, all canopied o’er </l>
+               <l> With tremulous leaves, cut sharp ‘gainst the sky; </l>
+               <l> And a mazy tangle of branches hoar </l>
+               <l> Supporting the greenery. </l>
+           </lg>
+           <lg>
+               <l> There are ferny nooks, where the delicate fronds </l>
+               <l> Droop from the rocks, and the banks, and the trees; </l>
+               <l> Their feathery tracery scarcely stirred </l>
+               <l> By the gentle summery breeze. </l>
+           </lg>
+           <lg>
+               <l> There are rocky clefts on the sea-beat shore, </l>
+               <l> All covered with lichens of every hue; </l>
+               <l> With naught seen above save the azure sky, </l>
+               <l> Naught below but the ocean blue. </l>
+           </lg>
+           <lg>
+               <l> There are tiny bays, where the mighty limbs </l>
+               <l> Of <sic>pohutakawas</sic><note> Pohutukawas. Pōhutukawa is a coastal tree that grows in the North Island of Aotearoa New Zealand. </note> shut out the day; </l>
+               <l> Forming a temple of cool green shade </l>
+               <l> Meet for the Naiad’s play. </l>
+           </lg>
+           <lg>
+               <l> And where the deep, calm, crystalline depths </l>
+               <l> Reveal the secrets of mermaiden’s bowers; </l>
+               <l> Covered with sea fronds, with delicate shells </l>
+               <l> Gemming the bright ocean flowers. </l>
+           </lg>
+           <lg>
+               <l> Aye, there’s many a sweet, fairy spot </l>
+               <l> On dark Rangitoto that seems to bar </l>
+               <l> All that is beautiful, all that is bright, </l>
+               <l> When it is seen from afar. </l>
+           </lg>
+           <lg>
+               <l> So of a soul, seeming barren and bare, </l>
+               <l> Rugged and gloomy, repellant [sic] and cold, </l>
+               <l> When ‘tis approached, becomes pleasant and fair, </l>
+               <l> Showing the stamp of God’s mould. </l>
+           </lg>
+           <lg>
+               <l> And each human heart has its pleasant nooks, </l>
+               <l> Where love, peace, and kindly charity smile, </l>
+               <l> Though the outward form be rugged and grim </l>
+               <l> As Rangitoto’s dark isle. </l>
+           </lg>
+                   <p> ALFRED SHARPE </p>
+                   <p> Carlton Gore Road, </p>
+           <p> Auckland, October, 1880.<note> Auckland … 1880. Sharpe had moved to Auckland in 1866. </note> </p>
+       </body>
+   </text>
+</TEI>
+                   
