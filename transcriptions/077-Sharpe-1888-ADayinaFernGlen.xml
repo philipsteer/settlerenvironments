@@ -1,0 +1,132 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>A Day in a Fern Glen</q> </title>
+                <author> Alfred Sharpe </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Newcastle Morning Herald and Miners' Advocate </publisher>
+                <pubPlace> Newcastle </pubPlace>
+                <date> 1888 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Alfred Sharpe.  <q>A Day in a Fern Glen.</q> <hi rend="italic">Newcastle Morning Herald and Miners' Advocate</hi>, 6 December 1888, p. 2. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> In the golden haze of the morning air </l>
+               <l> I hied me away to a ferny dell; </l>
+               <l> To be, for only one day free from care, </l>
+               <l> Under sweet Nature’s spell. </l>
+           </lg>
+           <lg>
+               <l> I laid me down on the moss-covered ground, </l>
+               <l> And gazed on the wonderful beauty there; </l>
+               <l> The summery breeze stirred the plumes around, </l>
+               <l> Whose murmurs filled the air. </l>
+           </lg>
+           <lg>
+               <l> The tree ferns stretched their feathery fronds </l>
+               <l> Over my head, like a fretwork dome, </l>
+               <l> When I lay in a bath of cool green light, </l>
+               <l> There in that Dryad’s<note> Dryad. A wood nymph in Greek mythology. </note> home. </l>
+           </lg>
+           <lg>
+               <l> The wattle trees, too, with their virid leaves,<note> Wattle … leaves. Nal-a-Wort (Bunganditj language) or golden wattle is a small tree found in southeastern Australia with long, curved, dark-green leaf stems. </note> </l>
+               <l> Soft and feathery, shut out the light; </l>
+               <l> Each zephyr kiss shewing their undersides, </l>
+               <l> A blending of dark and light. </l>
+           </lg>
+           <lg>
+               <l> The delicate frondlets of maidenhairs,<note> Maidenhairs. The maidenhair fern is indigenous to Australia and other southern hemisphere locations. </note> </l>
+               <l> Tier over tier, on each rocky bank, </l>
+               <l> Bent down to each other in loving kiss, </l>
+               <l> Mixed up with mosses dank. </l>
+           </lg>
+           <lg>
+               <l> The emerald-tinted aspleniums<note> Aspleniums. A genus of ferns found in Australia, possibly referring to the shrub-sized bird’s nest fern/crow’s nest fern. </note> reared </l>
+               <l> Their graceful forms in the amber light; </l>
+               <l> And the spotted bands of the snake-ferns<note> Snake ferns. The reference is unclear, as the Australian snake fern is found in tropical northern Australia. </note> spread </l>
+               <l> Their gold-bossed leaves to sight. </l>
+           </lg>
+           <lg>
+               <l> And delicate fernlets of every hue, </l>
+               <l> From emerald green to ruby brown, </l>
+               <l> Cover the ground; while pendulous fronds </l>
+               <l> From shelving banks hung down. </l>
+           </lg>
+           <lg>
+               <l> And, like the dim aisles of some cloisters old, </l>
+               <l> Far stretched the vista of frondage green— </l>
+               <l> Ah! it was Fairyland realised there, </l>
+               <l> Through all the varied scene. </l>
+           </lg>
+           <lg>
+               <l> And there, ‘mid those plumy, feathery forms— </l>
+               <l> There, on my soft mossy couch, I lay; </l>
+               <l> Watching the flickering peeps of the sun </l>
+               <l> Dancing about in play. </l>
+           </lg>
+           <lg>
+               <l> And nothing of loneliness felt I there, </l>
+               <l> Holding with Nature communion sweet. </l>
+               <l> I was less alone in that lonely glade </l>
+               <l> Than in the busy street. </l>
+           </lg>
+           <lg>
+               <l> A woodpecker<note> Woodpecker. Possibly a reference to a species of Australasian treecreeper, as there are no Australian species of woodpecker. </note> sat close by, on a twig, </l>
+               <l> Gazing at me with its lustrous eyes; </l>
+               <l> And I softly talked to it, for it seemed </l>
+               <l> So human-like and wise. </l>
+           </lg>
+           <lg>
+               <l> And a pair of blue tits<note> Blue tits. The reference is unclear, as the blue tit is found in Europe. </note> flashed in and out </l>
+               <l> ‘Mongst fern-tree frond, and wattle-tree spray, </l>
+               <l> Restlessly flirting their wings and tails </l>
+               <l> The livelong summer day. </l>
+           </lg>
+           <lg>
+               <l> And the myriad pulses of Nature stirred, </l>
+               <l> And uttered their low Œolian<note> Œolian. Wind-blown. </note> psalm; </l>
+               <l> Rising and falling in murmurous tones; </l>
+               <l> Restless, and yet so calm. </l>
+           </lg>
+           <lg>
+               <l> And those tremulous tones, in voicings low, </l>
+               <l> Like the tender chords of some sweet-refrain, </l>
+               <l> Filled my heart with restful and quiet calm </l>
+               <l> With their soft murmuring strain.</l>
+           </lg>
+                <p>   ·  ·  ·  ·  · </p>
+           <lg>
+               <l> I hied me home as the evening sun </l>
+               <l> Spread golden glory o’er dying day; </l>
+               <l> And the jaded weariness of my soul </l>
+               <l> Seemed to have passed away. </l>
+           </lg>
+           <lg>
+               <l> O, sweet unto me was that day of rest— </l>
+               <l> Yes, very sweet was that day of calm; </l>
+               <l> To my soul, all wearied with life’s turmoil, </l>
+               <l> It proved a gentle balm: </l>
+               <l> For human hearts call for rest in this world; </l>
+               <l> And rest is Heaven’s psalm. </l>
+           </lg>
+           <p> ALFRED SHARP.<note> Sharp. Sharpe began to spell his name without the final “e,” in accordance with the spelling used by his younger brother, William Bethal Sharp, who he joined after his move to Australia. </note></p> 
+           <p> Newcastle.<note> Newcastle. Sharpe had moved to Newcastle, New South Wales, in late 1887. </note> </p>
+       </body>
+   </text>
+</TEI>
