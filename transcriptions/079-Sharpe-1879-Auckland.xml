@@ -1,0 +1,134 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>Auckland</q> </title>
+                <author> Alfred Sharpe </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> New Zealand Herald </publisher>
+                <pubPlace> Auckland </pubPlace>
+                <date> 1879 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Alfred Sharpe.  <q>Auckland.</q> <hi rend="italic">New Zealand Herald</hi>, 29 August 1879, p. 3. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Beautiful art thou, Auckland,<note> Auckland. Tāmaki Makaurau/Auckland is located in the north of the North Island of New Zealand and was the capital of the colony from 1841-1865. </note> without measure; </l>
+               <l> Thou city of the sea.<note> City of the sea. The centre of Tāmaki Makaurau/Auckland is located on an isthmus between the Waitematā Harbour and Manukau Harbour. </note> </l>
+               <l> Thy terraced slopes<note> Terraced slopes. Many of the numerous volcanic cones in the Auckland region were terraced in the course of Māori occupation prior to colonisation. </note> rise swelling from the wavelets </l>
+               <l> That murmur unto thee. </l>
+           </lg>
+           <lg>
+               <l> The sounding dirges of the stormy ocean </l>
+               <l> Approach thee not anear; </l>
+               <l> For many isles,<note> Many isles. Several islands in the Hauraki Gulf are visible from Auckland. </note> their adamantine bulwarks, </l>
+               <l> For thy protection roar. </l>
+           </lg>
+           <lg>
+               <l> And, surging round the tri-peaked Rangitoto,<note> Tri-peaked Rangitoto. Rangitoto Island is a volcanic cone located in the Hauraki Gulf. </note> </l>
+               <l> The ocean tide doth sweep; </l>
+               <l> Till, in the bosom of thy land-locked harbour </l>
+               <l> It softly falls asleep. </l>
+           </lg>
+           <lg>
+               <l> Beautiful art thou, Auckland, when the day dawn, </l>
+               <l> Transfused with pearly light, </l>
+               <l> Reveals, through the soft haze of liquid opal, </l>
+               <l> Thy beauty to our sight. </l>
+           </lg>
+           <lg>
+               <l> Beautiful art thou, Auckland, when the sunset </l>
+               <l> Its glory doth unfold; </l>
+               <l> And o’er the purple ranges throws its splendour </l>
+               <l> Of crimson and of gold, </l>
+           </lg>
+           <lg>
+               <l> Lighting thee up with all the tints of cloudland, </l>
+               <l> In rich and mellow glow; </l>
+               <l> While myriad casements, in the molten glory, </l>
+               <l> Like myriad <sic>sunlets</sic> shew. </l>
+           </lg>
+           <lg>
+               <l> The first bright kisses of the morning greet thee, </l>
+               <l> And silver-top each hill. </l>
+               <l> The midday sun shines on thy leafy coverts, </l>
+               <l> And sparkles on each rill. </l>
+           </lg>
+           <lg>
+               <l> The evening sun folds thee in mellow glory </l>
+               <l> Of ruddy, golden light; </l>
+               <l> And fondly gazeth on thee long, ‘ere sinketh </l>
+               <l> O’er thee the shades of night. </l>
+           </lg>
+           <lg>
+               <l> And then, fair Luna flings her silver radiance </l>
+               <l> Upon each rounded hill; </l>
+               <l> And, from the realms of Elfland thou seem’st starting, </l>
+               <l> So silver bright and still. </l>
+           </lg>
+           <lg>
+               <l> Man! dost thou choose the city’s hum and bustle?<note> City’s hum and bustle. The census of 1881 calculated the population of Auckland and its suburbs as 30,952. </note> </l>
+               <l> Thitherward thou canst go; </l>
+               <l> The human tide, through streets arterial, surges </l>
+               <l> In restless, onward flow. </l>
+           </lg>
+           <lg>
+               <l> Man! dost thou choose to gaze upon the ocean?— </l>
+               <l> Then, from each swelling hill, </l>
+               <l> On land-locked harbour, and on ocean surges, </l>
+               <l> There, thou canst gaze thy fill. </l>
+           </lg>
+           <lg>
+               <l> Man! dost thou choose to seek the leafy coverts </l>
+               <l> Of ferny, bosky glade?— </l>
+               <l> Such glades there are for thee, in rich profusion, </l>
+               <l> With deep, umbrageous shade. </l>
+           </lg>
+           <lg>
+               <l> If thou preferrest panoramic glory, </l>
+               <l> Thy roving eyes may glance </l>
+               <l> From many a lofty hill, unhinder’d sweeping </l>
+               <l> O’er rich and wide expanse. </l>
+           </lg>
+           <lg>
+               <l> There, thou can’st study sweet, untrammell’d Nature, </l>
+               <l> Or rich, but trammell’d Art;<note> Art. Alfred Sharpe he began to exhibit watercolour paintings in Auckland in the 1870s, and would publish “Hints for Landscape Students in Water-Colour” as a series of essays in 1880-82. </note> </l>
+               <l> Of all that thou canst wish, in outward feature, </l>
+               <l> There is a counterpart. </l>
+           </lg>
+           <lg>
+               <l> Beautiful Auckland! The sojourner leaveth </l>
+               <l> Thy shores with fond regret; </l>
+               <l> While those who daily see thy changing beauty </l>
+               <l> Think thou art peerless yet. </l>
+           </lg>
+           <lg>
+               <l> Yea, thou art peerless; spreading in thy beauty </l>
+               <l> On Waitemata’s hem; </l>
+               <l> Like some rich jewel, set within the wreathings </l>
+               <l> Of Nature’s diadem. </l>
+           </lg>
+           <lg>
+               <l> Thy smiling cottages and mansions cluster </l>
+               <l> Along the sunny shore; </l>
+               <l> And Art and Nature, hand in hand, have crown’d thee </l>
+               <l> A queen<note> Queen. Auckland had acquired the nickname of the “Queen City” by the 1870s. </note> for evermore. </l>
+           </lg>
+               <p> Auckland. ALFRED SHARPE. </p>
+       </body>
+   </text>
+</TEI>
