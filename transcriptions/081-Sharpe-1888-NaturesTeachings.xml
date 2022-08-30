@@ -1,0 +1,104 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>Nature's Teaching</q> </title>
+                <author> Alfred Sharpe </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> New Zealand Herald </publisher>
+                <pubPlace> Auckland </pubPlace>
+                <date> 1878 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Alfred Sharpe.  <q>Nature's Teaching.</q> <hi rend="italic">New Zealand Herald</hi>, 5 October 1878, p. 3. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> In the bright and balmy spring-time— </l>
+               <l> In the summer’s golden glow— </l>
+               <l> When the rich warm tints of autumn </l>
+               <l> In succession come and go, </l>
+               <l> Oft ‘mid hills and dales I wander, </l>
+               <l> Far from human toil and strife, </l>
+               <l> Thinking, as the gentle Author </l>
+               <l> Thinketh in “The Gentle Life.” </l>
+           </lg>
+           <lg>
+               <l> Oft, upon the grass reclining </l>
+               <l> Underneath some spreading tree, </l>
+               <l> Shimmering leaves around me dancing, </l>
+               <l> Seem to whisper unto me </l>
+               <l> With a rustling gentle murmur, </l>
+               <l> Like the cooing of a dove, </l>
+               <l> “On these myriad leaves what beauty </l>
+               <l> God has lavished:—God is Love.” </l>
+           </lg>
+           <lg>
+               <l> Let me take that daisy<note> Daisy. The English daisy is recorded as having become naturalised in New Zealand by 1867. </note> near me, </l>
+               <l> Gaze into its starry eye: </l>
+               <l> Worlds of beauty it unfoldeth, </l>
+               <l> Though we lightly pass it by— </l>
+               <l> Snowy, pink-tipped petals, spreading </l>
+               <l> In a radiative band, </l>
+               <l> Golden boss in silver chalice, </l>
+               <l> Jewels spread by God’s own hand. </l>
+           </lg>
+           <lg>
+               <l> O’er my heart the thought comes stealing </l>
+               <l> With an irresistive power, </l>
+               <l> “What a world of beauty lavished </l>
+               <l> On a simple meadow flower! </l>
+               <l> Is it not? Its silent teaching </l>
+               <l> Is to cheer us, and to prove </l>
+               <l> That in all God’s works God’s nature </l>
+               <l> Is the same—that “God is Love.” </l>
+           </lg>
+           <lg>
+               <l> Let me watch that little birdie </l>
+               <l> Blithely hopping in the tree; </l>
+               <l> That same lesson, little birdie, </l>
+               <l> You are teaching unto me. </l>
+               <l> “God is Love” is e’er uprising </l>
+               <l> From your tuneful little throat; </l>
+               <l> “God is Love”—its cadence trilleth </l>
+               <l> Clear to me in every note. </l>
+           </lg>
+           <lg>
+               <l> In the sunlight and the shadow </l>
+               <l> Let me watch those insects play[.] </l>
+               <l> “God is Love” their every motion, </l>
+               <l> Full of joy-life, seems to say; </l>
+               <l> Green and gold, in vivid sheenings, </l>
+               <l> Glancing, gleaming, in the sun, </l>
+               <l> Show that God hath spread His beauty </l>
+               <l> Over all that He hath done. </l>
+           </lg>
+           <lg>
+               <l> And, while Nature’s many voices </l>
+               <l> “God is Love” to all proclaim, </l>
+               <l> Shall not nobler human nature </l>
+               <l> Louder still proclaim the same? </l>
+               <l> Yes; let all in one accordance, </l>
+               <l> With the angelic host above, </l>
+               <l> Sing, in loud triumphant pæan, </l>
+               <l> “God—to us—indeed is Love.” </l>
+           </lg>
+                <p> ALFRED SHARPE. </p>
+                <p> Auckland. </p>
+       </body>
+   </text>
+</TEI>
+                   
