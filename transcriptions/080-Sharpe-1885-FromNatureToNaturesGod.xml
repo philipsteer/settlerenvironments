@@ -1,0 +1,144 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>From Nature to Nature’s God</q> </title>
+                <author> Alfred Sharpe </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> New Zealand Herald </publisher>
+                <pubPlace> Auckland </pubPlace>
+                <date> 1885 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Alfred Sharpe.  <q>From Nature to Nature’s God.</q> <hi rend="italic">New Zealand Herald</hi>, 24 January 1885, p. 2. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Where the breezy moorland stretches, </l>
+               <l> All with rush and bracken spread; </l>
+               <l> Where the balmy air-waves quiver </l>
+               <l> In the sunbeams overhead; </l>
+               <l> Where the tea-trees,<note> Tea-trees. Mānuka, also known as tea tree, is a low-growing tree that produces small white flowers. </note> lush with blossoms, </l>
+               <l> White and starry masses show, </l>
+               <l> Which, when kissed by passing zephyrs, </l>
+               <l> Flutter down like mimic snow; </l>
+               <l> Where the sweet clematis<note> Clematis. There are as many as nine indigenous New Zealand species of clematis, a climbing vine. </note> twineth, </l>
+               <l> With its tufted, feathery mass; </l>
+               <l> And where wave the plumes and spearlets </l>
+               <l> Of the toi-toi grass:<note> Toi-toi grass. Toetoe describes several species of giant indigenous tussock grass that produce feathery flower plumes on tall stems. </note></l>
+               <l> To sweet Nature’s charms addrest, </l>
+               <l> There my soul finds blessed rest. </l>
+           </lg>
+           <lg>
+               <l> Where <sic>primœval</sic> forest darkens; </l>
+               <l> Where the giant kauri<note> Kauri. Kauri trees can grow as tall as forty or fifty metres in height and attain ages of over 1,000 years. </note> towers; </l>
+               <l> Where the mighty-limbed puriri<note> Puriri. Pūriri trees can grow as tall as twenty metres, and produces bright pink, red, or purple flowers. </note> </l>
+               <l> Strews the ground with purple flowers; </l>
+               <l> Where the lordly rata<note> Rata. The northern rātā can grow to over forty metres high, and produces red flowers. </note> showeth </l>
+               <l> Forth her mass of crimson bloom; </l>
+               <l> Where the leafy, dark tiriri<note> Tiriri. Likely taraire, a tree found north of Auckland in the North Island, which can grow over twenty metres high. </note></l>
+               <l> Spreads a semi-twilight gloom; </l>
+               <l> Where the towering kahikatea<note> Kahikatea. Kahikatea is the tallest tree species in Aotearoa New Zealand, growing as tall as sixty metres, and typically grows on lowland swampy terrain. </note> </l>
+               <l> Rises far into the air; </l>
+               <l> Clad with green taweras,<note> Taweras. Tāwari is a small tree that produces white flowers. </note> and with </l>
+               <l> Flowering creepers, bright and fair: </l>
+               <l> To sweet Nature’s charms addrest, </l>
+               <l> There my soul finds blessed rest. </l>
+           </lg>
+           <lg>
+               <l> Where the tawa’s<note> Tawa’s. Tawa is the dominant tree species in many North island lowland forests, growing to a heigh of thirty metres. </note> willowy leafage </l>
+               <l> Lets the sunlight dance below; </l>
+               <l> Where the resinous tanekehas<note> Tanekahas. Tānekaha, also known as the celery pine, is a lowland forest tree whose leaves are in fact leaf-like shoots. </note> </l>
+               <l> Leafy pyramidals show; </l>
+               <l> Where the drooping-frondaged rimu<note> Rimu. Rimu is a large lowland forest tree with pendulous branches. </note> </l>
+               <l> Sways its tassels in the breeze, </l>
+               <l> Which meanders, perfume-laden, </l>
+               <l> In and out amongst the trees; </l>
+               <l> Where the matai,<note> Matai. Mataī, or black pine, is a tall lowland forest tree with dark grey bark. </note> and the maire,<note> Maire. There are several species of the Maire tree, including the Black Maire, which was actively logged by settlers in the Auckland area. </note> </l>
+               <l> Show contrasts of light and shade; </l>
+               <l> Where totaras,<note> Totaras. Tōtara is a common lowland forest tree with reddish-grey bark. </note> with their bronzings, </l>
+               <l> Dot in clumps, the forest glade: </l>
+               <l> To sweet Nature’s charms addrest, </l>
+               <l> There my soul finds blessed rest. </l>
+           </lg>
+           <lg>
+               <l> Where the maiden-hair ferns<note> Maiden-hair ferns. Makaka, or maidenhair fern, is largely restricted to the top half of the North Island. </note> quiver </l>
+               <l> With the echoes of the air; </l>
+               <l> Where the multifarious fernlets </l>
+               <l> Spread a carpet rich and rare; </l>
+               <l> Where the palm fronds of the nikau<note> Nikau. The nīkau, New Zealand’s only native palm, has closely spaced dark green leaves and can grow to a height of fifteen metres. </note></l>
+               <l> Show like emerald in the glade; </l>
+               <l> Where the feathery punga’s<note> Punga’s. Most likely a reference to ponga, a common species of tree fern also known as the silver fern. </note> frondage </l>
+               <l> Casts a luminous amber shade; </l>
+               <l> Where the snake ferns,<note> Snake ferns. The plant species referred to is unclear. </note> orange spotted, </l>
+               <l> Twine o’er rock or fallen tree; </l>
+               <l> Where aspleniums,<note> Aspleniums. There are numerous indigenous species of asplenium, the genus of fern commonly known as spleenwort. </note> graceful, drooping, </l>
+               <l> Whisper breeze-stirred melody: </l>
+               <l> To sweet Nature’s charms addrest, </l>
+               <l> There my soul finds blessed rest. </l>
+           </lg>
+           <lg>
+               <l> Where mamaku ferns<note> Mamaku ferns. Mamaku, or the black tree fern, grows as high as twenty metres with fronds as long as five metres in length. </note> are spreading </l>
+               <l> Giant fronds to catch the light; </l>
+               <l> Where the cabbage<note> Cabbage. Tī kōuka, also known as the cabbage tree, is a palm-like tree with narrow, pointed leaves. </note> spearlets rustle, </l>
+               <l> All with odorous flowers bedight; </l>
+               <l> Where the tutu’s<note> Tutu’s. Tutu is a highly poisonous shrub that bears dark-coloured berries. </note> poisonous clusters </l>
+               <l> Droop in purple-berried mass; </l>
+               <l> Where the koromiko’s<note> Koromiko’s. Koromiko is a common shrub that bears long flower spikes. </note> lovely </l>
+               <l> Flower-spears kiss me as I pass; </l>
+               <l> Where the broad-leaved flax plants<note> Flax plants. Harakeke, also known as flax, is an evergreen perennial that produces long flower spikes that are rich in nectar. </note> cluster </l>
+               <l> With their honey-laden flowers; </l>
+               <l> And where laughing Flora peepeth </l>
+               <l> Ever from her sylvan bowers: </l>
+               <l> To sweet Nature’s charms addrest, </l>
+               <l> There my soul finds blessed rest. </l>
+           </lg>
+           <lg>
+               <l> Where the huge pohutakawa,<note> Pohutakawa. Pōhutukawa is a coastal tree that grows in the North Island and bears bright red flowers in summer. </note> </l>
+               <l> With its vivid, crimson crown, </l>
+               <l> From the cliffs, on ocean surges, </l>
+               <l> Casts its spreading shadows down; </l>
+               <l> Where innumerous lichens cluster </l>
+               <l> Many-hued, o’er every rock; </l>
+               <l> And mesembryanthemums<note> Mesembryanthemums. Mesembryanthemum (ice plant) is a coastal plant introduced from South Africa. </note> starry </l>
+               <l> With the lichens interlock; </l>
+               <l> Where the pendulous samphire<note> Samphire. Likely a reference to rock samphire, a coastal plant introduced from the United Kingdom. </note> swingeth </l>
+               <l> O’er the arch of ocean cave; </l>
+               <l> And where bright sea-flowers wave slowly </l>
+               <l> ‘Neath the cool, translucent wave: </l>
+               <l> To sweet Nature’s charms addrest, </l>
+               <l> There my soul finds blessed rest. </l>
+           </lg>
+           <lg>
+               <l> In the solitude of Nature </l>
+               <l> Hymning voices meet my ear,<note> Meet my ear. Sharpe had reportedly lost his hearing several years before the publication of this poem. </note> </l>
+               <l> With a tender cadence thrilling </l>
+               <l> From all things I come anear: </l>
+               <l> There with friends I am surrounded; </l>
+               <l> There no loneliness I feel; </l>
+               <l> And to me her mystic wonders </l>
+               <l> Nature ever doth reveal; </l>
+               <l> And aneath some sylvan temple </l>
+               <l> Where man's foot hath seldom trod, </l>
+               <l> Read I, in the tome of Nature, </l>
+               <l> Wondrous things of Nature’s God: </l>
+               <l> To sweet Nature’s charms addrest, </l>
+               <l> There my soul finds blessed rest. </l>
+           </lg>                   
+               <p> January, 1884. ALFRED SHARPE. </p>
+       </body>
+   </text>
+</TEI>
