@@ -1,0 +1,142 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>Repose</q> </title>
+                <author> Alfred Sharpe </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Newcastle Morning Herald and Miners' Advocate </publisher>
+                <pubPlace> Newcastle </pubPlace>
+                <date> 1888 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Alfred Sharpe.  <q>A Reminiscence of New Zealand.</q> <hi rend="italic">Newcastle Morning Herald and Miners' Advocate</hi>, 31 March 1888, p. 10. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Deep in the artist’s innermost heart </l>
+               <l> Was shrined a vision of loveliness rare: </l>
+               <l> Of waking life, and of dreamland a part; </l>
+               <l> A blending of all things fair. </l>
+           </lg>
+           <lg>
+               <l> And the pictured vision stirred in his soul, </l>
+               <l> Till forth he went on his mission to find </l>
+               <l> The full embodiment of the goal </l>
+               <l> Of beauty conceived in his mind. </l>
+           </lg>
+           <lg>
+               <l> He wandered along by the sea-beat shore— </l>
+               <l> Calm was the air, and calm was the sea; </l>
+               <l> Save the sad ocean dirge, that evermore </l>
+               <l> Sings the song of eternity. </l>
+           </lg>
+           <lg>
+               <l> He skirted the marge of many a bay; </l>
+               <l> He went by headlands, all craggy and bare: </l>
+               <l> Lovely the scenes that he met on his way; </l>
+               <l> But his visioned dream was not there. </l>
+           </lg>
+           <lg>
+               <l> Anon, the ocean puts forth its power; </l>
+               <l> And its crested waves, with thunder-roar, </l>
+               <l> Rush on the adamant cliffs that tower </l>
+               <l> High over the rock-bound shore. </l>
+           </lg>
+           <lg>
+               <l> But the artist’s vision was peace and calm— </l>
+               <l> Peace over the earth, and calm in the air— </l>
+               <l> So he turned from the ocean’s thunder-psalm; </l>
+               <l> For his ideal was not there. </l>
+           </lg>
+           <lg>
+               <l> He went to the mountain, whose snow-clad heads </l>
+               <l> Gleamed pure and cold, ‘gainst a sapphire sky; </l>
+               <l> He threaded the ravines, whose rocky beds </l>
+               <l> Were a tangle of greenery. </l>
+           </lg>
+           <lg>
+               <l> He passed through the forest arches, dim </l>
+               <l> With shade from the fronded canopy there; </l>
+               <l> He paused to listen to Nature’s hymn; </l>
+               <l> But the scene he sought was not there. </l>
+           </lg>
+           <lg>
+               <l> He came, at last, to a sylvan scene— </l>
+               <l> The artist’s heart gave a gladsome bound: </l>
+               <l> There, the embodiment, calm and serene, </l>
+               <l> Of his waking vision he found. </l>
+           </lg>
+           <lg>
+               <l> A settler’s home, with its broad, low cave, </l>
+               <l> And its <sic>trellissed</sic> porch, stood smiling there; </l>
+               <l> All in the calm of a summery eve— </l>
+               <l> Peace on earth and calm in the air. </l>
+           </lg>
+           <lg>
+               <l> The soft, green, velvety sward stretched round, </l>
+               <l> Where once the forest primæval did stand, </l>
+               <l> That forest still formed the furthermost bound </l>
+               <l> Of the scene, on every hand, </l>
+           </lg>
+           <lg>
+               <l> Save where a deep cleft in the sylvan scene </l>
+               <l> Gave a lightsome view of the broad champaign; </l>
+               <l> Showing dark forest, and meadow green, </l>
+               <l> Spread over the hill-foot plain. </l>
+           </lg>
+           <lg>
+               <l> Some woodland giants, all silver-hoar </l>
+               <l> From primal times, with the lichens grey, </l>
+               <l> Stretched mighty limbs o’er the cottage door, </l>
+               <l> Intercepting the sun’s bright ray. </l>
+           </lg>
+           <lg>
+               <l> And the streaming light of the evening sun </l>
+               <l> Glanced in and out of the frondage there— </l>
+               <l> Here a grey-green dun; there an amber glow </l>
+               <l> From the golden ambient air. </l>
+           </lg>
+           <lg>
+               <l> The myriad points of the leafy screen </l>
+               <l> Showed clear and sharp ‘gainst the daffodil sky; </l>
+               <l> While the curling smoke, from the cottage heath, </l>
+               <l> Slow wreathed through their tracery. </l>
+           </lg>
+           <lg>
+               <l> Over the lea, in the golden haze, </l>
+               <l> With their tinkling bells, come the lowing kine— </l>
+               <l> The busy housewife comes forth to gaze </l>
+               <l> At the homeward-winding line. </l>
+           </lg>
+           <lg>
+               <l> Two bright chubby children play at her knee— </l>
+               <l> Blue are their eyes, and fair is their hair— </l>
+               <l> While, by their dams, the lambs skip on the lea, </l>
+               <l> In the calm, soft evening air. </l>
+           </lg>
+               <p> * * * * * </p>
+           <lg>
+               <l> Then the artist traced that scene of rest, </l>
+               <l> With a living sense of its peaceful calm— </l>
+               <l> His satisfied soul in the work expressed </l>
+               <l> That rest is our nature’s balm— </l>
+               <l> For, “O give us peace,” and “O give us rest,” </l>
+               <l> Is ever our human psalm. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
