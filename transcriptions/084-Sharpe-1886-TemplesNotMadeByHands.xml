@@ -1,0 +1,154 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>Temples Not Made by Hands</q> </title>
+                <author> Alfred Sharpe </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> New Zealand Observer </publisher>
+                <pubPlace> Auckland </pubPlace>
+                <date> 1886 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Alfred Sharpe. <q>Temples Not Made by Hands.</q> <hi rend="italic">New Zealand Observer</hi>, 6 March 1886, p. 10. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> In the forest’s bosky gloom </l>
+               <l> Pass I many a pleasant hour; </l>
+               <l> There the broad puriris<note> Puriris. Pūriri trees can grow as tall as twenty metres, with a broad canopy, and bright pink, red, or purple flowers. </note> spread, </l>
+               <l> There the giant kauris<note> Kauris. Kauri trees can grow as tall as forty or fifty metres in height and attain ages of over 1,000 years. </note> tower. </l>
+           </lg>
+           <lg>
+               <l> There its mass of snowy bloom </l>
+               <l> The clematis<note> Clematis. There are as many as nine indigenous New Zealand species of clematis, a climbing vine. </note> spreads around; </l>
+               <l> There the rata’s clust’ring flowers<note> Rata’s clust’ring flowers. The northern rātā can grow to over forty metres high, and produces red flowers. </note> </l>
+               <l> Strew, with scarlet threads, the ground. </l>
+           </lg>
+           <lg>
+               <l> There the kahikatea<note> Kahikatea. Kahikatea is the tallest tree species in Aotearoa New Zealand, growing as tall as sixty metres, and typically grows on lowland swampy terrain. </note> rears </l>
+               <l> Up to heaven its tufted head, </l>
+               <l> Clad with parasitic mass<note> Parasitic mass. Mature kahikatea trees can support large numbers of epiphytic plant species. </note> </l>
+               <l> O'er its mighty limbs outspread. </l>
+           </lg>
+           <lg>
+               <l> There its graceful, pointed leaves </l>
+               <l> In the air the maire<note> Maire. There are several species of the Maire tree, including the Black Maire, which was actively logged by settlers in the Auckland area. </note> waves; </l>
+               <l> There <sic>pukeatua</sic><note> Pukeatua. Pukatea is a tall forest tree that grows in lowland swampy areas. </note> green </l>
+               <l> In the stream its rootlets laves. </l>
+           </lg>
+           <lg>
+               <l> There the plumes of giant ferns<note> Giant ferns. Likely a reference to ponga (silver fern) or mamaku (black tree fern). </note> </l>
+               <l> Whisper to the forest breeze; </l>
+               <l> There the nikau palm<note> Nikau palm. The nīkau, New Zealand’s only native palm, has closely spaced dark green leaves and can grow to a height of fifteen metres. </note> uprears </l>
+               <l> Tufts of graceful, spear-like leaves. </l>
+           </lg>
+           <lg>
+               <l> There the supplejack<note> Supplejack. Kareao, or supplejack, is a woody forest vine found throughout New Zealand. </note> entwines </l>
+               <l> In and out ‘midst tree and flower, </l>
+               <l> Whilst its scarlet berries bright </l>
+               <l> Gleam like gems in forest bower. </l>
+           </lg>
+           <lg>
+               <l> There the rata vinelets<note> Rata vinelets. Colonial literature often makes reference to the seeming violence of the northern rata, which often begins as an epiphyte in the forest canopy, before sending vines down to the ground and ultimately strangling the host tree. </note> climb </l>
+               <l> To the sunshine far above, </l>
+               <l> Growing into mighty trees, </l>
+               <l> Haunt of tui and of dove.<note> Tui … dove. The tui is a species of bird known for its melodious song. The “dove” is likely a reference to the kererū, or New Zealand pigeon, a large forest bird. </note> </l>
+           </lg>
+           <lg>
+               <l> There the tanekeha<note> Tanekaha. Tānekaha, also known as the celery pine, is a lowland forest tree that grows in a pyramidal form. </note> rears </l>
+               <l> Graceful pyramidal head; </l>
+               <l> There with the <sic>tiriris</sic><note> Tiriris. Likely taraire, a tree found north of Auckland in the North Island, which produces large purple fruit. </note>fruit, </l>
+               <l> Plum-like, forest doves are fed. </l>
+           </lg>
+           <lg>
+               <l> There the gloomy <sic>mirau</sic> pine<note> Gloomy mirau pine. Miro, known to settlers as brown pine, is a tall evergreen forest tree whose juvenile for resembles the yew. </note> </l>
+               <l> Rears its spreading, yew-like form; </l>
+               <l> There kowhais’ drooping flowers,<note> Kowhais’ drooping flowers. Kōwhai is a lowland tree species renowned for its clusters of yellow flowers. </note> </l>
+               <l> Golden-like the bush adorn. </l>
+           </lg>
+           <lg>
+               <l> There matais<note> Matais. Mataī, or black pine, is a tall lowland forest tree with dark grey bark. </note> o’er the stream </l>
+               <l> Spread a dim and bosky gloom; </l>
+               <l> There <sic>manukau’s</sic> starry flowers<note> Manukau’s starry flowers. Mānuka, also known as tea tree, is a low-growing tree that produces small white flowers. </note> </l>
+               <l> Yield aromatic perfume. </l>
+           </lg>
+           <lg>
+               <l> There the bronzed totara<note> Bronzed totara. Tōtara, which was highly valued by Māori, is a common lowland forest tree with reddish-grey bark. </note> spreads </l>
+               <l> All its myriad, pointed leaves, </l>
+               <l> And translucent fretwork domes </l>
+               <l> There the willowy tawa<note> Willowy tawa. Tawa is the dominant tree species in many North island lowland forests, growing to a heigh of thirty metres, with tapering willowy leaves. </note> weaves. </l>
+           </lg>
+           <lg>
+               <l> There all graceful forms abound; </l>
+               <l> Shining greens, of every hue, </l>
+               <l> Leafy vistas form around </l>
+               <l> To mine <sic>eyes</sic> delighted view. </l>
+           </lg>
+           <lg>
+               <l> Round me graceful fernlets spread, </l>
+               <l> Like a carpet o’er the ground, </l>
+               <l> Exquisite in form and tint, </l>
+               <l> Such as nowhere else are found.<note> Nowhere else are found. Aotearoa New Zealand has around 200 fern species, and about eighty are indigenous. </note> </l>
+           </lg>
+           <lg>
+               <l> And the sparkling forest rills </l>
+               <l> Ever sing a pleasant tune, </l>
+               <l> Silver ripplings floating round, </l>
+               <l> Dying ‘mongst the leaves aboon. </l>
+           </lg>
+           <lg>
+               <l> Naught else sounds save tui’s note, </l>
+               <l> Or the bell-bird’s silver tone;<note> Bell-bird’s silver tone. The korimako, or bellbird, is known for the clear ringing notes of its call. </note> </l>
+               <l> Or the kaka’s tuneless scream,<note> Kaka’s tuneless scream. The kākā is a large forest parrot with a harsh cry. </note> </l>
+               <l> Or dove’s cooing monotone;<note> Dove’s cooing monotone. The kererū, or New Zealand pigeon, is largely silent apart from cooing sounds. </note> </l>
+           </lg>
+           <lg>
+               <l> Or soft sough of myriad leaves, </l>
+               <l> Round, above, before, behind: </l>
+               <l> Peace and rest, aye, brood around, </l>
+               <l> Rest for body, peace for mind. </l>
+           </lg>
+           <lg>
+               <l> And the turmoil of the world, </l>
+               <l> With its weary, carking care, </l>
+               <l> Is forgotten, for my soul </l>
+               <l> Filled is with the beauty there. </l>
+           </lg>
+                <p> * * * * * * </p>
+           <lg>
+               <l> Blessed is he whose soul expands </l>
+               <l> With such beauty spread around; </l>
+               <l> For the solemn forest aisles, </l>
+               <l> Aye, to him are holy ground. </l>
+           </lg>
+           <lg>
+               <l> Temples reared by human hands </l>
+               <l> May be grand, and may be fair; </l>
+               <l> But who worships Nature’s God </l>
+               <l> Never worships truly there. </l>
+           </lg>
+           <lg>
+               <l> He to forest temple goes, </l>
+               <l> From all human things apart, </l>
+               <l> And he gives God service there, </l>
+               <l> Not from lip, but from the heart. </l>
+           </lg>
+                <p> ALFRED SHARPE. </p>
+                <p> Auckland, March, 1886. </p>
+       </body>
+   </text>
+</TEI>             
