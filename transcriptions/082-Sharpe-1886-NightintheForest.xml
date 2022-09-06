@@ -1,0 +1,122 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>Night in the Forest/</q> </title>
+                <author> Alfred Sharpe </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> New Zealand Observer </publisher>
+                <pubPlace> Auckland </pubPlace>
+                <date> 1886 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Alfred Sharpe.  <q>Night in the Forest.</q> <hi rend="italic">New Zealand Observer</hi>, 27 February 1886, p. 11. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> The evening dews are falling, </l>
+               <l> The morepork<note> Morepork. The ruru, also known as the morepork due to its call, is a small species of owl. </note> loud is calling </l>
+               <l> From yonder spreading tree. </l>
+               <l> Where plumy fernlets cover </l>
+               <l> That fallen log all over, </l>
+               <l> The glow-worm<note> Glow-worm. Pūrātoke, or the glow-worm, is the larva of a gnat that attracts its prey with a glowing light. </note> lights I see. </l>
+           </lg>
+           <lg>
+               <l> Down in the leafy dingle </l>
+               <l> The smoke from bushman’s ingle </l>
+               <l> Curls slowly in the air </l>
+               <l> Through the branches of a giant, </l>
+               <l> Once spreading, lush, and royaunt, </l>
+               <l> But now all dead and bare.<note> Dead and bare. The implication is that the bushman has killed the tree, perhaps with fire, but it has not yet been felled. </note> </l>
+           </lg>
+           <lg>
+               <l> The nikau<note> Nikau. The nīkau, New Zealand’s only native palm, has closely spaced dark green leaves and can grow to a height of fifteen metres. </note> spearlets quiver </l>
+               <l> Where the current of the river<note> River. Possibly the Mangapai River, or stream, which flows into the Whangarei harbour in the area where Sharpe first settled in New Zealand. </note> </l>
+               <l> Breathes a faint breeze on the bank; </l>
+               <l> Like angel-whispers flying </l>
+               <l> Among the leaves, and dying </l>
+               <l> Among the mosses dank. </l>
+           </lg>
+           <lg>
+               <l> The gentle murmur passes </l>
+               <l> Through the long sedge and grasses<note> Long sedge and grasses. Typical New Zealand wetland plants. </note> </l>
+               <l> That border on the stream; </l>
+               <l> Vibrations soft ascending </l>
+               <l> In faint æolian blending </l>
+               <l> Amid the hush supreme. </l>
+           </lg>
+           <lg>
+               <l> In heaven the stars are burning, </l>
+               <l> And seem with voiceless yearning </l>
+               <l> To speak unto my heart; </l>
+               <l> As, through the leaves up-glancing, </l>
+               <l> I see the starbeams dancing </l>
+               <l> With many a diamond dart. </l>
+           </lg>
+           <lg>
+               <l> Hark! from the bushman’s ingle, </l>
+               <l> Deep down within the dingle, </l>
+               <l> A merry song up-swells; </l>
+               <l> And from the bush surrounding </l>
+               <l> I hear the silver sounding </l>
+               <l> Of tinkling bullock bells. </l>
+           </lg>
+           <lg>
+               <l> A silver fern<note> Silver fern. The ponga, or silver fern, is a tree fern with a silvery white colouration on the underside of the fronds. </note> outspreading </l>
+               <l> A mass of lace-like threading </l>
+               <l> Throughout its frondings wide; </l>
+               <l> Faint phosphorescence showers </l>
+               <l> On the kie kie<note> Kie kie. Kiekie is a woody vine with long leaves that produces cream-coloured flowers. </note> flowers </l>
+               <l> From its silvery underside. </l>
+           </lg>
+           <lg>
+               <l> And those flowers show in the glooming, </l>
+               <l> The weird, pale light illuming </l>
+               <l> Their mass of snowy bloom; </l>
+               <l> While a subtle odour wreatheth </l>
+               <l> Around the flowers, and breatheth </l>
+               <l> A languorous perfume. </l>
+           </lg>
+           <lg>
+               <l> The forest lords<note> Forest lords. Most likely a reference to the kauri tree, which grows forty or fifty meters in height, and was commonly described by settler as the monarch of the colonial forest. </note> up-tower, </l>
+               <l> Like monarchs in their power, </l>
+               <l> Far up toward the sky; </l>
+               <l> Festooned with vines and grasses,<note> Vines and grasses. Kauri trees are home to lianes, or woody vines, and numerous epiphytic plants. </note></l>
+               <l> Whose convoluted masses </l>
+               <l> Embrace the greenery. </l>
+           </lg>
+           <lg>
+               <l> Faint starbeams palely quiver </l>
+               <l> On the ripples of the river, </l>
+               <l> Where fish disturb the tide. </l>
+               <l> Strange shadows round me glooming, </l>
+               <l> Wild, weird, quaint forms assuming, </l>
+               <l> Start up on every side. </l>
+           </lg>
+                <p> * * * * </p>
+           <lg>
+               <l> A holy calm comes stealing </l>
+               <l> O’er me, and brings a feeling </l>
+               <l> Of God’s great presence there. </l>
+               <l> To its Creator raising </l>
+               <l> My thoughts in humble praising, </l>
+               <l> I leave that scene so fair. </l>
+           </lg>
+                <p> ALFRED SHARPE, </p>
+                <p> Auckland, Feb., 1886. </p>
+       </body>
+   </text>
+</TEI>               
