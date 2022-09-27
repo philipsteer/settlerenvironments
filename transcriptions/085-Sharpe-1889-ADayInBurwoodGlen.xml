@@ -1,0 +1,117 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>A Day in Burwood Glen</q> </title>
+                <author> Alfred Sharpe </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Newcastle Morning Herald and Miners' Advocate </publisher>
+                <pubPlace> Newcastle </pubPlace>
+                <date> 1889 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Alfred Sharpe.  <q>A Day in Burwood Glen.</q> <hi rend="italic">Newcastle Morning Herald and Miners' Advocate</hi>, 2 January 1889, p. 2. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> A toil-worn city dweller, </l>
+               <l> Fair visions come to me </l>
+               <l> Of the sweet, cool, green translucence, </l>
+               <l> Under the greenwood tree: </l>
+               <l> This pleasant vision rises </l>
+               <l> Again, and yet again, </l>
+               <l> Till I go where green leaves rustle, </l>
+               <l> Far from the haunts of men— </l>
+               <l> Till I leave the city’s bustle </l>
+               <l> For the depths of Burwood glen.<note> Burwood glen. Likely an area several kilometres south of Newcastle, in what is now the Glenrock State Conservation Area. </note> </l>
+           </lg>
+           <lg>
+               <l> I follow the winding streamlet </l>
+               <l> Up its moss-grown boulder bed— </l>
+               <l> The craggy rocks up-rising </l>
+               <l> Tower in the air o’erhead; </l>
+               <l> The starry daisy<note> Starry daisy. There are over 1,000 species of Asteraceae, or daisy, native to Australia.  </note> noddeth </l>
+               <l> From many a rocky nook; </l>
+               <l> And maiden-hair ferns<note> Maiden-hair ferns. The low growing maidenhair fern is indigenous to New South Wales, and grows in the vicinity of streams. </note> whisper </l>
+               <l> Their secrets to the brook, </l>
+               <l> Which laughing goes and tells them </l>
+               <l> To all, without rebuke. </l>
+           </lg>
+           <lg>
+               <l> The gum-trees towering skyward<note> Gum-trees … skyward. Coastal species of eucalypt gum found in New South Wales can grow as high as 70 metres. </note></l>
+               <l> Their starry blossoms show; </l>
+               <l> The laurel<note> Laurel. There are several indigenous Australian species of laurel, but many of these are tropical trees, and the poem possibly refers to the camphor laurel, which spread rapidly after being introduced in New South Wales in the 1820s. </note> and the wattle<note> Wattle. There are over 1,000 species of acacia, or wattle, that are indigenous to Australia, although most grow in arid or semi-arid regions unlike that described in the poem. </note> </l>
+               <l> Form cool, green bowers below; </l>
+               <l> The wild clematis<note> Wild clematis. Most likely the climbing shrub clematis aristate, also known as old man’s beard. </note> twineth </l>
+               <l> Her arms around her love, </l>
+               <l> And murmurs tender secrets </l>
+               <l> To tremulous leaves above, </l>
+               <l> In love-tones, softly echoed </l>
+               <l> By the cooings of the dove.<note> Dove. There are numerous indigenous Australian species of pigeon, as well as several species introduced in the nineteenth century. </note></l>
+           </lg>
+           <lg>
+               <l> The morning sun down streameth </l>
+               <l> With all his radiance bright; </l>
+               <l> Each tree-top lies a-basking </l>
+               <l> In blaze of golden light; </l>
+               <l> He peepeth through the branches, </l>
+               <l> And merrily plays bo-peep </l>
+               <l> With the sweet, shy flowerets peeping </l>
+               <l> From <sic>nooklets</sic> cool and deep, </l>
+               <l> While they blush at being wakened </l>
+               <l> By his kisses from their sleep. </l>
+           </lg>
+           <lg>
+               <l> At noonday, growing bolder, </l>
+               <l> How ardent are his beams; </l>
+               <l> He clasps within his brightness </l>
+               <l> The rocks, and trees, and streams; </l>
+               <l> Flowers droop beneath his ardour, </l>
+               <l> And hide their glowing face, </l>
+               <l> While his blazing eyes are searching </l>
+               <l> The secrets of each place, </l>
+               <l> And his <sic>langourous</sic> love-kisses </l>
+               <l> Pervade each hidden space. </l>
+           </lg>
+           <lg>
+               <l> At sunset, ere he goeth, </l>
+               <l> He bids them all good-bye </l>
+               <l> With gold and crimson kisses </l>
+               <l> Flung from the western sky; </l>
+               <l> The flow’rets, peeping upward, </l>
+               <l> Say, “Love, dear love, good night;” </l>
+               <l> While towering eucalypti </l>
+               <l> Bathe in his glowing light, </l>
+               <l> And give back kiss for kisses, </l>
+               <l> Till fall the shades of night. </l>
+           </lg>
+           <lg>
+               <l> Sweet is thy calm, O Burwood! </l>
+               <l> Far up thy lovely glen, </l>
+               <l> In thy Dryad-haunted bowers,<note> Dryad-haunted bowers. The dryad is a wood nymph, according to Greek mythology. </note> </l>
+               <l> Far from the haunts of men, </l>
+               <l> I have passed a day of quiet, </l>
+               <l> I have passed a day of rest; </l>
+               <l> And from all the things around me </l>
+               <l> I have drawn some happy zest; </l>
+               <l> For Nature, there, has shown me </l>
+               <l> Her loveliest and best. </l>
+           </lg>
+           <p> ALFRED SHARP.<note> Sharp. Sharp. Sharpe began to spell his name without the final “e,” in accordance with the spelling used by his younger brother, William Bethal Sharp, who he joined after his move to Australia. </note> </p>
+           <p>Newcastle, 1889.<note> Newcastle, 1889. Sharpe had moved to Newcastle, New South Wales, in late 1887. </note> </p>
+       </body>
+   </text>
+</TEI>
