@@ -1,0 +1,84 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>Woodland Dreams</q> </title>
+                <author> Alfred Sharpe </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Newcastle Morning Herald and Miners' Advocate </publisher>
+                <pubPlace> Newcastle </pubPlace>
+                <date> 1888 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Alfred Sharpe.  <q>Woodland Dreams.</q> <hi rend="italic">Newcastle Morning Herald and Miners' Advocate</hi>, 26 April 1890, p. 9. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Deep in the murmurous woodland caves— </l>
+               <l> Caves roofed o’er with bright green leaves— </l>
+               <l> Where the blazing light of King Sol is shed </l>
+               <l> Through layers of leaves, till the mossy bed </l>
+               <l> A cool, dim, green light receives. </l>
+           </lg>
+           <lg>
+               <l> How oft in that cool, translucent light, </l>
+               <l> Reclined on a couch of moss, </l>
+               <l> Have I built up my cloud-walled castles in air; </l>
+               <l> Those castles so bright, those castles so fair, </l>
+               <l> That fade with a sense of loss. </l>
+           </lg>
+           <lg>
+               <l> How often the whispering sough of the leaves, </l>
+               <l> Blending with soft droning hum </l>
+               <l> From insects at play in the sunlight above, </l>
+               <l> Have brought me those dreams of life and of love </l>
+               <l> That only from Dreamland come. </l>
+           </lg>
+           <lg>
+               <l> How oft, in reverie, have I seen </l>
+               <l> A future all bright and fair; </l>
+               <l> All blessed with riches, and friendship, and love; </l>
+               <l> With brightness around me; and brightness above; </l>
+               <l> Devoid of all sorrow and care. </l>
+           </lg>
+                <p> * * * * </p>
+           <lg>
+               <l> O where are those dreams that my young heart fed </l>
+               <l> With visions of glory bright? </l>
+               <l> O where are the proud-swelling turrets and towers </l>
+               <l> That rose in their glory from leafy bowers </l>
+               <l> In lines of lingering light? </l>
+           </lg>
+           <lg>
+               <l> Where are the visions of love, and of life, </l>
+               <l> That gladdened my dreaming eyes? </l>
+               <l> Where is that future, all friendship and love? </l>
+               <l> The brightness around me? The brightness above? </l>
+               <l> My sad heart evermore cries. </l>
+           </lg>
+           <lg>
+               <l> They are gone for aye, with the young heart’s glow, </l>
+               <l> For young dreams are ever fair, </l>
+               <l> For me ne’er again will youth’s golden glow </l>
+               <l> Cover all things with its ebb and its flow </l>
+               <l> Of beauty and brightness rare. </l>
+           </lg>
+           <p> ALFRED SHARP.<note> Sharp. Sharp. Sharpe began to spell his name without the final “e,” in accordance with the spelling used by his younger brother, William Bethal Sharp, who he joined after his move to Australia. </note> </p> 
+           <p> Newcastle, 1890.<note> Newcastle, 1890. Sharpe had moved to Newcastle, New South Wales, in late 1887. </note> </p>
+       </body>
+   </text>
+</TEI>
+                   
