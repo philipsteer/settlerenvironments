@@ -1,0 +1,78 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>Lost in the Bush</q> </title>
+                <author> Alfred Sharpe </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Newcastle Morning Herald and Miners' Advocate </publisher>
+                <pubPlace> Newcastle </pubPlace>
+                <date> 1891 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Alfred Sharpe.  <q>Lost in the Bush.</q> <hi rend="italic">Newcastle Morning Herald and Miners' Advocate</hi>, 7 February 1891, p. 9. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> The bright, fresh, morning splendour of the spring-time of the day, </l>
+               <l> With opaline tintings tender lit up the scarce seen way; </l>
+               <l> And the night-dew hung in sparkles upon each leafy spray. </l>
+           </lg>
+           <lg>
+               <l> The lonely swagman<note> Swagman. An itinerant rural settler labourer who carries their belongings rolled up in a “swag.” </note>  rose up from out of his ferny bed; </l>
+               <l> He glanced at the dancing sunbeams, through many an opening shed; </l>
+               <l> Then lighting his fire, the smoke-wreaths soared merrily overhead. </l>
+           </lg>
+           <lg>
+               <l> He anxiously ate his damper;<note> Damper. An unleavened bread, made of flour and water and cooked over a campfire. </note> more anxiously drank his tea; </l>
+               <l> ‘Twas thirty miles of journey ere water he next would see; </l>
+               <l> And the faint path oft was trackless, save for a blaze-marked tree.<note> Blaze-marked tree. A tree trunk marked by removing a piece of bark. </note> </l>
+           </lg>
+           <lg>
+               <l> Steadily, steadily tramping; with just a rest at noon: </l>
+               <l> Steadily, steadily tramping; with home in view fall soon: </l>
+               <l> Sunset saw him still tramping; and so did the crescent moon. </l>
+           </lg>
+           <lg>
+               <l> “Dear Lord! can it be I've wandered away from the faint-lined track? </l>
+               <l> I must camp out here till morning, and trace my wanderings back. </l>
+               <l> But what will I do for water; I’ve drank all I had, alack!” </l>
+           </lg>
+           <lg>
+               <l> The morning sun saw him searching carefully all around: </l>
+               <l> The noon sun saw him gasping; the track he had not then found: </l>
+               <l> The evening sun saw him writhing despairingly on the ground. </l>
+           </lg>
+           <lg>
+               <l> “O God! a drop of water, in mercy, O send to me!” </l>
+               <l> He cried, in uttermost anguish, sinking beneath a tree. </l>
+               <l> “O God! in Thy tender mercy, look down and deliver me.” </l>
+           </lg>
+           <lg>
+               <l> Another eve saw him lying, helplessly making moan. </l>
+               <l> Another morn—he lay dying, gasping with many a groan. </l>
+               <l> Next eve—the long agony over—only a corpse alone. </l>
+           </lg>
+           <lg>
+               <l> And there, with sightless eyeballs staring up into the sky, </l>
+               <l> He lay; while rustling gum-trees  re-echoed his last sad sigh, </l>
+               <l> And told of his lonely ending to each wind passing by. </l>
+           </lg>                   
+           <p> ALFRED SHARP.<note> Sharp. Sharpe began to spell his name without the final “e,” in accordance with the spelling used by his younger brother, William Bethal Sharp, who he joined after his move to Australia. </note> </p>
+           <p> Newcastle, February, 1891.<note> Newcastle, February, 1891. Sharpe had moved to Newcastle, New South Wales, in late 1887. </note> </p>
+       </body>
+   </text>
+</TEI>
