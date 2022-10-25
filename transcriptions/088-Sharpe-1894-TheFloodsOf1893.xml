@@ -1,0 +1,110 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>The Floods of 1893</q> </title>
+                <author> Alfred Sharpe </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Newcastle Morning Herald and Miners' Advocate </publisher>
+                <pubPlace> Newcastle </pubPlace>
+                <date> 1888 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Alfred Sharpe.  <q>The Floods of 1893.</q> <hi rend="italic">Newcastle Morning Herald and Miners' Advocate</hi>, 30 January 1894, p. 2. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <p> The following poem, by Mr. Alfred Sharp, of Newcastle, was awarded the prize at the late Eisteddfod,<note> Eisteddfod. A competition to write “the best poem in English on the floods of 1893” attracted five entrants, and Alfred Sharpe was awarded a silver medal for his winning medal (<hi rend="italic">Newcastle Morning Herald and Miners’ Adovcate</hi>, 27 January 1894, p.2). </note> for the best descriptive poem on the above subject:–<note> Subject. The Coquun/Hunter River, which flows north of Sydney in New South Wales, flooded the in March 1893, flooding the towns of Maitland and Branxton and surrounding districts, and killing as many as a dozen people. </note> </p> 
+           <lg>
+               <l> Fair was the morn, and fair was the scene </l>
+               <l> With its tintings of amber, and bronze, and green; </l>
+               <l> The well-tilled fields<note> Well-tilled fields. The Hunter valley became established in the nineteenth century as an area of settler agricultural production, including vineyards, due to its proximity to Sydney. </note> in the valley smiled </l>
+               <l> Up to heaven’s blue arch, like a happy child </l>
+               <l> Smiling up to a mother’s sweet face </l>
+               <l> That beams down upon it with motherly grace; </l>
+               <l> Bright sunlight, flooding both hill and dale, </l>
+               <l> In golden-glow glory steeped all the fair vale, </l>
+               <l> Showering its splendour everywhere, </l>
+               <l> On mountains and valleys, on fields and in air; </l>
+               <l> While silver “Hunter” flowed gently through </l>
+               <l> The valley, till blent with the ocean’s deep blue. </l>
+           </lg>
+           <lg>
+               <l> Too fair ‘twas to last. The hurrying clouds </l>
+               <l> Came trooping from seaward, like ghosts in their shrouds; </l>
+               <l> Lowering clouds from the western plains </l>
+               <l> Came hurrying eastward with thunder-charged rains; </l>
+               <l> The aerial squadrons, with impact dread, </l>
+               <l> Met with shudderous crash at the valley’s head; </l>
+               <l> The welkin reeled with the awful shock, </l>
+               <l> And the levin-bolts showered on tree and on rock; </l>
+               <l> Lashed by whirlwinds the rain poured down; </l>
+               <l> And the storm-fiend, wearing his lightning flash crown, </l>
+               <l> Urged his cloud-squadrons to fiercer fight, </l>
+               <l> And gleefully laughed at the terrible sight. </l>
+           </lg>
+           <lg>
+               <l> The myriad streams of the mountain chains, </l>
+               <l> All swollen and gorged with the fast-falling rains, </l>
+               <l> Rushed down each ravine, each canyon, and glen, </l>
+               <l> With earth-shaking roar, like the tramp of armed men; </l>
+               <l> Rushed to the clear-flowing “Hunter’s” bed </l>
+               <l> In a turbid mass, bearing on crested head </l>
+               <l> Eucalypts mighty,<note> Eucalypts mighty. Species of eucalypt found in New South Wales can grow as high as 70 metres. </note> and wild wood flowers, </l>
+               <l> Torn roughly away from their deep forest bowers: </l>
+               <l> Convergent meeting, they rushed along </l>
+               <l> In a rolling water-wall, terrible, strong, </l>
+               <l> Which bursting in might on Hunter’s vale, </l>
+               <l> Like rushing seas, spread over lowland and dale. </l>
+           </lg>
+           <lg>
+               <l> O’er smiling farms rushed the awful flood,<note> Awful flood. The Coquun/Hunter River was reported as rising by as much as 36 feet (<hi rend="italic">Newcastle Morning Herald and Miners’ Adovcate</hi>, 10 March 1893, p.5). </note> </l>
+               <l> Leaving them drear wastes of sanddrift and mud; </l>
+               <l> Sweeping houses and cattle away </l>
+               <l> Far out to the billowy ocean’s spray; </l>
+               <l> Whirling, swirling, and rushing along, </l>
+               <l> Relentless, remorseless, and cruel, and strong; </l>
+               <l> A turbid torrent, with earth all red, </l>
+               <l> Off-sweeping the bridges that spanned the bed </l>
+               <l> Of the river, and spreading on either hand </l>
+               <l> Till like a broad sea seemed the once smiling land. </l>
+               <l> Slowly receding, it passed away then, </l>
+               <l> Leaving behind it a heart-breaking scene; </l>
+               <l> Poor sorrowing women, and sad ruined men </l>
+               <l> Gazing on ruins, where once homes had been. </l>
+           </lg>
+           <lg>
+               <l> Since then, again smiles the teeming plain </l>
+               <l> With broad waving fields of the ripening grain; </l>
+               <l> And the cruel floodmarks, now out of sight, </l>
+               <l> No longer remind of that terrible night; </l>
+               <l> The vine-bowered homesteads once more show </l>
+               <l> A bright, smiling face in the summery glow; </l>
+               <l> And sweet Contentment and Peace again </l>
+               <l> Brood o’er valley and hill, o’er upland and fen; </l>
+               <l> But the dreadful sights of those days of fearv </l>
+               <l> Will remain in memory many a year. </l>
+               <l> And when the dark thundercloud overhead broods, </l>
+               <l> Will upward be sent from trembling souls </l>
+               <l> Full many a prayer to the “Lord of the Floods,” </l>
+               <l> From the homes where meandering Hunter rolls; </l>
+               <l> Many a prayer that such terrible days </l>
+               <l> May never again spread such ruin around, </l>
+               <l> Mingled with tremulous notes of praise </l>
+               <l> For the teeming blessings that there abound. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
