@@ -1,0 +1,96 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>The Whetu Plains</q> </title>
+                <author> Edward Tregear </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Thames Star </publisher>
+                <pubPlace> Thames </pubPlace>
+                <date> 1874 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> “E.” [Edward Tregear]  <q>The Whetu Plains.</q> <hi rend="italic">Thames Star</hi>, 28 August 1874, p. 3. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> A lonely rock above a midnight plain,<note>   Plain. Te Whetu is located in the central volcanic plateau of the North Island, an area where Tregear was employed as a surveyor in 1872-3. </note> </l>
+               <l> A sky across whose wondrous brightness flies </l>
+               <l> No shadow from the Children of the Rain, <note> Children of the Rain. A phrase describing clouds that was possibly derived from Tregear’s knowledge of Māori mythological narratives.  </note> </l>
+               <l> A stream whoso double crescent far off lies, </l>
+               <l> And seems to glitter back the silver of the skies. </l>
+           </lg>
+           <lg>
+               <l> The table-lands stretch, step by step, below </l>
+               <l> In giant terraces whose deeper ledges </l>
+               <l> Are black with bands of swamp (that near I know </l>
+               <l> Convolvulus-entwined)<note> Convolvulus-entwined. Pōuwhiwhi, an indigenous species of convolvulus/bindweed, which can grow in wetland environments. </note> whose whitened edges </l>
+               <l> Are ghostly silken flags of seeded water-sedges.<note> Water-sedges. Likely a reference to purei, also known as tussock sedge, or to raupō, an indigenous species of bulrush. </note> </l>
+           </lg>
+           <lg>
+               <l> All still, all silent, ‘tis a songless land, </l>
+               <l> That hears no echo of the nightingale;<note> Nightingale. Settlers failed repeatedly in their attempts to acclimatise the nightingale to New Zealand. </note> </l>
+               <l> No sound of waters falling lone and grand </l>
+               <l> Through sighing forests to the lower vale, </l>
+               <l> No whisper in the grass, so wan, and grey, and pale. </l>
+           </lg>
+           <lg>
+               <l> When Earth was tottering in its infancy, </l>
+               <l> This rock, a drop of molten stone, was hurled </l>
+               <l> And <sic>tost</sic> on waves of fire (like those we see </l>
+               <l> Distinctly though afar), evolved and whirled </l>
+               <l> A photosphere of flame around the solar world.<note> Whirled … solar world. Simon-Pierre Laplace’s nebular hypothesis, widely accepted by scientists in the nineteenth century, held that the solar system was created from material spun off from the sun. </note> </l>
+           </lg>
+           <lg>
+               <l> Swift from the central deeps the lightning flew, </l>
+               <l> Piercing the heart of Darkness like a spear, </l>
+               <l> Hot blasts of steam and vapour thundered through </l>
+               <l> The lurid blackness of the atmosphere. </l>
+               <l> A million years have passed and left strange quiet here. </l>
+           </lg>
+           <lg>
+               <l> Peace, the deep peace, of universal death, </l>
+               <l> Enfolds the fair and kindly earth of old. </l>
+               <l> The air is dead, and stirs no living breath </l>
+               <l> To break these awful silences that hold </l>
+               <l> The spirit in their clutch and numb the heart with cold. </l>
+           </lg>
+           <lg>
+               <l> My soul hath wept for Rest with longing tears, </l>
+               <l> Called it the perfect crown of human life, </l>
+               <l> But now I shudder lest the coming years </l>
+               <l> Should be with these most gloomy terrors rife, </l>
+               <l> When palsied arms drop down outwearied with the strife. </l>
+           </lg>
+           <lg>
+               <l> May age conduct me with <q>a gentle hand</q> </l>
+               <l> Beneath the quiet shadows brooding o’er </l>
+               <l> The solemn twilight of the Evening Land, </l>
+               <l> Where Earth’s discordant noises pierce no more, </l>
+               <l> But sleeping waters dream along a sleepy shore. </l>
+           </lg>
+           <lg>
+               <l> Where I, when Life hath spent its fiery strength, </l>
+               <l> And flickers low, may rest in quietness, </l>
+               <l> Till on my waiting brow there falls at length </l>
+               <l> The deeper calm of the Death-Angel’s kiss, </l>
+               <l> But not, oh God, such peace, such awful peace as this. </l>
+           </lg>
+               <p> E. </p>
+       </body>
+   </text>
+</TEI>
+                   
