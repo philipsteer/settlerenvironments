@@ -1,0 +1,207 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title> <q>A Globe-trotter’s Views on New Zealand</q> </title>
+               <author> George Phipps Williams </author>
+           </titleStmt>
+          <editionStmt>
+              <edition> Transcribed and edited by Philip Steer </edition>
+          </editionStmt>
+            <publicationStmt>
+                <publisher> Simpson and Williams </publisher>
+                <pubPlace> Christchurch </pubPlace>
+               <date> 1889 </date>
+           </publicationStmt>
+            <sourceDesc>
+                <bibl> Williams, George Phipps. <q>A Globe-trotter’s Views on New Zealand.</q> William Pember Reeves and George Phipps Williams, <hi rend="italic"> Colonial Couplets: Being Poems in Partnership </hi> (Christchurch: Simpson and Williams, 1889), pp. 19-23. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of "Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> I am only a new chum,<note> New chum. A nineteenth-century Australian and New Zealand term for a recently arrived settler. </note> and therefore you must </l>
+               <l> Entertain my remarks with a certain distrust, </l>
+               <l> For a new chum should always be modest and meek, </l>
+               <l> And a globe-trotter can’t with authority speak </l>
+               <l> Of your places and politics, manners and ways, </l>
+               <l> Not unless he indulge in unqualified praise. </l>
+               <l> Of the value of wheat and its rise and its fall </l>
+               <l> It is perfectly clear he knows nothing at all, </l>
+               <l> And on serious topics like mutton or wool<note> Wheat … mutton or wool. Significant agricultural products of the Canterbury region where Williams lived. </note> </l>
+               <l> His remarks would proclaim him as simply a fool. </l>
+               <l> Now your Colonist proper is always renowned </l>
+               <l> For his intellect vast and his wisdom profound; </l>
+               <l> But the characteristic that strikes one the most </l>
+               <l> Is a tendency never to blow<note> Blow. A nineteenth-century Australian and New Zealand colloquialism for boasting. </note> nor to boast; </l>
+               <l> So ‘twould ill become <hi rend="italic">me</hi> if I boasted or blew </l>
+               <l> Of the countries I’ve seen in the Old World and New, </l>
+               <l> Of the knowledge I’ve gained of their customs and ways, </l>
+               <l> Or comparisons odious ventured to raise, </l>
+               <l> Or suggested that trotting all over the globe </l>
+               <l> Takes the courage of Paul and the patience of Job.<note> Paul … Job. Biblical figures renowned for their endurance of persecution and suffering. </note> </l>
+               <l> No I merely shall venture to put in a word </l>
+               <l> And I hope it won’t strike you as very absurd, </l>
+               <l> For one has to sing small when, at every turn, </l>
+               <l> One is candidly told one has plenty to learn; </l>
+               <l> And I’ve got no ambition to tread on your toes, </l>
+               <l> Or to tell you I think I am fit to compose </l>
+               <l> Such a lucid account of the land where you live, </l>
+               <l> As Colonial experience only can give. </l>
+           </lg>
+           <lg>
+               <l> I have scampered throughout this delectable land, </l>
+               <l> Found the company good and the scenery grand, </l>
+               <l> I’ve been filled with delight at your versatile clime, </l>
+               <l> And I’ve done the whole business in very good time; </l>
+               <l> The inside of a month is my record, not more, </l>
+               <l> Sine I first put my foot on your beautiful shore, </l>
+               <l> Since I drank my first draught of Colonial beer, </l>
+               <l> And I felt it was Antipodean and queer. </l>
+               <l> That I had a good time you may venture to bet, </l>
+               <l> Entertained like a prince by whomever I met; </l>
+               <l> And the people, I think, both the high and the low, </l>
+               <l> Are the best that the Colonies anywhere show: </l>
+               <l> Now the next thing that pleased me, I’m free to confess, </l>
+               <l> Was the plentiful water supply<note> Plentiful water supply. Williams’ work as a civil engineer included building railway bridges and water supply schemes. </note> you possess; </l>
+               <l> So that travellers never have water to seek, </l>
+               <l> But are constantly meeting some beautiful creek, </l>
+               <l> And the settler wherever his section or block, </l>
+               <l> Always finds an abundance of water for stock. </l>
+               <l> It was when in Australia making a stay </l>
+               <l> That I happened to hear an Australian say, </l>
+               <l> With a patriot’s pride, that his country was one </l>
+               <l> Boasting all the advantages under the sun; </l>
+               <l> That it offered no drawbacks, at least very few, </l>
+               <l> And he swore that they only amounted to two, </l>
+               <l> And so small, by their absence that no one was vexed; </l>
+               <l> <hi rend="italic">Want of water</hi> the first, <hi rend="italic">good society</hi> next: </l>
+               <l> Then I ventured my friend most politely to tell </l>
+               <l> That the same disadvantages happen in h—l. </l>
+           </lg>
+           <lg>
+               <l> I am stupid I own, but I can’t understand </l>
+               <l> Why your servants are all so exceedingly grand; </l>
+               <l> But I’m told I am wrong if I mean to infer, </l>
+               <l> Though they seldom or never address you as <q>Sir,</q> </l>
+               <l> That they’re wanting in manners, but merely express </l>
+               <l> What a fine independence of <hi rend="italic">you</hi> they possess: </l>
+               <l> You will gather from this that I’m not <q>broken in,</q><note> Broken in. A phrase meaning to tame or make obedient, commonly applied in the colonial context to training horses and to converting land to agricultural production. </note> </l>
+               <l> And the troublesome process has yet to begin </l>
+               <l> Which old settlers are wont to call <q>eating your tutu</q>;<note> Tutu. A common shrub renowned for its poisonous qualities. </note> </l>
+               <l> (This they always pronounce as if rhyming with boot) </l>
+               <l> Is that <q>experientia docet</q><note> Experientia docet. “Experience teaches” (Latin). </note> they mean, </l>
+               <l> As portrayed by those leaflets so tender and green, </l>
+               <l> Which the gay young merinos<note> Merinos. The first sheep breed introduced to New Zealand, which was farmed for its wool especially in the Canterbury region. </note> will greedily eat </l>
+               <l> Till a fit apoplectic results from their treat; </l>
+               <l> But when older they learn moderation to use, </l>
+               <l> And the paths of sobriety always to choose, </l>
+               <l> Be they freezers or crawlers or wethers or ewes.<note> Freezers … crawlers … wethers … ewes. Terms describing different kinds of sheep, namely, animals bred for export as frozen meat, lame or sickly sheep, castrated rams, and female sheep. </note> </l>
+           </lg>
+           <lg>
+               <l> Now, your scenery’s really remarkably fine, </l>
+               <l> And it calls for no praise nor description of mine; </l>
+               <l> For your lordly New Zealander loves to declare </l>
+               <l> That there’s no other scenery fit to compare: </l>
+               <l> But it strikes me the people who know it the most </l>
+               <l> And enjoy it the best, are that numerous host </l>
+               <l> Of the globe-trotting race, for ‘twas always my lot </l>
+               <l> That I met them at every beautiful spot, </l>
+               <l> Like the road to the West Coast,<note> Road to the West Coast. A road across the Southern Alps, from Canterbury to the West Coast, was built in the 1860s. </note> the wonderful Sounds,<note> Wonderful Sounds. Fiordland, on the southern west coast of the South Island, became established as a scenic tourist destination in the 1880s. </note> </l>
+               <l> Or the grand lakes in which the whole country abounds; </l>
+               <l> And the average settler appears to expect </l>
+               <l> That intelligent new chums should pay to inspect </l>
+               <l> All the beauties around, and regards them, of course, </l>
+               <l> Of a revenue large as a capital source; </l>
+               <l> But his business engagements appear to be such </l>
+               <l> As prevent <hi rend="italic">him</hi> from troubling that scenery much: </l>
+               <l> That he prates of its beauties, we all of us know, </l>
+               <l> But he looks on it simply as part of the show; </l>
+               <l> Like the climate, the kiwi,<note> Kiwi. A nocturnal flightless bird that became symbolic of New Zealand’s distinctive fauna. </note> the Union fleet<note> Union fleet. The Union Steamship Company, established in Dunedin in 1875, became dominant in coastal shipping, as well as routes to Australia and the Pacific Islands. </note> </l>
+               <l> (All of which, in their way, are not easy to beat) </l>
+               <l> Or those curious carvings in Maori style, </l>
+               <l> Or the Government Buildings,<note> Government Buildings. Completed in Wellington in 1876 to accommodate the public service, and renowned as the largest wooden building in the southern hemisphere.  </note> which wonderful pile </l>
+               <l> Is by Wellington residents well understood, </l>
+               <l> As the largest known building constructed in wood. </l>
+           </lg>
+           <lg>
+               <l> Don’t infer from my words that I wish to report </l>
+               <l> That your settlers have never been known to resort </l>
+               <l> To the bush or the mountains, but simply to say, </l>
+               <l> That it’s chiefly when business impels them that way. </l>
+               <l> If you see a man solemnly gazing a lone </l>
+               <l> At some kingly old totara,<note> Totara. Tōtara, which was highly valued by Māori, is a common lowland forest tree with reddish-grey bark. </note> splendidly grown, </l>
+               <l> And uprearing its head till the skies it can kiss, </l>
+               <l> You may safely conclude that the subject is <hi rend="italic">this,</hi> </l>
+               <l> Of the deep meditation in which he is sunk, </l>
+               <l> Not the glorious beauty he’s inwardly drunk, </l>
+               <l> But the number of feet he can cut from its trunk. </l>
+               <l> Then the deep fascination which takes such a hold </l>
+               <l> On the thoughts of those persons so ardent and bold, </l>
+               <l> Who are striving the treasures of Nature to seek </l>
+               <l> In what <hi rend="italic">I</hi> call a <hi rend="italic">stream</hi>, but colonials a <hi rend="italic">creek</hi>, </l>
+               <l> Is not caused by a wish to see Nature unfold </l>
+               <l> All those hues of whose richness the poet has told, </l>
+               <l> But to try to discover the <hi rend="italic">colour of gold</hi>.<note> Gold. Gold had been found in the rivers of the West Coast of the South Island in the 1860s. </note> </l>
+               <l> Then your practical settler delights, if you please, </l>
+               <l> In surrounding his homestead with shrubs and with trees </l>
+               <l> Which are native of every land but the one </l>
+               <l> Whose attractions he boasts, though appearing to shun: </l>
+               <l> There, uprearing its branches, top-heavy and lank </l>
+               <l> Grows the Pinus Insignis,<note> Pinus Insignis. Monterey pine, or radiata pine, is a fast-growing softwood tree species first introduced to New Zealand in the 1850s. </note> in solemnest rank; </l>
+               <l> There the gauntest of gum trees<note> Gum trees. Species of Australian eucalyptus tree were first introduced to New Zealand in the 1880s. </note> untidily spread </l>
+               <l> All their seed-pods and leaves, and the bark that they shed, </l>
+               <l> While you see by the scant vegetation around </l>
+               <l> How their truculent roots have deplenished the ground; </l>
+               <l> And in order to shut out all possible view </l>
+               <l> Of the beautiful landscape, your gay cockatoo<note> Cockatoo. An Australian and New Zealand colloquialism for a small-scale farmer. </note> </l>
+               <l> (Which I hear is the name for a farmer with you) </l>
+               <l> Plants some great Wellingtonia<note> Wellingtonia. Giant sequoia, as well as California redwood, were first introduced to New Zealand in the 1860s. </note> close to his door </l>
+               <l> That obscures all the view not obstructed before. </l>
+           </lg>
+           <lg>
+               <l> I have often been asked if I’d like to invest </l>
+               <l> In Colonial land, which I’m told is the best </l>
+               <l> And the safest of property under the sun; </l>
+               <l> But with modest excuses I plead I am one </l>
+               <l> Who Colonial experience simply has none. </l>
+               <l> Now I once knew a new chum who purchased a run,<note> Run. An Australian and New Zealand term for extensive pasture, especially for raising sheep. </note> </l>
+               <l> And he took for his partner a man who had got </l>
+               <l> Not a shilling of cash, but he boasted a lot </l>
+               <l> Of Colonial experience, that was his forte; </l>
+               <l> But a curious redistribution was brought </l>
+               <l> By a very few years, for in that time my friend </l>
+               <l> Had Colonial experienced gained without end, </l>
+               <l> While his partner had collared the whole of the cash; </l>
+               <l> So I take it that new chums should never be rash, </l>
+               <l> But Colonial experience learn very fast, </l>
+               <l> For the time that they spend will be very well passed, </l>
+               <l> And it’s better to have it at first than at last; </l>
+               <l> While the obvious course to a person of sense </l>
+               <l> Is to get it at somebody else’s expense. </l>
+           </lg>
+           <lg>
+               <l> Of the railways and roads, with their ups and their downs, </l>
+               <l> And the Cities and Townships (Colonial for towns) </l>
+               <l> Which are each of the Universe separate Hubs; </l>
+               <l> How I lived like a lord at their capital clubs, </l>
+               <l> Where the best of good fellows I constantly met, </l>
+               <l> It behoves not to tell; for I really forget </l>
+               <l> Half the names of the place, and didn’t take notes; </l>
+               <l> That’s a fact which sufficiently clearly denotes </l>
+               <l> That I can’t be accused of concocting a book, </l>
+               <l> With statistics at which not a person would look; </l>
+               <l> But I simply record the impressions I took </l>
+               <l> (In a few feeble lines, which I hope you will brook), </l>
+               <l> Of those glorious islands discovered by Cook.<note> Cook. James Cook landed in the North Island of New Zealand for the first time in 1769. </note> </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
