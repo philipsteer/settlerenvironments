@@ -1,0 +1,55 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>The Grey Street Swamp</q> </title>
+                <author> <q>Argus</q> </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Bay of Plenty Times </publisher>
+                <pubPlace> Tauranga </pubPlace>
+                <date> 1879 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>Argus.</q>  <q>The Grey Street Swamp.</q> <hi rend="italic">Bay of Plenty Times</hi>, 25 October 1879, p. 2. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> The land of the dismal swamp,<note> Dismal swamp. Settlers in the town of Tauranga had been publicly agitating about the “unhealthy” nature of the swampy land near Grey Street since the mid-1870s. </note> </l> 
+               <l> Where death and disease are bred, </l> 
+               <l> Where lie in majestic pomp </l> 
+               <l> The bones of unburied dead--- </l> 
+               <l> The rat, the cat, the frog, and the dog, </l> 
+               <l> Unburied lie in this noisome bog. </l>
+           </lg>
+           <lg>
+               <l> And round it are homes so dear, </l> 
+               <l> Where innocent children play: </l> 
+               <l> Where, close to its margin drear </l> 
+               <l> Through the long bright summer’s day, </l> 
+               <l> The sun at work with refulgent rays </l> 
+               <l> Will a score of offensive odours<note> Offensive odours. A letter published in the Bay of Plenty Times in 17 August 1880 complained that “the stench arising from the place is most unpleasant, and may very likely breed a plague.” </note> raise. </l>
+           </lg>
+           <lg>
+               <l> And know you this fearful land, </l> 
+               <l> Where so many evils meet? </l> 
+               <l> Off Spring Street, from the Strand, </l> 
+               <l> Along Grey Street<note> Spring Street … the Strand … Grey Street. Streets in a central part of Tauranga. </note> a few feet. </l> 
+               <l> Here is the spot so much deplored, </l> 
+               <l> But---where’s the action of the Board?<note> Board. The Town Board acted to fill in the swamp in 1881, but it remained a cause of settler complaint in later years. </note> </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
