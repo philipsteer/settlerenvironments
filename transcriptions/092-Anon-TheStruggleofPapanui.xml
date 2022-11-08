@@ -1,0 +1,79 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>Provincial Parodies. (No 2) The Struggle of Papanui</q> </title>
+                <author> Anon. (Crosbie Ward) </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Lyttelton Times </publisher>
+                <pubPlace> Lyttelton </pubPlace>
+                <date> 1856 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Anon.  <q>Provincial Parodies. (No 2) The Struggle of Papanui.</q> <hi rend="italic">Lyttelton Times</hi>, 5 November 1856, p. 3. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> At Christchurch,<note> Christchurch. The main settlement in the Canterbury region, situated approximately five kilometres from the area known as Papanui Bush, one of the only areas of forest in the vicinity. </note> at the dawn of day, </l>
+               <l> All mudless stood the unloaded dray;<note> Unloaded dray. Bullock (ox) wagons were used to haul timber from Papanui to Christchurch, and the forest was largely destroyed by 1857. </note> </l>
+               <l> And in the stockyard, near it, lay </l>
+               <l> Eight bullocks, waiting patiently. </l>
+           </lg>
+           <lg>
+               <l> The driver thought it not so nice, </l>
+               <l> That afternoon, when clocks struck twice, </l>
+               <l> Plunging in swamps<note> Plunging in swamps. The area at this time “consisted chiefly of an almost impassable swamp, practically bottomless, for the purposes of the teamster” (Cyclopedia of New Zealand, 1903). </note> and mud-stained ice, </l>
+               <l> The deepness of the axle-tree. </l>
+           </lg>
+           <lg>
+               <l> In slush and quagmire fast as nails </l>
+               <l> The oxen wag their muddy tails; </l>
+               <l> But furious still the driver flails </l>
+               <l> And double-thongs<note> Double-thongs. To whip the bullocks with a whip made of two plaited strands of leather. </note> unceasingly. </l>
+           </lg>
+           <lg>
+               <l> Then plunge the steers to anger driven, </l>
+               <l> Then cracks the pole with plunges riven; </l>
+               <l> And, louder than these noises even, </l>
+               <l> Loud cracks the whip discordantly. </l>
+           </lg>
+           <lg>
+               <l> But heavier yet that whip must drop </l>
+               <l> On mud-stuck oxen, neck and crop; </l>
+               <l> And longer yet that dray must stop, </l>
+               <l> Imbedded to its axle-tree. </l>
+           </lg>
+           <lg>
+               <l> ‘Tis road;<note> Road. The road to Papanui was one of the first to be built beyond the boundaries of Christchurch but was not paved until 1857. </note> but scarce the sharpest one </l>
+               <l> Can see the work that once was done, </l>
+               <l> Where drains across the causeway run, </l>
+               <l> Mixed to a thin consistency. </l>
+           </lg>
+           <lg>
+               <l> The quagmire thickens; on ye pack! </l>
+               <l> Through slimy swamps and spongy track. </l>
+               <l> Crack, driver, all thy whipcord crack, </l>
+               <l> And shout with all thy ribaldry.<note> Ribaldry. Bullock drivers were infamous for the coarse language they directed towards their animals. </note> </l>
+           </lg>
+           <lg>
+               <l> Few, few will cart, such holes to meet! </l>
+               <l> Each swamp will lower the price of wheat; </l>
+               <l> And every road be called a feat </l>
+               <l> Of Government perversity. </l>
+           </lg>
+       </body>
+   </text>
+</TEI>
