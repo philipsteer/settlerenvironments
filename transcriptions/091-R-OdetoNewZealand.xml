@@ -1,0 +1,128 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>Ode to New Zealand. A Growl in a Sou’-Wester</q> </title>
+                <author> <q>R.</q> J. T. Rouse </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Lyttelton Times </publisher>
+                <pubPlace> Lyttelton </pubPlace>
+                <date> 1860 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>R.</q> <q>Ode to New Zealand. A Growl in a Sou’-Wester.</q> <hi rend="italic">Lyttelton Times</hi>, 11 July 1860, p. 2. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Eden of the Southern Sea, </l>
+               <l> I devote my lay to thee! </l>
+               <l> Thee, of whom at home they tell </l>
+               <l> Things to make the bosom swell! </l>
+               <l> Thee, of whom in Crosby square<note> Crosby Square. The London location of Arthur Willis, Gann and Company, shipping merchants established in 1843 to send emigrants to New Zealand. Willis was founding director of the colonising New Zealand Company. </note> </l>
+               <l> Loud laudations shake the air: </l>
+               <l> (Disbelieve what mortal can </l>
+               <l> The seductive tongue of Gann?)<note> Gann. Amos J. Gann, of Arthur Willis, Gann and Company, was author of <hi rend="italic">The New Zealand Emigration Circular for 1852</hi>. </note> </l>
+               <l> So that men have christened thee, </l>
+               <l> Eden of the Southern Sea. </l>
+           </lg>
+           <lg>
+               <l> Thee whom, praised by magic lyre </l>
+               <l> Of Hursthouse,<note> Hursthouse. Charles Flinders Hursthouse, author of the pro-emigration work, <hi rend="italic">New Zealand, or Zealandia, the Britain of the South</hi> (2 vols., 1857). </note> men unseen admire! </l>
+               <l> Land of plains and grassy swells </l>
+               <l> Where the gentle Maori dwells, </l>
+               <l> Equal, save in copper face, </l>
+               <l> With the European race. </l>
+               <l> Strong in love, in council grave, </l>
+               <l> Christian, chivalrous and brave. </l>
+               <l> These are things they tell of thee, </l>
+               <l> Eden of the Southern Sea. </l>
+           </lg>
+           <lg>
+               <l> Where the bee, on drooping wing, </l>
+               <l> Laden with the spoils of spring, </l>
+               <l> Lays up so profuse a store </l>
+               <l> Suffices all, and something more: </l>
+               <l> Where the breezes soft and free </l>
+               <l> Rival those of Italy: </l>
+               <l> Where the lovely ka-ka<note> Ka-ka. The kākā is a large forest parrot with a harsh cry. </note> screeches </l>
+               <l> And the pigs are fed on peaches! </l>
+               <l> What on earth compares with thee, </l>
+               <l> Eden of the Southern Sea? </l>
+           </lg>
+           <lg>
+               <l> Where the wide extended plain </l>
+               <l> Waves with fields of golden grain: </l>
+               <l> Where the shepherd ‘midst his sheep </l>
+               <l> Beneath the stars, fears not to sleep </l>
+               <l> Where the Zephyrs from the hills </l>
+               <l> Are med’cine for all human ills: </l>
+               <l> Where contentment reigns around </l>
+               <l> And no <sic>murmurer’s</sic> to be found: </l>
+               <l> This and more, they say of thee, </l>
+               <l> Eden of the Southern Sea. </l>
+           </lg>
+           <lg>
+               <l> But ‘tis sad, though very clear </l>
+               <l> That we’re fated now to hear, </l>
+               <l> Landed on thy far famed shore, </l>
+               <l> Things we heard not named before! </l>
+               <l> Settlers arming for their lives,<note> Settlers arming for their lives. War between settlers and Māori in the Taranaki region of the North Island first broke out in March 1860. </note> </l>
+               <l> And their little ones and wives </l>
+               <l> Forced to fly, or stay and be </l>
+               <l> <q>Chawed up catawampously!</q><note> Chawed up catawampously. An idiom from the United States, meaning to be completely defeated, which circulated throughout the British Empire in the mid-nineteenth century. </note> </l>
+               <l> We were not told this of thee, </l>
+               <l> Eden of the Southern Sea! </l>
+           </lg>
+           <lg>
+               <l> Land where men with brains of fog </l>
+               <l> Built a city in a bog!<note> City in a bog. The city of Christchurch in the Canterbury region, laid out in 1849, encompassed considerable areas of swampy ground. </note> </l>
+               <l> Land of rain, and storm, and flood! </l>
+               <l> Land of water, wind and mud! </l>
+               <l> Where six days a week, the gale, </l>
+               <l> Laden thick with rain or hail, </l>
+               <l> First from Sou’-West blows<note> Sou’-West blows. The south-westerly is one of the two prevailing winds of the Canterbury region. </note> a piercer, </l>
+               <l> Then veers Nor’-West<note> Nor’-West. The north-westerly is one of the two prevailing winds of the Canterbury region. </note> and blows fiercer! </l>
+               <l> This is what I think of thee, </l>
+               <l> Eden of the Southern Sea. </l>
+           </lg>
+           <lg>
+               <l> Land where all is dear and bad, </l>
+               <l> Comfort scarcely to be had: </l>
+               <l> Wooden house, with shingle roof </l>
+               <l> Neither wind nor waterproof; </l>
+               <l> And the mutton and the beef </l>
+               <l> Fit to cause a Briton grief: </l>
+               <l> And of all things the most dear </l>
+               <l> (As to price) a glass of beer! </l>
+               <l> Oh! I'm sadly sold in thee, </l>
+               <l> Eden of the Southern Sea! </l>
+           </lg>
+           <lg>
+               <l> But I have ‘located’ here; </l>
+               <l> No alternative, I fear, </l>
+               <l> But to make the best of thee, </l>
+               <l> Only longing to be free: </l>
+               <l> Patiently to bear thy clime </l>
+               <l> And anticipate the time </l>
+               <l> When, my transportation o’er, </l>
+               <l> I shall seek some genial shore; </l>
+               <l> Never to return to thee, </l>
+               <l> Eden of the Southern Sea! </l>
+           </lg>
+           <p> R.<note> R. J. T. Rouse arrived in Canterbury in January 1860, aboard one of the ships chartered by Arthur Willis, Gann and Company. </note> </p>
+       </body>
+   </text>
+</TEI>
