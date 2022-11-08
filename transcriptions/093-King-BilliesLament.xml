@@ -1,0 +1,80 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>Billie’s Lament</q> </title>
+                <author> H. B. King </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Pahiatua Herald </publisher>
+                <pubPlace> Pahiatua </pubPlace>
+                <date> 1897 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> H. B. King.  <q>Billie’s Lament.</q> <hi rend="italic">Pahiatua Herald</hi>, 10 November 1897, p. 4. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> His neighbours used to call him Mr Sentimental Bill, </l>
+               <l> And if he hadn’t come this way he might have been so still. </l>
+               <l> He often wrote inspiring odes about the moon and stars, </l>
+               <l> And wondered what the girls were like within the realms of Mars. </l>
+           </lg>
+           <lg>
+               <l> But weary years of farming on a papa<note> Papa. The Māori term for earth, adopted by settlers to describe a soft mudstone that is prone to landslides when exposed to water. </note> slipping farm, </l>
+               <l> Robbed Billy of his sentiment and poetry of its charm; </l>
+               <l> And now the only songs he sings refer to flood and rain, </l>
+               <l> That wash the cobwebs from the fence, but not from Billie’s brain. </l>
+           </lg>
+           <lg>
+               <l> Now sliding landscapes every week on which your money’s spent, </l>
+               <l> Don’t help a chap to write a poem about the firmament; </l>
+               <l> But rather tend to make him swear about the things of earth, </l>
+               <l> And reckon up in solid prose the price the land is worth. </l>
+           </lg>
+           <lg>
+               <l> A game of bowls is very nice in some select saloon, </l>
+               <l> But when the land begins to bowl it alters all the tune; </l>
+               <l> And when the bowls are knocked about in shape of fencing posts, </l>
+               <l> One cannot be poetical about their vanished ghosts. </l>
+           </lg>
+           <lg>
+               <l> Oh where’s the fence that Billy built? And echo answers where? </l>
+               <l> One part is dangling gracefully, a-swinging in the air; </l>
+               <l> And some far down a gully in a torture-twisted lump, </l>
+               <l> And some a Chinese puzzle fraternising with a stump. </l>
+           </lg>
+           <lg>
+               <l> Can Billy feel inspired in relation to his flocks </l>
+               <l> When <sic>rinking</sic> cows are skating like the devil down the rocks? </l>
+               <l> Or sing about the roses and the blossom and the bud, </l>
+               <l> When he’s sniffing at the corpses that are rolling in the mud? </l>
+           </lg>
+           <lg>
+               <l> Bill gazed upon the wreckage with an idiotic smile, </l>
+               <l> And used some further language all about the Forty-Mile;<note> Forty-Mile. The Forty Mile Bush/Te Tapere-nui-ā-Whātonga was an area of dense forest in the northern Wairarapa region of the North Island. It was deforested during the 1870s and 1880s in large part by Scandinavian settlers brought to New Zealand by assisted migration schemes. </note> </l>
+               <l> And then he mentioned something that related to a bog, </l>
+               <l> And heaved a lump of papa rock at Jack, his shepherd dog. </l>
+           </lg>
+           <lg>
+               <l> A constant repetition of these interesting views </l>
+               <l> Are sliding panoramas that are redolent of blues; </l>
+               <l> Concluding with a company of princes and of kings, </l>
+               <l> Who on the darkest day behold the “Sunnyside” of things. </l>
+           </lg>
+                <p> H. B. KING. </p>
+       </body>
+   </text>
+</TEI>
