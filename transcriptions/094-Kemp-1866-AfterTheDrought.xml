@@ -1,0 +1,99 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>After The Drought</q> </title>
+                <author> R. E. Kemp </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> The Kiama Independent, and Shoalhaven Advertiser </publisher>
+                <pubPlace> Kiama </pubPlace>
+                <date> 1866 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> R. E. Kemp.  <q>After The Drought.</q> <hi rend="italic">The Kiama Independent, and Shoalhaven Advertiser</hi>, 8 February 1866, p. 4. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> "The crops<note> Crops. Kiama, in the colony of New South Wales, had been established by settlers as a centre of wheat farming. </note> are growing nicely, </l>
+               <l> The trees begin to bud, </l>
+               <l> The birds are singing sweetly </l>
+               <l> Throughout the leafy wood; </l>
+           </lg>
+           <lg>
+               <l> The grass is looking greener, </l>
+               <l> The cows are growing fat; </l>
+               <l> Much milk is in the dairy, </l>
+               <l> Much cheese is in the vat; </l>
+           </lg>
+           <lg>
+               <l> The brooks are gurgling onward </l>
+               <l> Along their pebbly beds, </l>
+               <l> While with refreshing fragrance </l>
+               <l> The flowers lift up their heads. </l>
+           </lg>
+           <lg>
+               <l> God, in his loving kindness, </l>
+               <l> Has sent us rain and showers; </l>
+               <l> And daily, thus, his blessings </l>
+               <l> On all mankind he pours. </l>
+           </lg>
+           <lg>
+               <l> My crops are saved, thank Heaven, </l>
+               <l> By this much-prayed-for rain; </l>
+               <l> I’ll thank my God sincerely </l>
+               <l> With heartfelt words and plain.” </l>
+           </lg>
+           <lg>
+               <l> Thus spoke a farmer one fine morn, </l>
+               <l> On looking o’er his fields. </l>
+               <l> O’erjoyed to see his growing crops, </l>
+               <l> With their bright golden yields. </l>
+           </lg>
+           <lg>
+               <l> With reason spoke the farmer thus, </l>
+               <l> He’d nearly lost his crop; </l>
+               <l> The parching drought<note> Drought. An editorial published in the <hi rend="italic">Kiama Independent</hi> on 26 October 1865 described <q>the anxiety caused by the long-continued and disastrous drought which has prevailed so long over the greater part of this territory</q> (p. 2). </note> had dried up </l>
+               <l> Of water—every drop. </l>
+           </lg>
+           <lg>
+               <l> The cattle died in numbers great </l>
+               <l> From want of the cool stream; </l>
+               <l> Where once luxuriant pasture grew </l>
+               <l> Did now a desert seem. </l>
+           </lg>
+           <lg>
+               <l> Thus wretchedly all passed their lives, </l>
+               <l> Enduring fearful pains; </l>
+               <l> No welcome cloud o’ercast the sky </l>
+               <l> To bring refreshing rains. </l>
+           </lg>
+           <lg>
+               <l> Now, will the Governor, thinking well, </l>
+               <l> To his associates say — </l>
+               <l> “We’ll order, for the good of all, </l>
+               <l> Humiliation Day.”<note> Humiliation Day. The Governor of New South Wales proclaimed 12 January 1866 as a colony-wide <q>day for general humiliation and rain,</q> to be marked by religious services and the closure of businesses (<hi rend="italic">Kiama Independent</hi>, 11 January 1866, p. 2). </note> </l>
+           </lg>
+           <lg>
+               <l> The day was kept throughout the land, </l>
+               <l> The rain came down in showers;<note> Rain came down in showers. Rain was reported to have fallen immediately following the Humiliation Day, followed later that month by <q>copious showers, causing the creeks to run, filling the water-holes, and making our pastures to smile upon us with their beautiful green garments</q> (<hi rend="italic">Kiama Independent</hi>, 1 February 1866, p. 3). </note> </l>
+               <l> And thus, in mercy to us all, </l>
+               <l> God on us blessings pours. </l>
+           </lg>                   
+                <p> Jan 12th, 1866. </p>
+                <p> R. E. KEMP </p>
+       </body>
+   </text>
+</TEI>
