@@ -1,0 +1,70 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>The Drought</q> </title>
+                <author> <q>Acastus</q> </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Illawarra Mercury </publisher>
+                <pubPlace> Illawarra </pubPlace>
+                <date> 1858 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>Acastus</q>  <q>The Drought.</q> <hi rend="italic">Illawarra Mercury</hi>, 4 March 1858, p. 1. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> The sun has rose, and, through the morning haze, </l>
+               <l> He fiercely shoots his penetrating rays; </l>
+               <l> The wind’s impetuous rush, with sultry breath, </l>
+               <l> From wastes where desolation reigns—and death; </l>
+               <l> The crackling fires<note> Fires. The <hi rend="italic">Illawarra Mercury</hi> reported on 22 February 1858 that areas of inland New South Wales had been <q>visited by bush fires</q> (p. 2). </note> sweep o’er the forest wide, </l>
+               <l> Illume the ravine, scale the mountain side, </l>
+               <l> And thund’ring down come many a gum and oak </l>
+               <l> That never felt the brawny axe-man’s stroke. </l>
+               <l> Anon—as if to mock the expectant eye— </l>
+               <l> The EMPTY clouds expand along the sky, </l>
+               <l> Still, by conflicting currents, deviously driven, </l>
+               <l> And dissipated in the wastes of Heaven. </l>
+               <l> The stream is failing<note> Stream is failing. The <hi rend="italic">Illawarra Mercury</hi> also reported on 22 February 1858 that <q>numerous creeks are entirely dry, and there is less water in the river than can be remembered at any former period by the oldest inhabitants</q> (p. 2). </note> at the fountain head, </l>
+               <l> And faintly ripples down its <sic>stoney</sic> bed; </l>
+               <l> And where the uncertain waters were wont to run, </l>
+               <l> The smooth, brown pebbles glow ‘neath the scorching sun; </l>
+               <l> The thirsty cattle seek the cooling brook, </l>
+               <l> But turn away, unslaked, with languid look; </l>
+               <l> The damps that fertilised the soil exhale, </l>
+               <l> And all its fructifying powers fail; </l>
+               <l> The fields have changed their gay, green summer gown </l>
+               <l> For an undress of shabby russet-brown; </l>
+               <l> The enchanting landscape, where the light and shade, </l>
+               <l> By turns, its varied beauties best displayed, </l>
+               <l> Though nurs’d and rear’d in Nature’s very arms, </l>
+               <l> Spreads out deflower’d and spoil’d of half its charms; </l>
+               <l> The tender clovers long have ceas’d to bloom </l>
+               <l> And load the balmy air with rich perfume; </l>
+               <l> No more the wild bee murmurs o’er the sod: </l>
+               <l> And Nature’s self would mar the works of GOD, </l>
+               <l> But, see! the Heavens put on a lurid look; </l>
+               <l> And hark! the earth is to its centre shook. </l>
+               <l> Flash crosses flash, and peal on peal is hurl’d— </l>
+               <l> So loud might be the ‘larm-bell of the world. </l>
+               <l> I haste! I fly! I seek the friendly roof. </l>
+               <l> The drought is past—<q>when Heaven shall show the proof.</q> </l>
+           </lg>                   
+                <p> Feb. 23, 1858. </p>
+       </body>
+   </text>
+</TEI>
