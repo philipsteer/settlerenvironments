@@ -1,0 +1,71 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>Drought and Rain</q> </title>
+                <author> J. S. W. </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Illawarra Mercury </publisher>
+                <pubPlace> Illawarra </pubPlace>
+                <date> 1875 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> J. S. W. <q>Drought and Rain.</q> <hi rend="italic">Illawarra Mercur</hi>, 5 March 1875, p. 4. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> The Summer came, and with it drought,<note> Drought. The <hi rend="italic">Illawarra Mercury</hi> reported on 8 January 1875 that <q>Drought and want of water are being experienced very much in this district at present,</q> with crops <q>scorched up in all directions</q> and water <q>scarcer in many parts of the district than has been known for years past</q> (p. 2). </note> </l>
+               <l> The wells were dry, the feed was gone, </l>
+               <l> Spring’s flowers and blossom promised fruit, </l>
+               <l> But moisture in the ground was none. </l>
+               <l> In vain the hungry cattle sought </l>
+               <l> For grass the empty paunch to fill, </l>
+               <l> The trifle found was good for nought </l>
+               <l> Week after week they languished still. </l>
+               <l> The harvest fields were thin and light, </l>
+               <l> Half empty heads the cereals waved, </l>
+               <l> The district round was cheerless sight, </l>
+               <l> Vainly had labor toiled and slaved. </l>
+               <l> At length by want and suffering tried, </l>
+               <l> Their power of durance sunk at last, </l>
+               <l> The cattle fell around and died, </l>
+               <l> They died of hunger’s pang and fast, </l>
+               <l> The astounded farmer views his flocks, </l>
+               <l> And cherished hope of harvest fled, </l>
+               <l> The drought at all his striving mocks, </l>
+               <l> His cattle like his hopes are dead,— </l>
+               <l> I’d give, said one, a hundred pounds </l>
+               <l> For half a day of teeming flood, </l>
+               <l> My gratitude would know no bounds, </l>
+               <l> Let’s pray to God, for God is good. </l>
+               <l> Oh! would to Heaven that rain might come, </l>
+               <l> Would <q>He</q> in mercy send us rain, </l>
+               <l> Thy will, Almighty, must be done. </l>
+               <l> ‘Twas thus they prayed, and not in vain, </l>
+               <l> For Heaven the floodgates opened wide, </l>
+               <l> The downpour came, the drought was gone.<note> Drought was gone. Several items in the <hi rend="italic">Illawarra Mercury</hi> in February 1875 reported the drought <q>broken up</q> by rainfall (2 Feb., p. 3; 19 Feb., p. 2). </note> </l>
+               <l> His thanks the farmer loudly cried, </l>
+               <l> They ended there, where they begun, </l>
+               <l> For man is grateful when he needs, </l>
+               <l> Ungrateful, too, when plenty reigns, </l>
+               <l> Profuse in promise, not in deeds, </l>
+               <l> And thankless though enough remains. </l>
+           </lg>
+                <p> J. S. W. </p>
+                <p> Wollongong, February, 1875. </p>
+       </body>
+   </text>
+</TEI>
