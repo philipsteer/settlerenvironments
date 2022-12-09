@@ -1,0 +1,112 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>The Fiend of the Forest Fire</q> </title>
+                <author> <q>Buckenboura</q> </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> The Braidwood Dispatch and Mining Journal </publisher>
+                <pubPlace> Braidwood </pubPlace>
+                <date> 1889 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> <q>Buckenboura.</q> <q>The Fiend of the Forest Fire.</q> <hi rend="italic">The Braidwood Dispatch and Mining Journal</hi>, 25 May 1889, p. 4. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand, Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Straight down from the heavens of brass, </l>
+               <l> In the glare and the gleam of its ray, </l>
+               <l> The sun seemed to scorch up the grass </l>
+               <l> And to wither the waters away; </l>
+               <l> Even back in the desolate hills </l>
+               <l> No sign of a moisture was left, </l>
+               <l> High mountains had weaned all the rills </l>
+               <l> Till gorges and glens were bereft; </l>
+           </lg>
+           <lg>
+               <l> Far back in the belt of the brush </l>
+               <l> Bold dingoes were drinking the blood </l>
+               <l> Of the cattle knocked down in the crush </l>
+               <l> For the hole that was miry with mud. </l>
+               <l> High smoke from the hills and the haze, </l>
+               <l> Of the heat in the hell of its glare, </l>
+               <l> Enveloped the sun till its rays </l>
+               <l> Looked red in the glass of the air. </l>
+           </lg>
+           <lg>
+               <l> Then famine and fever and worse </l>
+               <l> Soon ran in a riot abroad, </l>
+               <l> For a fiend came down like a curse </l>
+               <l> That was sent by the hand of the Lord. </l>
+               <l> Three days did the pall of a smoke </l>
+               <l> Drift forth in its darkness so dire, </l>
+               <l> Till the blaze o'er each barrier broke </l>
+               <l> To follow the fiend of the fire.<note> Fire. The <hi rend="italic">Braidwood Dispatch</hi> reported on 29 August 1888 that <q>The district in all directions is ablaze</q> (p. 1). </note> </l>
+           </lg>
+           <lg>
+               <l> From the far away rills of the north, </l>
+               <l> Right down to the range of the south, </l>
+               <l> This fiend in his fury sped forth </l>
+               <l> To finish the work of the drought. </l>
+               <l> With the roar of a volcanic flame </l>
+               <l> When the pot hissing lava is hurled, </l>
+               <l> Like a bolt from Gehenna<note> Gehenna. Hell, or the place of future torment. </note> it came, </l>
+               <l> To burn up a beautiful mould. </l>
+           </lg>
+           <lg>
+               <l> <sic>Deavouring</sic> with ravenous maw, </l>
+               <l> Borne on by a bellowing wind, </l>
+               <l> It flew in its fury before </l>
+               <l> And left only ashes behind, </l>
+               <l> Waxing great in its grip of the belt, </l>
+               <l> Of the brush and the scrub of the coast; </l>
+               <l> But the worst of its fury was felt </l>
+               <l> By far away farmers the most; </l>
+           </lg>
+           <lg>
+               <l> Where the stringy bark<note> Stringy bark. The bark of the eucalyptus, or gum tree. </note> tied on the hut, </l>
+               <l> (For such are the wilderness ways) </l>
+               <l> On the timber that had been cut </l>
+               <l> Was ready to burst into blaze. </l>
+               <l> There many a son of the soil, </l>
+               <l> With his wife and child had to fly, </l>
+               <l> While the whole of their many years’ toil </l>
+               <l> Went up with the smoke to the sky. </l>
+           </lg>
+           <lg>
+               <l> Thick ashes and smoke in the air </l>
+               <l> Made day seem as dark as the night, </l>
+               <l> And night was made day with the flare </l>
+               <l> Of the flame in its furious flight. </l>
+               <l> <q>Oh, God, send us speedily rain</q>  </l>
+               <l> All preachers in pulpits implore, </l>
+               <l> But the prayer of the people in vain </l>
+               <l> Was heard for a fortnight or more. </l>
+           </lg>
+           <lg>
+               <l> Then Pluvius<note> Pluvius. The sender of rain, a surname of Jupiter, to whom Romans offered sacrifices during times of drought. </note> harnessed his car </l>
+               <l> To the wings of a southerly gale, </l>
+               <l> And volleyed at Vulcan<note> Vulcan. The Roman god of fire. </note> afar, </l>
+               <l> Who hissed at the lash of his nail, </l>
+               <l> Till the demon that danced in the drought </l>
+               <l> Fell back at the fall of much rain, </l>
+               <l> And the fiend of the forest, starved out, </l>
+               <l> Slunk back into Hades<note> Hades. Hell, or the abode of the dead. </note> again. </l>
+           </lg>
+           <p> BUCKENBOURA.<note> Buckenboura. The penname invokes the local Parish of Buckenbowra. </note> </p>
+       </body>
+   </text>
+</TEI>
