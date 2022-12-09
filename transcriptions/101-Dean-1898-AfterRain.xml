@@ -1,0 +1,83 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>After Rain!</q> </title>
+                <author> W. H. Dean </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Molong Argus </publisher>
+                <pubPlace> Molong </pubPlace>
+                <date> 1898 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> W. H. Dean.  <q>After Rain!</q> <hi rend="italic">Molong Argus</hi>, 23 September 1898, p. 1. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand, Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Vanished has drought for again growing green </l>
+               <l> Is grass over the meadow and plain, </l>
+               <l> A glorious change in the weather has been, </l>
+               <l> Earth’s blessed with a downfall of rain.<note> Rain. The <hi rend="italic">Molong Argus</hi> reported on 19 August 1898 that <q>rainfall has been so abundant in most districts that the soil is now thoroughly saturated</q> (p. 4). These rains were a temporary break in the Federation Drought, which commenced in 1895 and peaked in 1901-2, and is regarded as one of the continent’s worst droughts. </note> </l>
+               <l> Rain! and no longer from pitiless skies </l>
+               <l> <sic>Hots</sic> suns upon thirsty crops blaze. </l>
+               <l> The beauteous scenes that now gladden the eyes </l>
+               <l> Are pointing to happier days. </l>
+           </lg>
+           <lg>
+               <l> Green are the cornfields, apace grows the wheat, </l>
+               <l> And daily farm <sic>laborers</sic> toil </l>
+               <l> In fields that soil have been parched with the heat, </l>
+               <l> And as they turn up the rich soil </l>
+               <l> Each shining mould board,<note> Mould board. A mouldboard plough buries existing vegetation and exposes topsoil. </note>  each sharpening share </l>
+               <l> Each time at the ends moving out </l>
+               <l> Reminds me from ploughing that every care </l>
+               <l> Has faded away with the drought. </l>
+           </lg>
+           <lg>
+               <l> To broad verdant flats, from the brow of each hill, </l>
+               <l> What joy does it bring unto him </l>
+               <l> Whose fattening cattle there wander at will </l>
+               <l> To waterholes full to the brim! </l>
+               <l> The tinkle of sheep bells he hears through the morn </l>
+               <l> From the paddocks where merry birds sing, </l>
+               <l> Those sheep of their fleeces in time will be shorn </l>
+               <l> And profit their owner will bring. </l>
+           </lg>
+           <lg>
+               <l> Vanished has care and bright days are ahead </l>
+               <l> Autumn’s <sic>labor</sic> will harvest repay, </l>
+               <l> The wheat will be carefully placed in the shed </l>
+               <l> And piled high will be the green hay. </l>
+               <l> When Summer is ended the silo and stack </l>
+               <l> The shivering cattle will need, </l>
+               <l> The sturdy farm horses attention will lack </l>
+               <l> And them will he stable and feed. </l>
+           </lg>
+           <lg>
+               <l> But all through the year he must ever depend </l>
+               <l> On rain from above for his crop, </l>
+               <l> And at times when it does not his labor [sic] attend </l>
+               <l> For weeks and months never a drop, </l>
+               <l> When beholds he at length every dam overflow </l>
+               <l> And fields looking verdant again, </l>
+               <l> Then only the light-hearted farmer can know </l>
+               <l> The joy on the farm after rain! </l>
+           </lg>
+                <p> W. H. DEAN. </p>
+           <p> <q>Melrose</q> Farm, Gregra.<note> Gregra. A small settlement in the vicinity of Molong, New South Wales, around 300 kilometres inland from Sydney. </note> </p>
+       </body>
+   </text>
+</TEI>
