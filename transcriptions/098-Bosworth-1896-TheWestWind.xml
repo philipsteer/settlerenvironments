@@ -1,0 +1,62 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>The West Wind</q> </title>
+                <author> Neville Bosworth </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Camden News </publisher>
+                <pubPlace> Camden </pubPlace>
+                <date> 1896 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Neville Bosworth.  <q>The West Wind.</q> <hi rend="italic">Camden News</hi>, 12 November 1896, p. 1. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand, Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> The end is beginning, ‘tis ruin at last! </l>
+               <l> In the teeth of the drought<note> Drought. The Federation Drought, which commenced in 1895 and peaked in 1901-2, affected most of eastern Australia and is regarded as one of the continent’s worst droughts. </note> comes the tongue of the blast! </l>
+               <l> The stress of the hailstorm were better than this, </l>
+               <l> The wash of the flood-waters a vision of bliss. </l>
+           </lg>
+           <lg>
+               <l> The wind that is born in the plains of the west </l>
+               <l> Is never a friend, but too often a guest; </l>
+               <l> ‘Twas the kiss of an iceberg when winter was here, </l>
+               <l> ‘Tis a taste of Gehenna<note> Gehenna. Hell, or the place of future torment. </note> when summer is near. </l>
+           </lg>
+           <lg>
+               <l> It howls o’er the valleys, this agent accurst, </l>
+               <l> The sport of an awful, unquenchable thirst; </l>
+               <l> It shaketh its mane, and the eucalyptus<note> Eucalyptus. Eucalyptus, or the gum tree, is a common forest tree throughout Australia. </note> moan, </l>
+               <l> It gathers its strength, and the deep gullies groan. </l>
+           </lg>
+           <lg>
+               <l> It breathes on the plant with its feverish breath, </l>
+               <l> And its tendrals [sic] relax in the tortures of death; </l>
+               <l> It bleaches the pastures, and blackens the grain, </l>
+               <l> And labour is foolish, and industry vain. </l>
+           </lg>
+           <lg>
+               <l> ‘Tis the blast of misfortune, the blight of despair, </l>
+               <l> The hot breath of anguish, the cold thrill of care; </l>
+               <l> It withers the heart, as it whitens the land, </l>
+               <l> And nothing in nature its thirst can withstand. </l>
+           </lg>
+               <p> NEVILLE BOSWORTH. </p>
+       </body>
+   </text>
+</TEI>
