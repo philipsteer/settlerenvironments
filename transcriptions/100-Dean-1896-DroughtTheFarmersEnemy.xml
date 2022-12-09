@@ -1,0 +1,74 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>Drought—The Farmer’s Enemy</q> </title>
+                <author> W. H. Dean </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Molong Argus </publisher>
+                <pubPlace> Molong </pubPlace>
+                <date> 1896 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> W. H. Dean.  <q>Drought—The Farmer’s Enemy.</q> <hi rend="italic">Molong Argus</hi>, 13 March 1896, p. 2. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand, Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> ‘Tis a pleasant time in the country when the song birds sweetly sing </l>
+               <l> From the topmost bough of every tree in the days of early Spring, </l>
+               <l> When the wild flowers bloom in the quiet lanes and the lamb and foal are seen </l>
+               <l> To bask and play in the sunshine, in the meadows broad and green. </l>
+           </lg>
+           <lg>
+               <l> ‘Tis a pleasant time when the Autumn comes and with gentle showers of rain, </l>
+               <l> Makes moist the land to enable man to carefully sow the grain; </l>
+               <l> And e’en in Winter’s cold there’s joy, when a plenteous year has fled, </l>
+               <l> And placed enough in the barn to once more supply him with daily bread. </l>
+           </lg>
+           <lg>
+               <l> But ‘tis sad when a drought<note> Drought. The Federation Drought, which commenced in 1895 and peaked in 1901-2, affected most of eastern Australia and is regarded as one of the continent’s worst droughts. </note> comes on the land, when every pond is dry, </l>
+               <l> When the farmer’s stock tread ridges bare, till one by one they die,<note> One by one they die. A correspondent for the <hi rend="italic">Molong Argus</hi> wrote on 7 February 1896 that <q>the season has been a disastrous one for both man and beast</q> (p. 5). </note> </l>
+               <l> When the sultry winds of summer blow for months o’er the parched land, </l>
+               <l> And slowly dying maize crops are to be seen on either hand. </l>
+           </lg>
+           <lg>
+               <l> No towering haystacks in the field are piled as in days of yore, </l>
+               <l> And the crops of wheat are lighter than ever was known before. </l>
+               <l> And no waving blades of grass can be seen as far as the naked eye </l>
+               <l> Can reach o’er the one time verdant lea toward the distant lower sky. </l>
+           </lg>
+           <lg>
+               <l> The orchard trees in the drought do not any fine ripe fruits supply, </l>
+               <l> For when green they fall to earth beneath where they brown and withered lie, </l>
+               <l> And many trees are dying now as they sway to and fro in the wind </l>
+               <l> A strange contrast to the seasons fair of years left far behind. </l>
+           </lg>
+           <lg>
+               <l> In vain the honest farmer looks for a cloudy sky at morn, </l>
+               <l> To see the rain beat round his home to revive the withering corn. </l>
+               <l> To overflow the dams, now dry, that the grass green and tall may grow, </l>
+               <l> So that the farm may appear as it did in summers long ago. </l>
+           </lg>
+           <lg>
+               <l> Thus the farmer’s toil has gone for nought, and though few slave as hard as he, </l>
+               <l> ‘Tis a well known truth he may only get one harvest good in three, </l>
+               <l> For he cannot tell when the land is tilled, though he carefully sows the grain, </l>
+               <l> When harvest time when it next comes will bring him loss or gain. </l>
+           </lg>
+                <p> W. H. DEAN </p>
+       </body>
+   </text>
+</TEI>
