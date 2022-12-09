@@ -1,0 +1,62 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>A Settler’s Sigh for Rain</q> </title>
+                <author> Anon </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Lachlander and Condobolin and Western Districts Recorder </publisher>
+                <pubPlace> Condobolin </pubPlace>
+                <date> 1899 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Anon.  <q>A Settler’s Sigh for Rain.</q> <hi rend="italic">Lachlander and Condobolin and Western Districts Recorder</hi>, 7 April 1899, p. 5. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand," Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> Nightly the sun retires to rest, </l>
+               <l> In crimson, gold and grey, </l>
+               <l> With sadness are our hearts oppressed, </l>
+               <l> God send the rain to-day. </l>
+           </lg>
+           <lg>
+               <l> The drought fiend<note> Drought fiend. The Federation Drought, which commenced in 1895 and peaked in 1901-2, affected most of eastern Australia and is regarded as one of the continent’s worst droughts. </note> stalks upon the land, </l>
+               <l> Holds desolation’s sway, </l>
+               <l> The showers we have are only sand, </l>
+               <l> God send the rain to-day. </l>
+           </lg>
+           <lg>
+               <l> The waters dried,<note> Waters dried. The Lachlan River, which flows near the town of Condobolin, is part of the Murray-Darling basin that was severely affected by the Federation Drought. </note> the earth is bare, </l>
+               <l> There’s nothing can repay; </l>
+               <l> The stock are dying<note> Stock … dying. Australia’s sheep and cattle numbers were reduced by 40-50% by the end of the Federation Drought. </note> everywhere, </l>
+               <l> God send the rain to-day. </l>
+           </lg>
+           <lg>
+               <l> All nature languishes in pain, </l>
+               <l> Without one cheering ray, </l>
+               <l> Oh! When will verdure come again? </l>
+               <l> God send the rain to-day. </l>
+           </lg>
+           <lg>
+               <l> All our hopes are fixed on Thee; </l>
+               <l> Oh hear us while we pray, </l>
+               <l> Before thee now on bended knee </l>
+               <l> God send the rain to-day. </l>
+           </lg>
+               <p> —Contributed. </p>
+       </body>                 
+   </text>
+</TEI>
