@@ -1,0 +1,98 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> <q>Drought</q> </title>
+                <author> Philip D. Lorimer </author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Transcribed and edited by Leon Prenter and Philip Steer </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> The Scrutineer and Berrima District Press </publisher>
+                <pubPlace> Moss Vale </pubPlace>
+                <date> 1895 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl> Philip D. Lorimer.  <q>Drought.</q> <hi rend="italic">The Scrutineer and Berrima District Press</hi>, 26 October 1895, p. 2. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Transcribed and encoded as part of Settler Literature and Environmental Change in Australia and New Zealand, Marsden Fund Standard Grant 19-MAU-022 (Te Apārangi Royal Society of New Zealand). </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+   
+   <text>
+       <body>
+           <lg>
+               <l> There is a shade, neath tufts and withered grass, </l>
+               <l> Where mounds are built by ants<note> Mounds … ants. The Australian meat ant (<hi rend="italic">Iridomyrmex purpureus</hi>), also known as the gravel ant, builds large underground nests covered by aboveground dirt mounds. </note> in crumbling bough </l>
+               <l> The winds cool o’er the loosened fragrant mass </l>
+               <l> Of leaves decayed in heaps, all shapeless now. </l>
+           </lg>
+           <lg>
+               <l> Aloft the sun hangs in its brazen dome, </l>
+               <l> Unloved—a hell its scorching heat, </l>
+               <l> Life turns not now, from shade or sheltered home </l>
+               <l> <sic>It’s</sic> resting mind, or weary anxious feet. </l>
+           </lg>
+           <lg>
+               <l> The leaf is stirred with lizard’s hurried bound </l>
+               <l> At fly, or insect course, or locust’s wing, </l>
+               <l> The bird sings not <corr>its</corr> sweet familiar sound </l>
+               <l> That folded love, in noonday hours in spring. </l>
+           </lg>
+           <lg>
+               <l> The plains are bare, and bones are bleached that seem </l>
+               <l> Like distant tombs, where grass has never grown </l>
+               <l> The whirlwind’s dust o’erspread light’s molten stream </l>
+               <l> That falls on earth, bewild’ring mind and bone. </l>
+           </lg>
+           <lg>
+               <l> The fagged-out<note> Fagged-out. Exhausted from exertion. </note> horse, and famished <corr>bullock's</corr> frame </l>
+               <l> Die in the bog, or water’s edge unknown, </l>
+               <l> Man’s friends alas, that once ruled him and name </l>
+               <l> Now perish there, through want, unthanked, alone. </l>
+           </lg>
+           <lg>
+               <l> Where rise the tangled roots of fallen tree, </l>
+               <l> A black snake<note> Black snake. Likely the common black snake (<hi rend="italic">Pseudechis porphyriacus</hi>), also known as the red-bellied snake, which is found in swampy, moist areas throughout eastern Australia, and grows to an average length of 1.25 metres. </note> glides half buried in the sand </l>
+               <l> <sic>It’s</sic> eyes are dimmed, and scarcely can it see </l>
+               <l> The light that withers now the once green land. </l>
+           </lg>
+           <lg>
+               <l> It moves and coils, and hugs the welcome shade </l>
+               <l> Unwelcomed, loathed, and dreaded most of all </l>
+               <l> Recoils from it, all life that is dismayed, </l>
+               <l> With <corr>drought’s</corr><note> Drought. The Federation Drought, which commenced in 1895 and peaked in 1901-2, affected most of eastern Australia and is regarded as one of the continent’s worst droughts. </note> despair, for droughts more welcome fall. </l>
+           </lg>
+           <lg>
+               <l> So lies it there, full length upon the soil </l>
+               <l> With nature’s frown on its forsaken lot </l>
+               <l> This hour, when light has homed the sons of toil, </l>
+               <l> And left the scourge of heat, a thing forgot. </l>
+           </lg>
+           <lg>
+               <l> No water runs in river, creek, or brook </l>
+               <l> The wells and springs, and tanks<note> Tanks. Artificial reservoirs, created to hold water for livestock. </note> are almost dry, </l>
+               <l> While clouds recede from ev’ry 'seeching look </l>
+               <l> From prayer for rain up turned to rainless sky. </l>
+           </lg>
+           <lg>
+               <l> In vain the words ascend, 'tis High Decree </l>
+               <l> That <sic>heed's</sic> not now, the tearful cry of need, </l>
+               <l> The Bounteous Hand is closed o’er troubling knee, </l>
+               <l> And death must reign, where none can intercede. </l>
+           </lg>
+           <lg>
+               <l> And scenes like this in Austral’s summer fill </l>
+               <l> The bush man’s<note> Bush man. A farmer or agricultural labourer in the rural Australian “bush” or countryside. </note> life with strange half madd’ning fears </l>
+               <l> That, though he rules his own, he has no will </l>
+               <l> But loss sustain, when ruthless death-appears. </l>
+           </lg>
+           <p> PHILIP D. LORIMER.<note> Philip D. Lorimer. Philip Durham Lorimer, known as the <q>Bush Poet</q> or <q>Old Phil the Poet,</q> was an itinerant agricultural labourer and poet who travelled extensively across the east coast of Australia from the early 1880s onwards. </note> </p>
+       </body>
+   </text>
+</TEI>
